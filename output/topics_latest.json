@@ -1,0 +1,380 @@
+{
+  "date": "2026-08-17",
+  "market_summary": {
+    "cn": "中国7月零售及工业数据不及预期，央行汇率中间价维持稳健，市场密切关注进一步刺激政策。",
+    "kr": "美元兑韩元在1,410韩元关口震荡盘整，央行点阵图离群值引发加息争议，国债收益率面临上行压力。",
+    "global": "美联储加息预期降温致美指承压，但中东地狱级局势恶化推动原油及黄金大涨，美债30年收益率创2007年新高。"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "importance": 10,
+      "market": "全球",
+      "event": "美伊停火协议到期且未能续签，原油WTI突破84美元，中东局势骤然升级",
+      "source_titles": [
+        "WTI flatlines near $84.00 as Trump rejects truce extension",
+        "US President Donald Trump says not seeking extension of Iran MOU",
+        "[뉴욕유가] UAE 유조선 억류·종전 MOU 만료…WTI 2.55%↑"
+      ],
+      "angles": [
+        {
+          "angle": "地缘政治避险与能源暴涨双击下的原油交易逻辑",
+          "hook": "美伊协议谈判破裂，WTI一夜暴涨2.5%！原油空头会被挤爆吗？",
+          "core_message": "停火协议失效叠加中东运油要道风险增加，供给端冲击取代宏观需求成为原油短期核心主导因素。",
+          "trading_opportunity": "关注WTI突破84.50后的顺势做多机会，或利用灵活杠杆做空高β能源股对冲风险。",
+          "best_platforms": [
+            "douyin",
+            "youtube",
+            "zhihu"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "高曝光（地缘热点）",
+          "compliance_notes": "提示大宗商品波动剧烈，需严格设置止损，切勿使用保本或稳赚字眼。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://www.fxstreet.com/news/wti-flatlines-near-8400-as-trump-rejects-truce-extension-202608180029",
+        "https://www.fxstreet.com/news/us-president-donald-trump-says-not-seeking-extension-of-iran-mou-202608172340",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4430431"
+      ]
+    },
+    {
+      "id": 2,
+      "importance": 9,
+      "market": "全球",
+      "event": "现货黄金受地缘避险与美联储降息预期双重提振，冲破4400美元关口直指4500美元",
+      "source_titles": [
+        "Gold gains momentum above $4,400 as softer US data dampens Fed hike odds",
+        "[뉴욕 금가격] 4,500달러 향해 랠리 재개…0.7%↑",
+        "A crushed US Dollar sends Gold into a rally above $4,400"
+      ],
+      "angles": [
+        {
+          "angle": "黄金历史性突破4400美元后的技术与基本面驱动因素",
+          "hook": "金价狂飙破4400美元！现在追高还是等回调？散户解盘攻略",
+          "core_message": "美元指数走软结合中东避险需求，黄金呈现典型多头趋势，长线资金逢低买入意愿强烈。",
+          "trading_opportunity": "突破4400后寻4380附近回踩确认支撑位，布局黄金CFD短线多单。",
+          "best_platforms": [
+            "zhihu",
+            "douyin",
+            "instagram"
+          ],
+          "content_type": "短视频",
+          "estimated_reach": "极高（散户最关注品种）",
+          "compliance_notes": "禁用保本避险等绝对化描述，强调市场波动风险并引导注册体验账户模拟练习。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://www.fxstreet.com/news/gold-gains-momentum-above-4-400-as-softer-us-data-dampens-fed-hike-odds-202608172327",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4430426",
+        "https://www.fxstreet.com/news/a-crushed-us-dollar-sends-gold-into-a-rally-above-4-400-202608171826"
+      ]
+    },
+    {
+      "id": 3,
+      "importance": 9,
+      "market": "中国",
+      "event": "中国7月经济数据（零售、工业增加值）不及预期，央行人民币中间价定在6.7905",
+      "source_titles": [
+        "PBOC sets USD/CNY reference rate at 6.7905 vs. 6.7873 previous",
+        "China retail sales disappoint in July, industrial output slows while new home prices extend declines",
+        "China: Growth risks and stimulus watch – TD Securities"
+      ],
+      "angles": [
+        {
+          "angle": "中国经济数据出炉与离岸人民币（CNH）波幅管理策略",
+          "hook": "7月消费数据放缓，央行调降中间价，离岸人民币如何布局？",
+          "core_message": "基本面承压但政策托底意图明显，人民币汇率短期呈区间震荡，对澳元、纽元等商品货币形成外溢效应。",
+          "trading_opportunity": "关注USD/CNH在上方关键阻力位的假突破做空机会，或联动做空NZD/USD。",
+          "best_platforms": [
+            "zhihu",
+            "xueqiu"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "中高（华人散户关注）",
+          "compliance_notes": "涉及政策分析需客观中立，避免过度解读政治信号。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67905-vs-67873-previous-202608180115",
+        "https://investinglive.com/news/china-retail-sales-disappoint-in-july-industrial-output-slows-while-new-home-prices-extend-declines/",
+        "https://www.fxstreet.com/news/china-growth-risks-and-stimulus-watch-td-securities-202608172058"
+      ]
+    },
+    {
+      "id": 4,
+      "importance": 8,
+      "market": "韩国",
+      "event": "美元兑韩元在1,410关口筑底盘整，韩国央行点阵图离群值3.25%引发终点利率争论",
+      "source_titles": [
+        "[신윤우의 외환분석] 레벨을 굳히는 시간",
+        "[곽세연의 프리즘] 3.25% 누가 찍었나…'표준편차'와 '아웃라이어'"
+      ],
+      "angles": [
+        {
+          "angle": "美元/韩元1410关口的双向风险与BOK鹰派隐忧",
+          "hook": "달러-원 1,410원대 고착화? 금통위 점도표 속 '3.25%' 아웃라이어의 경고",
+          "core_message": "美降息预期与中东油价风险交织，韩元受制于进口能源成本；BOK内部鹰派声音暗示货币政策可能保持偏紧。",
+          "trading_opportunity": "利用USD/KRW在1,405-1,418区间进行网格或区间套利交易。",
+          "best_platforms": [
+            "naver_blog",
+            "youtube",
+            "telegram"
+          ],
+          "content_type": "图文",
+          "estimated_reach": "高（韩国本土交易者）",
+          "compliance_notes": "遵守韩国金融投资法规定，禁止承诺收益，提示杠杆交易风险。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4430483",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4430440"
+      ]
+    },
+    {
+      "id": 5,
+      "importance": 8,
+      "market": "全球",
+      "event": "美国零售数据平淡导致美联储加息预期消退，美元指数回落至两个月低点",
+      "source_titles": [
+        "Dollar slips on pared Fed rate hike bets, but losses capped by rising oil prices",
+        "Forex Today: US Dollar sags to two-month lows as Middle East risk lifts Oil and Gold"
+      ],
+      "angles": [
+        {
+          "angle": "弱美元周期下的主要非美货币表现分化与交叉盘机会",
+          "hook": "美元指数跌破关键均线，非美货币暴涨逻辑拆解",
+          "core_message": "美国经济放缓减弱美联储鹰派理由，美元承压下跌，但油价上涨提振通胀预期限制了美元下跌空间。",
+          "trading_opportunity": "关注DXY跌破200日均线后的趋势性做空机会，重点选择强货币如英镑做多。",
+          "best_platforms": [
+            "douyin",
+            "zhihu"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "中高",
+          "compliance_notes": "引导用户使用灵活杠杆工具控制风险，不得提示高杠杆爆仓诱导。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://www.investing.com/news/forex-news/asia-fx-ticks-up-on-reduced-fed-hike-bets-yen-gains-despite-weak-japan-gdp-4862111",
+        "https://www.fxstreet.com/news/forex-today-us-dollar-sags-to-two-month-lows-as-middle-east-risk-lifts-oil-and-gold-202608172022"
+      ]
+    },
+    {
+      "id": 6,
+      "importance": 8,
+      "market": "全球",
+      "event": "美债30年期收益率创2007年以来新高，股市、债市、美元出现“三杀”弱势",
+      "source_titles": [
+        "[뉴욕채권] 베어 스팁…유가 급등 속 30년물 금리 2007년 이후 최고",
+        "[뉴욕마켓워치] 안 멈추는 장기금리…주식·채권·달러 이틀째 '트리플 약세'",
+        "US Treasury yields surge as 30-year hits 2007 high"
+      ],
+      "angles": [
+        {
+          "angle": "美债长端收益率飙升与熊市陡峭化（Bear Steepening）对全球资产的影响",
+          "hook": "30年美债收益率狂飙至2007年新高！“三杀”再现，美股要崩盘吗？",
+          "core_message": "通胀预期再起叠加财政发债压力，长端国债抛压沉重，收益率曲线陡峭化对高估值科技股构成压制。",
+          "trading_opportunity": "通过CFD做空道琼斯指数或做空美债期货，对冲股票现货持仓。",
+          "best_platforms": [
+            "zhihu",
+            "youtube"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "中高（资深交易者）",
+          "compliance_notes": "客观分析美债收益率逻辑，严禁给出明确股票买卖推荐。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4430428",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4430443",
+        "https://www.fxstreet.com/news/us-treasury-yields-surge-as-30-year-hits-2007-high-202608172045"
+      ]
+    },
+    {
+      "id": 7,
+      "importance": 7,
+      "market": "全球",
+      "event": "加拿大7月CPI达到3.0%超预期，美加（USD/CAD）逼近200日均线支撑位",
+      "source_titles": [
+        "Canada July CPI 3.0% y/y vs +2.9% expected",
+        "Canadian Dollar holds near early June high as rising oil prices offset modest USD strength"
+      ],
+      "angles": [
+        {
+          "angle": "加拿大通胀反弹叠加油价飙升，加元（CAD）异动交易机会",
+          "hook": "通胀加剧+原油大涨！加元迎来双重强力支撑，USD/CAD会破位吗？",
+          "core_message": "通胀高于预期降低了加央行连续降息的概率，同时油价大涨利好商品货币加元。",
+          "trading_opportunity": "USD/CAD测试1.3845（200日均线）支撑位，若跌破可顺势做空做大破位行情。",
+          "best_platforms": [
+            "douyin",
+            "instagram"
+          ],
+          "content_type": "短视频",
+          "estimated_reach": "中等（外汇交叉盘关注者）",
+          "compliance_notes": "开户表达统一替换为注册体验账户，存入资金代替入金。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/canada-july-cpi-3-0-y-y-vs-2-9-expected/",
+        "https://www.fxstreet.com/news/canadian-dollar-holds-near-early-june-high-as-rising-oil-prices-offset-modest-usd-strength-202608180155"
+      ]
+    },
+    {
+      "id": 8,
+      "importance": 7,
+      "market": "全球",
+      "event": "美元兑日元维持在159.50高位震荡，软弱的日元遭受进口能源账单压制",
+      "source_titles": [
+        "The Japanese Yen is losing to its own import bill",
+        "Japanese Yen muted on a soft US Dollar note"
+      ],
+      "angles": [
+        {
+          "angle": "尽管美元走弱，日元为何仍难以反弹？原油暴涨对日元的致命伤",
+          "hook": "美元都跌了，日元怎么还在159.50？进口能源成本撕开日元伤口",
+          "core_message": "日本对进口油气的高依赖度意味着油价飙升恶化贸易账，抵消了美日利差收窄对日元的提振。",
+          "trading_opportunity": "关注USD/JPY在160.00关口阻力，结合干预预期布局高空低多网格。",
+          "best_platforms": [
+            "zhihu",
+            "youtube"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "高（日元交投活跃）",
+          "compliance_notes": "提示日元干预风险及剧烈波动下存入资金的风险管理。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://www.fxstreet.com/news/the-japanese-yen-is-losing-to-its-own-import-bill-202608172238",
+        "https://www.fxstreet.com/news/japanese-yen-muted-on-a-soft-us-dollar-note-202608172001"
+      ]
+    },
+    {
+      "id": 9,
+      "importance": 7,
+      "market": "全球",
+      "event": "英镑兑美元突破1.3550创三个月新高后迅速回落，关注英国就业数据",
+      "source_titles": [
+        "British Pound gathers strength to near 1.3550 as Fed hike bets fade, UK jobs data loom",
+        "British Pound Sterling did not earn its three-month high"
+      ],
+      "angles": [
+        {
+          "angle": "假突破还是真蓄势？英镑1.3550冲高回落的技术面拆解",
+          "hook": "英镑冲上3个月新高秒回落！是诱多陷阱还是数据前的大洗盘？",
+          "core_message": "英镑大涨更多来自于美元弱势而非本身强劲，即将公布的英国就业数据将决定其能否站稳1.3550。",
+          "trading_opportunity": "数据公布前观望，若重回1.3550上方并确认支撑，可轻仓跟进做多英镑。",
+          "best_platforms": [
+            "douyin",
+            "xueqiu"
+          ],
+          "content_type": "图文",
+          "estimated_reach": "中等",
+          "compliance_notes": "强调数据公布期间滑点风险，提示合理配置仓位。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://www.fxstreet.com/news/british-pound-gathers-strength-to-near-13550-as-fed-hike-bets-fade-uk-jobs-data-loom-202608180127",
+        "https://www.fxstreet.com/news/british-pound-sterling-did-not-earn-its-three-month-high-202608172217"
+      ]
+    },
+    {
+      "id": 10,
+      "importance": 7,
+      "market": "全球",
+      "event": "澳元上扬突破0.7110，纽元因中国经济数据放缓受压下行，商品货币出现分化",
+      "source_titles": [
+        "Australian Dollar gains as US Dollar struggles amid fading Fed rate hike bets",
+        "New Zealand Dollar edges lower below 0.5900 as China’s economy slows in July"
+      ],
+      "angles": [
+        {
+          "angle": "同为中国贸易影子货币，澳元（AUD）与纽元（NZD）走势为何分化？",
+          "hook": "澳元飞天，纽元遁地！套利交易者如何玩转AUD/NZD交叉盘？",
+          "core_message": "澳洲联储政策姿态相对偏鹰且受金价提振，而新西兰经济更容易受中国需求减弱冲击。",
+          "trading_opportunity": "做多AUD/NZD交叉盘，捕捉强弱分化行情中的风险对冲收益。",
+          "best_platforms": [
+            "zhihu",
+            "naver_blog"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "中等（进阶外汇交易者）",
+          "compliance_notes": "讲明交叉盘利差与波动特性，严禁使用“无风险对冲”等非法表述。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://www.fxstreet.com/news/australian-dollar-gains-as-us-dollar-struggles-amid-fading-fed-rate-hike-bets-202608180100",
+        "https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-below-05900-as-chinas-economy-slows-in-july-202608180226"
+      ]
+    },
+    {
+      "id": 11,
+      "importance": 6,
+      "market": "韩国",
+      "event": "韩国主动型ETF因相关系数低于0.7频繁面临退市，散户投资风险上升",
+      "source_titles": [
+        "[현장에서] 상관계수 0.7에 숨은 의미"
+      ],
+      "angles": [
+        {
+          "angle": "韩国ETF退市潮带来的教训：散户如何用指数CFD进行资产规避与替代",
+          "hook": "내가 산 액티브 ETF가 상장폐지? 상관계수 0.7의 덫과 대안 투자법",
+          "core_message": "主动型ETF偏离基准过大面临退市风险，交易者可利用流动性更高的全球指数CFD进行精确对冲。",
+          "trading_opportunity": "向韩国股票散户科普利用MC Prime平台交易全球三大股指CFD规避单只ETF退市风险。",
+          "best_platforms": [
+            "naver_blog",
+            "youtube"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "中等（韩国股市散户）",
+          "compliance_notes": "禁止承诺任何投资收益，仅做产品机制科普与风险对比。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4430456"
+      ]
+    },
+    {
+      "id": 12,
+      "importance": 6,
+      "market": "全球",
+      "event": "大型科技公司AI资本支出高达3万亿美元，白宫强化AI阵营对齐策略",
+      "source_titles": [
+        "investingLive Asia-Pacific market news: Oil steady, yen firms",
+        "United States: Washington hardens AI alignment strategy - Rabobank"
+      ],
+      "angles": [
+        {
+          "angle": "3万亿AI巨额烧钱潮下，美股科技巨头股价面临的估值考验",
+          "hook": "AI烧掉3万亿美元！科技巨头资本支出爆表，美股纳指还能挺多久？",
+          "core_message": "市场开始质疑巨额AI投资的ROI（回报率），高利率背景下巨头股价波动加剧。",
+          "trading_opportunity": "利用灵活杠杆在科技股财报季或重大AI政策发布前后做跨式期权思路的CFD双向波段交易。",
+          "best_platforms": [
+            "zhihu",
+            "youtube",
+            "douyin"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "高（美股玩家群体）",
+          "compliance_notes": "仅提供行业观点与风险提示，不作具体个股买卖推荐。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-steady-yen-firms/",
+        "https://www.fxstreet.com/news/united-states-washington-hardens-ai-alignment-strategy-rabobank-202608171852"
+      ]
+    }
+  ]
+}
