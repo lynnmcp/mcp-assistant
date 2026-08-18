@@ -37,7 +37,7 @@ if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
 # ========== Gemini 模型 ==========
 # gemini-2.5-flash: 免费额度大，速度快，效果好
 # gemini-1.5-pro: 更强但免费额度更小
-GEMINI_MODEL = "gemini-2.5-flash"
+GEMINI_MODEL = "gemini-3.6-flash"
 
 # ========== 分析参数 ==========
 DAILY_TOPIC_COUNT = 12
