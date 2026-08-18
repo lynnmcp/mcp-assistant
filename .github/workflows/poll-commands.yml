@@ -1,0 +1,48 @@
+name: Poll Commands
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: telegram-poller
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 检查并处理 Telegram 指令
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          HEYGEN_API_KEY: ${{ secrets.HEYGEN_API_KEY }}
+          HEYGEN_AVATAR_ID: ${{ secrets.HEYGEN_AVATAR_ID }}
+          HEYGEN_VOICE_ID_ZH: ${{ secrets.HEYGEN_VOICE_ID_ZH }}
+          HEYGEN_VOICE_ID_KO: ${{ secrets.HEYGEN_VOICE_ID_KO }}
+        run: python main.py poll_once
+
+      - name: 提交处理进度
+        run: |
+          git config user.name "MCP Radar Bot"
+          git config user.email "bot@mc-prime.com"
+          git add output/ 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "Content generated $(date -u +%Y-%m-%dT%H:%M)"
+          git push || true
