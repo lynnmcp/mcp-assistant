@@ -1,0 +1,149 @@
+{
+  "type": "level_1_editable",
+  "topic_id": 1,
+  "youtube_voiceover": "美联储还在犹豫降息，美国财政部却先动手了！隔夜财政部突发宣布长债回购规模翻倍，美元指数应声跌至三个月新低！\n\n这次回购本质上是一场变相的‘扭转操作’。财政部通过大量买回流动性差的长债，直接压低长端收益率，抽离了原本支撑美元的利差优势。\n\n长端收益率下滑带动实际利率走低，黄金直接打破沉寂迎来强反弹，欧元、英镑等非美货币也迎来了逢低布局的阶段性机会。\n\n捕捉全球宏观大行情，执行力是关键。在MC Prime，你可以借助低至0.0的点差和最高1:500的灵活杠杆，在MT4/MT5平台上无缝对接全球流动性。\n\n这场财政部的‘变相QE’能持续多久？关键看接下来的通胀数据。关注我，带你拆解每一场宏观风暴！",
+  "youtube_shot_list": [
+    {
+      "scene": 1,
+      "shot": "主播出镜，背景为美债收益率与美元指数跳水暴跌的K线图",
+      "voiceover": "美联储还在犹豫降息，美国财政部却先动手了！隔夜财政部突发宣布长债回购规模翻倍，美元指数应声跌至三个月新低！",
+      "broll_keywords": [
+        "US Treasury building",
+        "DXY chart crash",
+        "Financial news overlay"
+      ]
+    },
+    {
+      "scene": 2,
+      "shot": "图表动画展示：财政部买入长债、发行短债的资金流向模型",
+      "voiceover": "这次回购本质上是一场变相的‘扭转操作’。财政部通过大量买回流动性差的长债，直接压低长端收益率，抽离了原本支撑美元的利差优势。",
+      "broll_keywords": [
+        "Yield curve animation",
+        "Operation Twist chart",
+        "Bond trading desk"
+      ]
+    },
+    {
+      "scene": 3,
+      "shot": "宏观分析师视角，展示EUR/USD和黄金（XAU/USD）的突破K线",
+      "voiceover": "长端收益率下滑带动实际利率走低，黄金直接打破沉寂迎来强反弹，欧元、英镑等非美货币也迎来了逢低布局的阶段性机会。",
+      "broll_keywords": [
+        "Gold bars macro shot",
+        "Forex trading charts",
+        "EUR USD trend"
+      ]
+    },
+    {
+      "scene": 4,
+      "shot": "展示MC Prime交易界面，演示快速订单执行与点差对比",
+      "voiceover": "捕捉全球宏观大行情，执行力是关键。在MC Prime，你可以借助低至0.0的点差和最高1:500的灵活杠杆，在MT4/MT5平台上无缝对接全球流动性。",
+      "broll_keywords": [
+        "MT5 interface",
+        "Trading execution speed",
+        "MC Prime official platform"
+      ]
+    },
+    {
+      "scene": 5,
+      "shot": "主播回到镜头前，做出总结手势，屏幕显示合规风险提示",
+      "voiceover": "这场财政部的‘变相QE’能持续多久？关键看接下来的通胀数据。关注我，带你拆解每一场宏观风暴！",
+      "broll_keywords": [
+        "Financial globe",
+        "Risk disclaimer text",
+        "Subscribe animation"
+      ]
+    }
+  ],
+  "youtube_broll_keywords": [
+    "Financial news overlay",
+    "MT5 interface",
+    "Trading execution speed",
+    "Bond trading desk",
+    "EUR USD trend",
+    "Risk disclaimer text",
+    "Financial globe",
+    "Yield curve animation",
+    "Operation Twist chart",
+    "DXY chart crash",
+    "Gold bars macro shot",
+    "Subscribe animation",
+    "MC Prime official platform",
+    "US Treasury building",
+    "Forex trading charts"
+  ],
+  "douyin_shot_list": [
+    {
+      "time": "0-5s",
+      "visual": "快速切换美元指数跳水K线与美国财政部大楼照片，搭配震撼音效",
+      "voiceover": "美联储还在观望，美国财政部先搞了场‘变相QE’！美元一夜暴跌！"
+    },
+    {
+      "time": "5-10s",
+      "visual": "动画演示：财政部将长期国债回购规模直接翻倍",
+      "voiceover": "隔夜财政部突发宣布加倍买回长债，把长端收益率硬生生压了下来！"
+    },
+    {
+      "time": "10-15s",
+      "visual": "图表对比：扭转操作（Operation Twist）与本次回购对比",
+      "voiceover": "这招买长债发短债，效果等同于‘扭转操作’，直接打碎了美元的支撑力！"
+    },
+    {
+      "time": "15-20s",
+      "visual": "美元指数DXY跌破支撑线红图，欧美/镑美/黄金上涨曲线",
+      "voiceover": "美元指数应声砸出三个月新低，非美货币和黄金瞬间拉升！"
+    },
+    {
+      "time": "20-25s",
+      "visual": "展示黄金（XAU/USD）日线图爆发突破箱体",
+      "voiceover": "名义收益率走低带动实际利率下行，金价再次获得强力向上动能。"
+    },
+    {
+      "time": "25-30s",
+      "visual": "文字打出：逢高评估DXY、关注EUR/USD与黄金",
+      "voiceover": "交易思路很清晰：阶段性顺应美元回调，关注非美与黄金的机会。"
+    },
+    {
+      "time": "30-35s",
+      "visual": "展示MC Prime软件界面，快速滑动展示极窄点差",
+      "voiceover": "把握宏观大行情，交易成本是关键。MC Prime点差低至0.0！"
+    },
+    {
+      "time": "35-40s",
+      "visual": "展示多国牌照认证图标（CySEC, FSA, FSC）与MT4/MT5图标",
+      "voiceover": "全球多重正规监管，最高1:500灵活杠杆，支持MT4和MT5。"
+    },
+    {
+      "time": "40-45s",
+      "visual": "画面提醒：宏观市场有波动，严格止损，不盲目追高",
+      "voiceover": "不过也要注意，后续CPI数据公布前，市场仍可能有反复波动。"
+    },
+    {
+      "time": "45-50s",
+      "visual": "演示如何在MC Prime注册体验账户",
+      "voiceover": "想抓住这波行情？可先注册体验账户，熟悉市场节奏。"
+    },
+    {
+      "time": "50-55s",
+      "visual": "主播出镜手势引导关注",
+      "voiceover": "关注我，每天带你拆解全球金融市场的底层逻辑！"
+    },
+    {
+      "time": "55-60s",
+      "visual": "定格MC Prime品牌LOGO及官网地址www.mc-prime.com，附带风险提示",
+      "voiceover": "想了解更多宏观交易视角，欢迎看主页交流！"
+    }
+  ],
+  "suggested_stock_footage": [
+    "Pexels: Financial news overlay",
+    "Pexels: MT5 interface",
+    "Pexels: Trading execution speed",
+    "Pexels: Bond trading desk",
+    "Pexels: EUR USD trend"
+  ],
+  "suggested_charts": [
+    "K线走势图 - 相关货币对最近 5 天走势",
+    "对比条形图 - 数据前后对比",
+    "文字动画卡片 - 关键数字放大展示"
+  ],
+  "tts_ready_script": "美联储还在犹豫降息，美国财政部却先动手了！隔夜财政部突发宣布长债回购规模翻倍，美元指数应声跌至三个月新低！\n\n这次回购本质上是一场变相的‘扭转操作’。财政部通过大量买回流动性差的长债，直接压低长端收益率，抽离了原本支撑美元的利差优势。\n\n长端收益率下滑带动实际利率走低，黄金直接打破沉寂迎来强反弹，欧元、英镑等非美货币也迎来了逢低布局的阶段性机会。\n\n捕捉全球宏观大行情，执行力是关键。在MC Prime，你可以借助低至0.0的点差和最高1:500的灵活杠杆，在MT4/MT5平台上无缝对接全球流动性。\n\n这场财政部的‘变相QE’能持续多久？关键看接下来的通胀数据。关注我，带你拆解每一场宏观风暴！"
+}
