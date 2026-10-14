@@ -1,0 +1,382 @@
+{
+  "date": "2026-10-14",
+  "market_summary": {
+    "cn": "中国9月CPI与PPI数据好坏参半，央行人民币中间价微调，离岸人民币与商品货币保持韧性。",
+    "kr": "韩元在1340关口徘徊，外资单日大举抛售韩股加剧汇率波动，半导体独好与高利率压力的矛盾激化。",
+    "global": "美国CPI重磅公布前夕市场谨慎，中东地缘冲突升温推高油价，美联储官员表态分歧拖累美股与黄金。"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "importance": 10,
+      "market": "全球",
+      "event": "美国9月CPI公布在即，美联储官员鸽鹰分歧拉大",
+      "source_titles": [
+        "US CPI preview: 14 investment bank forecasters see energy lifting headline to 3.6%, core held near 0.2%",
+        "Fed’s Williams sees one final 2026 rate hike, none in 2027",
+        "Fed’s Barkin says persistent inflation warrants policy action"
+      ],
+      "angles": [
+        {
+          "angle": "CPI数据拆解与美元指数交易策略",
+          "hook": "通胀数据即将炸场！能源价格拉高头条CPI，美联储到底降息还是加息？",
+          "core_message": "头条通胀走高已在预料之中，核心通胀（Core CPI）若高于0.24%将直接点燃鹰派情绪，触发美元暴涨与非美下挫。",
+          "trading_opportunity": "关注EUR/USD与USD/JPY在数据公布瞬间的突破突破方向，若核心CPI超预期可考虑做多美元指数。",
+          "best_platforms": [
+            "zhihu",
+            "youtube",
+            "douyin"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "高曝光/强互动",
+          "compliance_notes": "提醒交易者数据发布时段滑点风险，不可宣称任何保本收益，建议提示设置止损。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/us-cpi-preview-14-investment-bank-forecasters-see-energy-lifting-headline-to-3-6-core-held-near-0-2/",
+        "https://www.fxstreet.com/news/feds-williams-sees-one-final-2026-rate-hike-none-in-2027-202610131821",
+        "https://www.fxstreet.com/news/feds-barkin-says-persistent-inflation-warrants-policy-action-202610131831"
+      ]
+    },
+    {
+      "id": 2,
+      "importance": 9,
+      "market": "全球",
+      "event": "沙特与胡塞武装互袭油田，WTI原油连续4日大涨突破94美元",
+      "source_titles": [
+        "[뉴욕유가] 서로 석유시설 겨냥한 사우디·후티…WTI 4일째↑",
+        "Australian business confidence slides to -13 as oil shock and rate hikes bite, NAB says"
+      ],
+      "angles": [
+        {
+          "angle": "地缘风险升级下原油与能源货币的联动态势",
+          "hook": "中东战火烧向油田！原油连续4天大涨，散户如何把握二次通胀红利？",
+          "core_message": "供应端中断担忧将原油推升至高位，地缘局势不确定性增加将持续支撑油价，同时利好加元等能源货币。",
+          "trading_opportunity": "WTI原油多头顺势逢低布局，或通过USDCAD逢高做空捕捉加元升值动能。",
+          "best_platforms": [
+            "douyin",
+            "instagram",
+            "zhihu"
+          ],
+          "content_type": "短视频",
+          "estimated_reach": "高流量",
+          "compliance_notes": "原油波动极高，提示散户合理控制仓位并使用灵活杠杆，禁止暗示必定盈利。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4439077",
+        "https://investinglive.com/news/australian-business-confidence-slides-to-13-as-oil-shock-and-rate-hikes-bite-nab-says/"
+      ]
+    },
+    {
+      "id": 3,
+      "importance": 9,
+      "market": "全球",
+      "event": "美日突破158.5，日本央行10月加息预期受阻",
+      "source_titles": [
+        "Japanese Yen softens as October BoJ hike bets fade; stuck in a range vs USD ahead of US CPI",
+        "Yen trails the majors as the BoJ is said to lean against a hike",
+        "Japanese Yen: Choppy trade after JPY-supportive comments – Scotiabank"
+      ],
+      "angles": [
+        {
+          "angle": "日元走弱与日本央行政策干预预警",
+          "hook": "USD/JPY逼近159！日元再次失守，日本财务省随时可能出手干预？",
+          "core_message": "日本央行加息态度转温和，导致日美利差维持在高位，但接近160心理关口时干预风险剧增。",
+          "trading_opportunity": "高位观望美日冲高走势，若接近159以上可锁定短线回撤机会或关注GBP/JPY突破210后的跟进。",
+          "best_platforms": [
+            "youtube",
+            "zhihu"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "中高转化",
+          "compliance_notes": "强调外汇干预事件的瞬间高剧烈波动风险，引导客户存入资金前做好风险评估。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://www.fxstreet.com/news/japanese-yen-softens-as-october-boj-hike-bets-fade-stuck-in-a-range-vs-usd-ahead-of-us-cpi-202610140127",
+        "https://www.fxstreet.com/news/yen-trails-the-majors-as-the-boj-is-said-to-lean-against-a-hike-202610132241",
+        "https://www.fxstreet.com/news/japanese-yen-choppy-trade-after-jpy-supportive-comments-scotiabank-202610131951"
+      ]
+    },
+    {
+      "id": 4,
+      "importance": 8,
+      "market": "中国",
+      "event": "中国9月CPI回升至0.9%，澳元与离岸人民币受支撑维持震荡",
+      "source_titles": [
+        "Breaking: China’s CPI inflation rises to 0.9% YoY in September, vs. 1.0% expected",
+        "PBOC sets USD/CNY reference rate at 6.7249 vs. 6.7298 previous",
+        "Australian Dollar holds gains following Chinese inflation data"
+      ],
+      "angles": [
+        {
+          "angle": "中国通胀数据企稳对商品货币（澳元/纽元）的映射效应",
+          "hook": "中国通胀数据出炉！澳元探底回升，中国经济复苏信号对外汇市场意味着什么？",
+          "core_message": "中国CPI同比升至0.9%，出厂价格PPI保持一定韧性，为澳元（AUD/USD）提供了基本面支撑。",
+          "trading_opportunity": "逢低关注AUD/USD在0.6980-0.7000区间的支撑做多机会。",
+          "best_platforms": [
+            "zhihu",
+            "douyin"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "中等流量",
+          "compliance_notes": "涉及人民币汇率政策需客观陈述央行中间价，避免政治敏感评述。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://www.fxstreet.com/news/breaking-chinas-cpi-inflation-rises-to-09-yoy-in-september-vs-10-expected-202610140131",
+        "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67249-vs-67298-previous-202610140115",
+        "https://www.fxstreet.com/news/australian-dollar-holds-gains-following-chinese-inflation-data-202610140146"
+      ]
+    },
+    {
+      "id": 5,
+      "importance": 9,
+      "market": "韩国",
+      "event": "外资单日暴售4.5万亿韩元韩股，USD/KRW在1340区间剧烈下探测试",
+      "source_titles": [
+        "[신윤우의 외환분석] 외국인 트라우마",
+        "[신윤우의 외환분석] 숨참고 환율 다이브"
+      ],
+      "angles": [
+        {
+          "angle": "韩国股市外资抛售潮与韩元汇率（USD/KRW）的套利逻辑",
+          "hook": "外资一天砸盘4.5万亿！韩元再次承压，出口商结汇能否顶住1340大关？",
+          "core_message": "股市外资流出拖累韩元，但韩国破纪录的半导体出口带来强劲的出口商结汇（Dollor Selling），形成上下交织的拉鋸战。",
+          "trading_opportunity": "利用USD/KRW的高波动率，在1335-1345区间进行波段区间操作。",
+          "best_platforms": [
+            "youtube",
+            "instagram"
+          ],
+          "content_type": "短视频",
+          "estimated_reach": "韩国本土高精准度",
+          "compliance_notes": "遵守韩国金融法规，禁止保证汇率方向，引导用户注册体验账户进行模拟练习。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4439132",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4438892"
+      ]
+    },
+    {
+      "id": 6,
+      "importance": 9,
+      "market": "全球",
+      "event": "美债收益率反弹叠加油价推高通胀担忧，现货黄金回落至4150美元附近",
+      "source_titles": [
+        "Gold declines to near $4,150 ahead of US CPI inflation data",
+        "Gold slides on US yields surge ahead of CPI",
+        "[뉴욕 금가격] 유가 상승 반전하자 0.3% 하락"
+      ],
+      "angles": [
+        {
+          "angle": "美债收益率上升 vs 地缘避险：黄金在CPI前的博弈抉择",
+          "hook": "金价从高位回落到4150美元！原油暴涨引怒通胀，黄金到底该买还是卖？",
+          "core_message": "油价暴涨推高通胀预期，带动美债收益率走高，对无息黄金形成压制，但在地缘局势下黄金下方支撑强劲。",
+          "trading_opportunity": "关注XAU/USD在4140美元关口的强支撑位，寻找低吸短线反弹的机会。",
+          "best_platforms": [
+            "douyin",
+            "zhihu",
+            "youtube"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "极高流量",
+          "compliance_notes": "黄金杠杆交易风险提示，不使用“保本”、“稳赚”等违规表述。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://www.fxstreet.com/news/gold-declines-to-near-4-150-ahead-of-us-cpi-inflation-data-202610132321",
+        "https://www.fxstreet.com/news/gold-slides-on-us-yields-surge-ahead-of-cpi-202610131742",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4439074"
+      ]
+    },
+    {
+      "id": 7,
+      "importance": 8,
+      "market": "韩国",
+      "event": "韩国央行面临降息与控债务两难：半导体独好与实体经济高利息承压",
+      "source_titles": [
+        "[정선미의 돈터치] 반도체가 끌어올린 성장, 모두가 감당하는 금리",
+        "[노현우의 채권분석] 스스로 금리를 인하한 논거와 1조달러 압박"
+      ],
+      "angles": [
+        {
+          "angle": "半导体产业遮蔽下的韩国高利率痛点与央行货币政策展望",
+          "hook": "除了半导体全在苦撑？韩国央行金管会面临的降息抉择",
+          "core_message": "半导体出口繁荣掩盖了其他行业在长时间维持高利率下的生存困境，韩国央行后续政策转向将直接影响韩元走向。",
+          "trading_opportunity": "关注韩国国债收益率与USD/KRW的利差变化，提前布局韩元货币对的趋势行情。",
+          "best_platforms": [
+            "youtube",
+            "zhihu"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "精细化受众",
+          "compliance_notes": "合规分析央行宏观政策，不过度解读或臆测官方未公开决定。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4438872",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4439133"
+      ]
+    },
+    {
+      "id": 8,
+      "importance": 8,
+      "market": "全球",
+      "event": "美股三季报开局不利，JP摩根业绩不及预期叠加科技股拥挤交易回调",
+      "source_titles": [
+        "Long global semiconductors remains the most crowded trade followed by short US Treasuries, according to Bank of America",
+        "[뉴욕마켓워치] JP모건이 '어닝 미스'를 냈다…주식·달러↓채권 혼조",
+        "[뉴욕증시] 출발이 살짝 불안한 어닝 시즌…하락 마감"
+      ],
+      "angles": [
+        {
+          "angle": "美股财报季开启与全球半导体拥挤交易的回撤风险",
+          "hook": "JP摩根财报砸盘，科技股交易极度拥挤！美股财报季散户如何防雷？",
+          "core_message": "美股三季度财报开局平淡，美联储美银调查显示“做多半导体”已成全球最拥挤交易，警惕高位获利回吐风险。",
+          "trading_opportunity": "通过标普500（US500）和纳斯达克（NAS100）CFD进行对冲或逢高做空防御。",
+          "best_platforms": [
+            "douyin",
+            "instagram",
+            "zhihu"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "中高流量",
+          "compliance_notes": "强调股票指数CFD双向交易优势，提示存入资金入市前了解杠杆风险。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/long-global-semiconductors-remains-the-most-crowded-trade-followed-by-short-us-treasuries-according-to-bank-of-america/",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4439093",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4439076"
+      ]
+    },
+    {
+      "id": 9,
+      "importance": 8,
+      "market": "韩国",
+      "event": "韩国散户高位接盘美股科技股与太空概念股，面对汇率与股价双重解套焦虑",
+      "source_titles": [
+        "[정선영의 마켓산책] 1,500원 환율에 산 그 주식"
+      ],
+      "angles": [
+        {
+          "angle": "高汇率时期西学蚂蚁（韩国美股散户）的跨国投资避坑与对冲技巧",
+          "hook": "在1500韩元高点买入的美股终于解套？海外股票交易如何规避汇率损失？",
+          "core_message": "韩国散户在美元处于高位时盲目出海投资美股，容易遭受“股价反弹但汇率亏损”的双重打压，需要引入外汇对冲工具。",
+          "trading_opportunity": "利用USD/KRW或者美元指数工具为美股投资组合进行外汇对冲（Hedging）。",
+          "best_platforms": [
+            "youtube",
+            "instagram"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "高共鸣/高转化",
+          "compliance_notes": "针对散户痛点进行对冲教育，客观介绍衍生品避险功能，禁止使用保本字眼。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4439002"
+      ]
+    },
+    {
+      "id": 10,
+      "importance": 7,
+      "market": "全球",
+      "event": "英镑与欧元在US CPI公布前保持微涨，法国财政赤字风险拖累欧债",
+      "source_titles": [
+        "British Pound strengthens above 1.3250, traders await US CPI inflation data",
+        "Euro edges higher above 1.1200 despite France fiscal risks, US CPI in focus",
+        "Italy’s bond spread to Germany widens amid French debt pressures"
+      ],
+      "angles": [
+        {
+          "angle": "欧洲财政隐患 vs 弱势美联储预期：欧元英镑震荡区间破位指南",
+          "hook": "欧元英镑横盘3周！法国债务危机隐现，欧洲货币能否借CPI打翻身仗？",
+          "core_message": "虽然法国财政风险拖累欧债，但美联储官员鸽派言论对美元形成压制，GBP/USD和EUR/USD维持箱体震荡等待突破。",
+          "trading_opportunity": "关注GBP/USD 1.3200-1.3300突破方向，区间内可做高抛低吸。",
+          "best_platforms": [
+            "zhihu",
+            "youtube"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "中等受众",
+          "compliance_notes": "提示交叉盘震荡行情的止损设置，强调注册体验账户进行实盘前测试。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://www.fxstreet.com/news/british-pound-strengthens-above-13250-traders-await-us-cpi-inflation-data-202610140145",
+        "https://www.fxstreet.com/news/euro-edges-higher-above-11200-despite-france-fiscal-risks-us-cpi-in-focus-202610140034",
+        "https://www.investing.com/news/forex-news/italys-bond-spread-to-germany-widens-amid-french-debt-pressures-93CH-4946809"
+      ]
+    },
+    {
+      "id": 11,
+      "importance": 7,
+      "market": "韩国",
+      "event": "韩国KRW夜间延长交易市场运行一月，证券商提供流动性保障与MTS升级",
+      "source_titles": [
+        "[금융가 사람들] &quot;저녁 8시까지 호가공급&quot;…애프터마켓 지키는 다올證 이수현",
+        "[증권가 이모저모] 하나증권 임원들, 카톡 프로필 '대동단결'한 이유"
+      ],
+      "angles": [
+        {
+          "angle": "韩国股市延长交易时间对散户交易习惯与海外CFD券商的利好",
+          "hook": "夜间也能炒韩股？韩国애프터마켓（After-market）启动一个月，散户体验如何？",
+          "core_message": "交易时间延长提升了市场流动性，但也要求投资者更快应对夜间发生的重磅欧美宏观事件与外汇剧烈波动。",
+          "trading_opportunity": "宣传24小时全天候交易外汇、指数CFD的优势，吸引寻求夜间灵活交易的散户。",
+          "best_platforms": [
+            "instagram",
+            "youtube"
+          ],
+          "content_type": "短视频",
+          "estimated_reach": "韩国本土高吸引力",
+          "compliance_notes": "宣传平台功能时保持客观，合规表述“灵活杠杆与24小时多资产交易”，不贬低传统券商。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4439109",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4439116"
+      ]
+    },
+    {
+      "id": 12,
+      "importance": 6,
+      "market": "全球",
+      "event": "特朗普称台湾同意购买30%阿拉斯加管道天然气，能源地缘格局再生变数",
+      "source_titles": [
+        "US President Donald Trump says Taiwan agrees to buy 30% of gas from Alaska pipeline"
+      ],
+      "angles": [
+        {
+          "angle": "地缘政治协议对天然气（Natural Gas）大宗商品价格的影响",
+          "hook": "特朗普爆料台湾买断阿拉斯加30%天然气？天然气行情要爆发？",
+          "core_message": "大宗商品市场不仅受供需影响，美台等政治协议签署将重塑LNG供需链，推动天然气中长期走势。",
+          "trading_opportunity": "密切关注NATGAS（天然气CFD）逢低布局机会及地缘风向变动。",
+          "best_platforms": [
+            "zhihu",
+            "douyin"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "中等流量",
+          "compliance_notes": "地缘政治话题需保持中立客观看法，不发表过激政治言论，重点落脚于天然气大宗商品交易。"
+        }
+      ],
+      "sensitive": true,
+      "source_links": [
+        "https://www.fxstreet.com/news/us-president-donald-trump-says-taiwan-agrees-to-buy-30-of-gas-from-alaska-pipeline-202610140120"
+      ]
+    }
+  ]
+}
