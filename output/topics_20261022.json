@@ -1,0 +1,369 @@
+{
+  "date": "2026-08-17",
+  "market_summary": {
+    "cn": "英美通胀与利差预期再度扰动外汇市场，地缘局势假消息引发高频波动，人民币与非美货币呈现分化。",
+    "kr": "한국은행 금통위 동결 및 통화정책 경로 관망 속 달러-원 1,320원대 연저점 테스트, 코스피 급락에 따른 리스크 관리 시급.",
+    "global": "英国与澳洲央行鹰派信号强化，法国债收益率破5%引发欧债隐忧，中东地缘传闻与美债拍卖异动加剧短线震荡。"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "importance": 10,
+      "market": "全球",
+      "event": "英国9月CPI超预期升至3.5%，推动英格兰银行11月加息预期翻倍，镑美（GBP/USD）快速拉升",
+      "source_titles": [
+        "UK September CPI inflation rises to 3.5%, reinforces BOE November rate hike expectations",
+        "Heads up: UK September CPI inflation report due today, BOE rate hike for November almost fully priced in",
+        "Sterling today: Pound climbs on hot UK CPI as dollar weakens"
+      ],
+      "angles": [
+        {
+          "angle": "宏观利率差交易策略",
+          "hook": "英国通胀意外反弹！GBP/USD 突破关键阻力，11月加息已成定局？",
+          "core_message": "英国CPI数据超预期强化了英国央行与美联储的政策分化，短期英镑具备利差支撑，但需警惕高利率对英国经济的长期滞胀压力。",
+          "trading_opportunity": "逢低布局 GBP/USD 多单，或利用 GBP/JPY 顺势捕捉二次突破机会",
+          "best_platforms": [
+            "zhihu",
+            "youtube"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "高爆款潜力",
+          "compliance_notes": "严禁预测确切涨幅，标注汇率双向波动风险"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/uk-september-cpi-inflation-rises-to-3-5-reinforces-boe-november-rate-hike-expectations/",
+        "https://investinglive.com/news/heads-up-uk-september-cpi-inflation-report-due-today-boe-rate-hike-for-november-almost-fully-priced-in/",
+        "https://www.investing.com/news/forex-news/sterling-today-pound-climbs-on-hot-uk-cpi-as-dollar-weakens-4962057"
+      ]
+    },
+    {
+      "id": 2,
+      "importance": 9,
+      "market": "韩国",
+      "event": "韩国央行金通委会议召开在即，市场普遍预计维持基准利率不动，美元/韩元（USD/KRW）试探1,320韩元近两年低位",
+      "source_titles": [
+        "[신윤우의 외환분석] 내리막길에서 만난 금통위가 일으킬 파장은",
+        "[신윤우의 외환분석] 낮아진 눈높이"
+      ],
+      "angles": [
+        {
+          "angle": "韩元汇率波动与出口企业套保",
+          "hook": "한은 금통위 동결 유력! 달러-원 1,320원선 깨질까? 환율 연저점 경신 직전 대응법",
+          "core_message": "한은의 금리 동결 속에서 향후 힌트에 따라 달러-원의 하단 테스트가 이어질 가능성이 높습니다. 1,320원대 지지선 이탈 여부가 핵심입니다.",
+          "trading_opportunity": "USD/KRW 突破 1,320 支撑后偏空操作，或在模拟账户中建立外汇交叉盘组合",
+          "best_platforms": [
+            "youtube",
+            "naver_blog"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "韩国本地散户高关注度",
+          "compliance_notes": "提示汇率干预风险，替换“开户”为“注册体验账户”"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440515",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440308"
+      ]
+    },
+    {
+      "id": 3,
+      "importance": 9,
+      "market": "全球",
+      "event": "美海湾使馆撤离假消息引发原油与美联储降息预期瞬间剧烈波动，地缘风险假突破频发",
+      "source_titles": [
+        "[뉴욕환시] 달러 이틀째↓…'美 걸프 대사관 직원 철수' 보도에 장중 출렁",
+        "US State Department is to prepared to issue a order departure at US embassies in the Gulf",
+        "Crude oil volatility increases amid conflicting reports over US-Iran negotiations"
+      ],
+      "angles": [
+        {
+          "angle": "交易实战与风险控制",
+          "hook": "一则假消息引发原油美元急升急降！散户如何避免在突发新闻中被“扫损”？",
+          "core_message": "地缘政治头条新闻常伴随算法交易的瞬间推升与澄清后的快速V反，散户盲目追单极易爆仓，严格止损和控制仓位是生存关键。",
+          "trading_opportunity": "原油（WTI/Brent）与黄金（XAU/USD）突破追单策略的止损风控示范",
+          "best_platforms": [
+            "douyin",
+            "xiaohongshu",
+            "youtube"
+          ],
+          "content_type": "短视频",
+          "estimated_reach": "高互动率",
+          "compliance_notes": "禁止使用“无风险”、“保本”表述，强调挂单与止损的重要性"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440457",
+        "https://investinglive.com/news/us-state-department-is-to-prepared-to-issue-a-order-departure-at-us-embassies-in-the-gulf/",
+        ""
+      ]
+    },
+    {
+      "id": 4,
+      "importance": 8,
+      "market": "全球",
+      "event": "新西兰Q3 CPI回落至3.7%低于预期，新西兰联储10月底加息预期未变但纽元（NZD）短线跳水",
+      "source_titles": [
+        "New Zealand inflation slows to 3.7% in Q3, below forecasts, keeping RBNZ hike on track",
+        "New Zealand Q3 CPI 3.7% y/y (expected 3.8%, prior 4.1%)"
+      ],
+      "angles": [
+        {
+          "angle": "数据出炉后的买预期卖事实",
+          "hook": "新西兰CPI不及预期却仍要加息？NZD/USD 探底回升背后的套利逻辑",
+          "core_message": "通胀放缓幅度不足以扭转RBNZ鹰派立场，短线利空回撤反而是关注高息货币NZD多头买点的契机。",
+          "trading_opportunity": "NZD/USD 及 NZD/JPY 逢回调关注关键均线支撑位的偏多交易机会",
+          "best_platforms": [
+            "zhihu",
+            "jinritoutiao"
+          ],
+          "content_type": "图文",
+          "estimated_reach": "中等精准客群",
+          "compliance_notes": "提示交叉盘流动性风险"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/new-zealand-inflation-slows-to-3-7-in-q3-below-forecasts-keeping-rbnz-hike-on-track/",
+        "https://investinglive.com/news/new-zealand-q3-cp-y-y-expected-3-8-prior-4-1/"
+      ]
+    },
+    {
+      "id": 5,
+      "importance": 8,
+      "market": "全球",
+      "event": "法国财政危机加剧，10年期国债收益率冲上5%，欧债利差扩大压制欧元（EUR/USD）",
+      "source_titles": [
+        "[이종혁의 투자] 글로벌 경제, 파국과 반전 갈림길에 서다",
+        "European markets steady for now but widening bond yield spreads offer a warning",
+        "U.S. Treasury yields drop on safe-haven flows; French yields hit 5% mark"
+      ],
+      "angles": [
+        {
+          "angle": "欧洲主权债务风险复苏",
+          "hook": "法国10年期国债收益率破5%！欧债危机雷声再起，EUR/USD 承压几何？",
+          "core_message": "法国财政赤字与政治僵局推高国债收益率，德法利差拉大反映市场对欧亚非一体化财政健康度的担忧，欧元反弹空间受限。",
+          "trading_opportunity": "EUR/USD 逢高做空或 EUR/GBP 交叉盘偏空对冲策略",
+          "best_platforms": [
+            "zhihu",
+            "youtube"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "高专业度用户关注",
+          "compliance_notes": "严禁暗示欧债危机必定爆发等夸大推论"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440477",
+        "https://investinglive.com/news/european-markets-steady-for-now-but-widening-bond-yield-spreads-offer-a-warning/",
+        "https://www.investing.com/news/forex-news/french-yields-hover-near-2002-highs-hotter-uk-inflation-sparks-gilt-pressure-4961706"
+      ]
+    },
+    {
+      "id": 6,
+      "importance": 8,
+      "market": "全球",
+      "event": "澳洲联储高层豪瑟发出鹰派信号，暗示11月加息在备选项中，澳元（AUD/USD）获得支撑",
+      "source_titles": [
+        "investingLive Asia-Pacific market news: RBA’s Hauser puts November hike in play"
+      ],
+      "angles": [
+        {
+          "angle": "商品货币政策拐点捕捉",
+          "hook": "澳洲联储突然放鹰！11月加息窗口重启，AUD/USD 能否迎来反转波段？",
+          "core_message": "澳洲劳动力市场韧性与通胀黏性迫使RBA保留加息选项，商品货币澳元在利差预期驱动下表现强于其他非美货币。",
+          "trading_opportunity": "AUD/USD 突破震荡区间上轨后的跟进机会，或 AUD/NZD 强弱对冲",
+          "best_platforms": [
+            "douyin",
+            "xiaohongshu"
+          ],
+          "content_type": "短视频",
+          "estimated_reach": "高转化率",
+          "compliance_notes": "提醒商品货币受大宗商品价格波动双重影响"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-s-hauser-puts-november-hike-in-play/"
+      ]
+    },
+    {
+      "id": 7,
+      "importance": 8,
+      "market": "全球",
+      "event": "美国财政部拍卖130亿美元20年期国债，中标收益率达5.469%引发长端美债抛售与美联储政策博弈",
+      "source_titles": [
+        "US treasury sells $13 billion of 20 year bonds at a high yield of 5.469%",
+        "[뉴욕채권] 국채가 하락…막판 중동 불안감 자극 소식에 약세 압력↑"
+      ],
+      "angles": [
+        {
+          "angle": "美债收益率对外汇与CFD市场的传导机制",
+          "hook": "美国20年期国债收益率飙至5.469%！为什么美债拍卖惨淡会让全球资产震荡？",
+          "core_message": "美债供给压力导致长端收益率高企，抬高全球无风险利率，压制非美货币及股指评估，灵活杠杆交易者需密切关注美债收益率走势。",
+          "trading_opportunity": "通过美元指数（DXY）及美国三大股指CFD进行美债收益率变动的套利",
+          "best_platforms": [
+            "zhihu",
+            "youtube"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "中高互动",
+          "compliance_notes": "将“高杠杆”规范表达为“灵活杠杆”"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440449"
+      ]
+    },
+    {
+      "id": 8,
+      "importance": 7,
+      "market": "韩国",
+      "event": "韩国KOSPI指数遭遇巨幅调整（从7000点高位回落至5500点），国际金融中心（KCIF）启动24小时预警",
+      "source_titles": [
+        "[금융가 이모저모] '중동전쟁급' 주가 급락에 바빠진 국제금융센터"
+      ],
+      "angles": [
+        {
+          "angle": "股市暴跌下的避险与对冲策略",
+          "hook": "코스피 급락에 KCIF 24시간 비상! 주식 시장 폭락 시 외환/CFD로 자산 지키는 법",
+          "core_message": "국내 증시 변동성 확대 시 달러 선물이나 롱-숏 CFD 상품을 활용한 포트폴리오 헤지 전략이 유효할 수 있습니다.",
+          "trading_opportunity": "利用股指CFD空头或美元多头对冲单边股票持仓风险",
+          "best_platforms": [
+            "youtube",
+            "naver_blog"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "韩国散户避险诉求高",
+          "compliance_notes": "严禁承诺避险一定能获利，标注衍生品交易风险"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440285"
+      ]
+    },
+    {
+      "id": 9,
+      "importance": 7,
+      "market": "全球",
+      "event": "SpaceX超预期财报及AI算力需求提振纳斯达克涨1%，美股科技股与地缘忧虑展开博弈",
+      "source_titles": [
+        "[뉴욕증시] 스페이스X 타고 날았다…나스닥 1%↑",
+        "[뉴욕마켓워치] 美 국무부 걸프 전역 대피 명령 해프닝…주식↑채권·달러↓",
+        "investingLive Americas FX news wrap 21 Oct: Nasdaq leads as AI optimism offsets Gulf oil risks"
+      ],
+      "angles": [
+        {
+          "angle": "美股指与AI板块交易逻辑",
+          "hook": "SpaceX财报惊艳！AI乐观情绪盖过中东阴霾，纳斯达克指（NAS100）回踩即是买点？",
+          "core_message": "科技龙头强劲盈利支撑美股韧性，即使面对中东地缘与债市异动，美股CFD依然展现强劲的逢低买盘支撑。",
+          "trading_opportunity": "NAS100 / SPX500 指数CFD日内回调接多策略",
+          "best_platforms": [
+            "xiaohongshu",
+            "douyin"
+          ],
+          "content_type": "短视频",
+          "estimated_reach": "高流量",
+          "compliance_notes": "替换“入金”为“存入资金”，提示股指CFD高波动性"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440439",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440462",
+        "https://investinglive.com/news/investinglive-americas-fx-news-wrap-21-oct-nasdaq-leads-as-ai-optimism-offsets-gulf-oil-risks/"
+      ]
+    },
+    {
+      "id": 10,
+      "importance": 7,
+      "market": "全球",
+      "event": "国际金价在高位窄幅盘整（COMEX黄金期货在4140美元上方），地缘避险与高美债收益率形成对抗",
+      "source_titles": [
+        "[뉴욕 금가격] 재료 부재 속 보합권 좁게 등락…0.18%↑"
+      ],
+      "angles": [
+        {
+          "angle": "黄金（XAU/USD）技术面突破前瞻",
+          "hook": "金价高位暴风雨前的平静？多空双方激战4140美元，接下来怎么走？",
+          "core_message": "黄金市场目前缺乏强力催化剂，但地缘政治的不确定性使下方买盘依然坚固，等待关键数据指明突破方向。",
+          "trading_opportunity": "XAU/USD 盘整带上下轨区间突破挂单策略（OCO挂单）",
+          "best_platforms": [
+            "douyin",
+            "xiaohongshu",
+            "zhihu"
+          ],
+          "content_type": "短视频",
+          "estimated_reach": "黄金散户交易者覆盖面广",
+          "compliance_notes": "禁用“稳赚”、“保本”等词汇"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440436"
+      ]
+    },
+    {
+      "id": 11,
+      "importance": 6,
+      "market": "全球",
+      "event": "印度10年期国债收益率突破7.45%创多年新高，新兴市场借贷成本上升及汇率承压",
+      "source_titles": [
+        "India’s 10-year bond yield climbs above 7.45% to multi-year high"
+      ],
+      "angles": [
+        {
+          "angle": "新兴市场套利交易（Carry Trade）风险",
+          "hook": "印度10年期国债收益率飙至7.45%！新兴市场高息货币套利还香吗？",
+          "core_message": "新兴市场收益率上升虽吸引套利资金，但美联储高利率维持时间更长及全球避险情绪可能随时引发资本快速外流。",
+          "trading_opportunity": "评估 USD/INR 及新兴市场货币交叉盘的波段对冲风险",
+          "best_platforms": [
+            "zhihu"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "进阶交易者关注",
+          "compliance_notes": "强调新兴市场货币流动性较差风险"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://www.investing.com/news/forex-news/indias-10year-bond-yield-climbs-above-745-to-multiyear-high-93CH-4962437"
+      ]
+    },
+    {
+      "id": 12,
+      "importance": 6,
+      "market": "韩国",
+      "event": "韩国政府加强对无本地证照的境外金融机构参与 Korean Paper (KP) 债券承销的监管",
+      "source_titles": [
+        "[현장에서] 국제화와 규제 사이…한국물 주관에 해외도 시선집중"
+      ],
+      "angles": [
+        {
+          "angle": "韩国离岸债券监管与金融合规知识",
+          "hook": "한국물(KP) 시장 규제 강화! 역외 금융기관과 개인 투자자가 알아야 할 리스크와 규제 환경",
+          "core_message": "글로벌 금융시장의 규제 변화는 리테일 자금 흐름과 기관 수급에 영향을 미칩니다. 라이선스를 갖춘 정식 브로커 선택이 유저의 자산 보호에 필수적입니다.",
+          "trading_opportunity": "引导散户在具备 CySEC/FSA/FSC 正规牌照的平台进行合规交易体验",
+          "best_platforms": [
+            "naver_blog",
+            "youtube"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "建立品牌合规信任度",
+          "compliance_notes": "品牌克制引流，仅展示合规资质（CySEC/FSA/FSC），不进行硬广植入"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440376"
+      ]
+    }
+  ]
+}
