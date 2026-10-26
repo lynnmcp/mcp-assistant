@@ -1,303 +1,233 @@
 {
   "date": "2026-08-17",
   "market_summary": {
-    "cn": "避险情绪与地缘政治风险升温，散户关注原油与黄金波动带来的多资产对冲机会。",
-    "kr": "중동 긴장 및 국제유가 급등으로 인한 환율 변동성 확대와 미 증시 순환매도세 집중 주목.",
-    "global": "中东局势紧张推升美油重回100美元，美债收益率反弹压制金价跌破4000美元大关，美股呈现蓝筹股轮动抛售。"
+    "cn": "美国拟将限制投资范围扩大至生物科技领域，中概股及恒生科技指数面临头条风险，离岸人民币短线承压。",
+    "kr": "中东地缘局势升温与外资债市动向拉扯汇市，美元兑韩元于1,320韩元附近维持高位盘整。",
+    "global": "法国财政恶化倒逼ECB干预预期升温，叠加中东局势恶化，全球避险情绪回升。"
   },
   "topics": [
     {
       "id": 1,
-      "importance": 10,
+      "importance": 9,
       "market": "全球",
-      "event": "中东军事紧张局势加剧，WTI原油大涨3.8%突破100美元关口",
+      "event": "法国财政恶化与政治动荡推高国债收益率，市场关注欧央行（ECB）启动TPI等工具介入的触发条件",
       "source_titles": [
-        "[뉴욕유가] 중동 우려에 급등…WTI 다시 100달러대·브렌트 6개월來 최고",
-        "[뉴욕마켓워치] 주말에 설마 이란 때릴까…주식·채권↓달러↑"
+        "[뉴욕은 지금] ECB가 프랑스 국채에 개입하는 트리거"
       ],
       "angles": [
         {
-          "angle": "地缘政治黑天鹅下的原油CFD交易策略",
-          "hook": "原油重回100美元上方！中东战火重燃，散户如何抓牢油价暴涨行情？",
-          "core_message": "供给端地缘风险是推动油价短期暴涨的核心因素，交易者需重点关注止损设置与仓位管理。",
-          "trading_opportunity": "逢低做多WTI/Brent原油CFD，或通过突破策略捕捉短线脉冲。",
+          "angle": "欧元基本面深度剖析",
+          "hook": "法国财债危机发酵，欧央行何时被迫出手救市？",
+          "core_message": "法国财债恶化非短期可解，若法德利差进一步扩大触发ECB干预，欧元短线可能出现剧烈震荡。",
+          "trading_opportunity": "关注 EUR/USD 及 EUR/GBP 的逢高做空或区间破位交易机会。",
           "best_platforms": [
             "zhihu",
-            "youtube",
-            "douyin"
+            "youtube"
           ],
           "content_type": "深度",
-          "estimated_reach": "高（热门宏观话题）",
-          "compliance_notes": "提示大宗商品高波动风险，避免出现'稳赚'字眼，提及杠杆时统一采用'灵活杠杆'。"
+          "estimated_reach": "高（吸引关注欧洲宏观与欧元交易的中高级散户）",
+          "compliance_notes": "严禁预测绝对走势，标注市场有风险，提示合理控制灵活杠杆。"
+        },
+        {
+          "angle": "短视频极速行情解读",
+          "hook": "欧洲黑天鹅隐现？法国国债收益率暴涨对你的欧元持仓意味着什么？",
+          "core_message": "地缘与财政双重打击下，欧元兑美元承压，教你识别欧央行干预前夕的汇率信号。",
+          "trading_opportunity": "利用欧元相关货币对做多波幅（Straddle策略或破位追单）。",
+          "best_platforms": [
+            "douyin",
+            "xhs"
+          ],
+          "content_type": "短视频",
+          "estimated_reach": "极高（适合快速获客与建立专业认知）",
+          "compliance_notes": "避免使用“稳赚”、“保本”等词汇，引导用户注册体验账户进行模拟操盘。"
+        },
+        {
+          "angle": "波幅管理与实操教学",
+          "hook": "央行干预行情怎么抓？回顾ECB历史干预下的欧元走势与止损设置",
+          "core_message": "政策干预往往伴随单边剧烈滑点，交易者需严格设置止损并降低实际交易仓位。",
+          "trading_opportunity": "欧元衍生品波动率交易与严格止损下的破位跟进。",
+          "best_platforms": [
+            "zhihu",
+            "telegram"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "中（针对有实操经验的活跃交易者）",
+          "compliance_notes": "强调风险管理，禁止承诺收益率。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440931",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440949"
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441064"
       ]
     },
     {
       "id": 2,
-      "importance": 9,
-      "market": "全球",
-      "event": "国际金价持续下行，跌破4000美元关键心理整数关口",
+      "importance": 8,
+      "market": "韩国",
+      "event": "中东地缘局势（美伊/沙特胡塞）紧张推高美元需求，但韩国汇市卖盘阻力显现，美元兑韩元在1,320韩元高位受阻",
       "source_titles": [
-        "[뉴욕 금가격] 4,000달러 선마저 뚫렸다…하락세 지속"
+        "[노현우의 채권분석] 前 한은 조사국장의 경고",
+        "[신윤우의 외환분석] 중동 들썩여도 묵직한 상단"
       ],
       "angles": [
         {
-          "angle": "避险情绪失灵？黄金破位4000美元背后的逻辑与技术面解析",
-          "hook": "黄金下破4000美元大关！避险资产不避险了？后市关键支撑在哪里？",
-          "core_message": "美债收益率反弹与美元走强对金价形成压制，技术性破位可能引发进一步追空盘。",
-          "trading_opportunity": "XAU/USD跌破支撑后的顺势做空或等待底部反转信号。",
+          "angle": "韩元汇率与地缘风险图文分析",
+          "hook": "中东炮火再起，为何美元兑韩元涨到1,320就涨不不动了？",
+          "core_message": "避险需求虽推高美元，但韩国出口商结汇卖盘及外资动向限制了USD/KRW的上方空间，呈现震荡格局。",
+          "trading_opportunity": "美元兑韩元（USD/KRW）及原油CFD的高抛低吸区间交易。",
           "best_platforms": [
-            "zhihu",
             "instagram",
-            "youtube"
+            "naver_blog",
+            "xhs"
+          ],
+          "content_type": "图文",
+          "estimated_reach": "高（面向韩国本地及关注韩元汇率的跨境交易者）",
+          "compliance_notes": "描述汇率区间时需声明仅为分析，不构成投资建议。"
+        },
+        {
+          "angle": "避险资产联动（黄金/原油/美元）",
+          "hook": "中东危机升级，散户如何通过黄金和原油CFD进行组合对冲？",
+          "core_message": "地缘政治冲突升温时，原油与黄金通常展现强避险属性，配合外汇工具可构建综合对冲组合。",
+          "trading_opportunity": "做多现货黄金（XAUUSD）与布伦特原油（USOIL）CFD。",
+          "best_platforms": [
+            "youtube",
+            "zhihu"
           ],
           "content_type": "深度",
-          "estimated_reach": "高（散户关注度极高）",
-          "compliance_notes": "禁止承诺保本收益，提示黄金高波动风险。"
+          "estimated_reach": "高（跨品种交易者关注度高）",
+          "compliance_notes": "替换“高杠杆”为“灵活杠杆”，提示商品CFD的高波动风险。"
+        },
+        {
+          "angle": "债市资金流向科普",
+          "hook": "看懂外资在韩国债市的买卖，提前预判韩元下一波大行情",
+          "core_message": "外资在3年期国债期货上的动向是韩元汇率的前瞻指标，结合美股半导体走势可提升判断胜率。",
+          "trading_opportunity": "跟踪外资动向进行韩元及亚太货币的趋势跟踪。",
+          "best_platforms": [
+            "zhihu",
+            "naver_blog"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "中（适合进阶型数据驱动交易者）",
+          "compliance_notes": "无敏感内容，强调数据滞后性风险。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440930"
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441059",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441053"
       ]
     },
     {
       "id": 3,
-      "importance": 9,
-      "market": "韩国",
-      "event": "高油价与美债收益率反弹助推美元指数四日来首次上涨，韩元等非美货币承压",
+      "importance": 8,
+      "market": "中国",
+      "event": "美国拟将科技投资限制扩大至生物科技领域，引发中概股、生物医药板块及恒生科技指数波动风险",
       "source_titles": [
-        "[뉴욕환시] 달러 나흘만에↑…美 국채금리 반등 속 프랑스發 유로 약세"
+        "Weekend - China warns of countermeasures as US Treasury widens tech investment curbs to biotech"
       ],
       "angles": [
         {
-          "angle": "美元止跌强劲反弹，USD/KRW与交叉盘外汇交易指南",
-          "hook": "국제유가 급등과 미 금리 반등! 달러 강세 전환 속 환율 운용 전략은?",
-          "core_message": "美债收益率回升与原油带来的通胀阴霾重新支撑美元，韩元及欧元短期承压。",
-          "trading_opportunity": "关注USD/KRW及USD/JPY逢低买入机会，留意韩元贬值对韩国股市的连带冲击。",
+          "angle": "港股/中概股指数CFD策略",
+          "hook": "美限制升级至生物科技！恒生科技指数止跌还是继续探底？",
+          "core_message": "地缘限制扩大短期引发市场情绪压制，但利空释放后可能带来结构性分化，指数CFD提供双向交易空间。",
+          "trading_opportunity": "恒生科技指数（HSTECH）及相关中概股ADR的对冲或短线空头/反弹机会。",
           "best_platforms": [
-            "youtube",
-            "instagram",
-            "naver_blog"
+            "xhs",
+            "zhihu",
+            "douyin"
           ],
-          "content_type": "图文",
-          "estimated_reach": "中高（韩国散户关注外汇）",
-          "compliance_notes": "严禁使用保本表述，引导注册体验账户测试策略。"
+          "content_type": "短视频",
+          "estimated_reach": "极高（受众广泛，中概股关注度高）",
+          "compliance_notes": "涉及中美关系表述需客观引用官方声明，规避过激政治言论。"
+        },
+        {
+          "angle": "离岸人民币（CNH）汇率受影响分析",
+          "hook": "贸易与科技摩擦再起，离岸人民币（USD/CNH）是否会突破关键阻力？",
+          "core_message": "头条新闻风险（Headline Risk）阶段性推高USD/CNH波动率，交易者需关注中国央行中间价信号。",
+          "trading_opportunity": "USD/CNH 短线突破交易与波动率套利。",
+          "best_platforms": [
+            "zhihu",
+            "youtube"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "中高（适合外汇交易者）",
+          "compliance_notes": "合规标注人民币汇率受政策调控影响，非单边市场。"
+        },
+        {
+          "angle": "隔夜头条风险对冲教学",
+          "hook": "周末突发禁令重挫持仓？教你用股指CFD进行隔夜风险对冲",
+          "core_message": "地缘新闻往往发生在非交易时段，通过全天候交易的股指与外汇CFD可以有效规避正股开盘跳空风险。",
+          "trading_opportunity": "利用指数CFD实现现货股票仓位的动态对冲。",
+          "best_platforms": [
+            "douyin",
+            "xhs"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "高（切中散户痛点）",
+          "compliance_notes": "引导用户使用体验账户验证对冲策略，禁止保本宣传。"
         }
       ],
-      "sensitive": false,
+      "sensitive": true,
       "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440938"
+        "https://investinglive.com/news/weekend-china-warns-of-countermeasures-as-us-treasury-widens-tech-investment-curbs-to-biotech/"
       ]
     },
     {
       "id": 4,
-      "importance": 8,
-      "market": "全球",
-      "event": "法国财政担忧加剧，欧元走弱拖累非美货币整体表现",
-      "source_titles": [
-        "[뉴욕환시] 달러 나흘만에↑…美 국채금리 반등 속 프랑스發 유로 약세"
-      ],
-      "angles": [
-        {
-          "angle": "欧罗区财政危机阴霾重现？EUR/USD破位下行实操教学",
-          "hook": "法国财政风险爆雷？欧元兑美元急跌，外汇交易员如何抓住波段机会？",
-          "core_message": "欧元区内部政治与财政不确定性削弱欧元的抗风险能力，EUR/USD反弹乏力。",
-          "trading_opportunity": "做空EUR/USD或EUR/GBP交叉盘。",
-          "best_platforms": [
-            "zhihu",
-            "douyin"
-          ],
-          "content_type": "科普",
-          "estimated_reach": "中",
-          "compliance_notes": "遵守合规指引，不使用高杠杆字眼，替换为灵活杠杆。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440938"
-      ]
-    },
-    {
-      "id": 5,
-      "importance": 8,
-      "market": "全球",
-      "event": "美股三大股指集体收跌，蓝筹股（道琼斯）遭受轮动抛售跌1.2%",
-      "source_titles": [
-        "[뉴욕증시] 이번엔 우량주 순환 매도…다우 1.2%↓",
-        "[뉴욕마켓워치] 주말에 설마 이란 때릴까…주식·채권↓달러↑"
-      ],
-      "angles": [
-        {
-          "angle": "美股轮动抛售潮来袭：道指与科技股CFD高阶对冲策略",
-          "hook": "科技股跌完轮到蓝筹股？道指大跌1.2%，美股回调中散户如何利用指数CFD双向获利？",
-          "core_message": "市场风险偏好整体下降，传统产业受高油价压制，指数短线波动率剧增。",
-          "trading_opportunity": "通过US30 (道指CFD) 进行短线空头交易或做空股指CFD规避现货股票持仓风险。",
-          "best_platforms": [
-            "youtube",
-            "zhihu"
-          ],
-          "content_type": "深度",
-          "estimated_reach": "高",
-          "compliance_notes": "明确说明CFD双向交易风险，强调风险管理而非保本。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440932",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440949"
-      ]
-    },
-    {
-      "id": 6,
       "importance": 7,
       "market": "全球",
-      "event": "Meta引爆的AI过度投资担忧短暂缓解，但科技股依然维持震荡",
+      "event": "宏观突发事件与地缘黑天鹅频发背景下的散户交易心态与风控指南",
       "source_titles": [
-        "[뉴욕채권] 국채가 하락…AI 우려發 안전선호 소강 속 유가 급등",
-        "[뉴욕마켓워치] 주말에 설마 이란 때릴까…주식·채권↓달러↑"
+        "[뉴욕은 지금] ECB가 프랑스 국채에 개입하는 트리거",
+        "[신윤우의 외환분석] 중동 들썩여도 묵직한 상단"
       ],
       "angles": [
         {
-          "angle": "AI概念股估值挤泡沫？科技巨头股票CFD的防守型交易法",
-          "hook": "AI投资过度忧虑放缓，但科技股狂欢结束了吗？如何应对纳斯达克的剧烈震荡？",
-          "core_message": "资本支出过高与回报周期不确定性使科技股高估值承压，交易者应注重波段操作。",
-          "trading_opportunity": "利用NAS100或单个科技股CFD做网格或区间震荡交易。",
+          "angle": "交易误区与心理辅导",
+          "hook": "新闻一出就追单？90%散户在突发地缘利好/利空里亏损的原因",
+          "core_message": "地缘与政策新闻往往快速被市场计价（Priced in），盲目追高杀跌容易陷入“买在顶部”的陷阱。",
+          "trading_opportunity": "建立基于规则的事件驱动交易体系，减少情绪化交易。",
           "best_platforms": [
+            "xhs",
             "douyin",
             "instagram"
           ],
           "content_type": "短视频",
-          "estimated_reach": "中高",
-          "compliance_notes": "避开'稳赚'等敏感诱导词，提示开户需先通过'注册体验账户'练习。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440933",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440949"
-      ]
-    },
-    {
-      "id": 7,
-      "importance": 7,
-      "market": "全球",
-      "event": "美债收益率曲线呈现熊市平坦化（Bear Flattening），短端利率卖压显著",
-      "source_titles": [
-        "[뉴욕채권] 국채가 하락…AI 우려發 안전선호 소강 속 유가 급등"
-      ],
-      "angles": [
+          "estimated_reach": "高（引起散户共鸣，打造品牌专业形象）",
+          "compliance_notes": "禁止使用“零风险”、“稳赚”字眼，强调交易纪律与风险自担。"
+        },
         {
-          "angle": "交易员必看：什么是'熊市平坦化'？它如何预示汇市与股市走向？",
-          "hook": "美债收益率曲线又变平了！'Bear Flattening'对你的外汇账户意味着什么？",
-          "core_message": "通胀预期（油价上涨）与美联储政策利率预期共同作用，使得美债短端收益率上行更快。",
-          "trading_opportunity": "根据利率预期变动交易美债CFD或美元相关货币对。",
-          "best_platforms": [
-            "zhihu"
-          ],
-          "content_type": "科普",
-          "estimated_reach": "中",
-          "compliance_notes": "纯宏观知识科普，结尾轻度提示注册体验账户。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440933"
-      ]
-    },
-    {
-      "id": 8,
-      "importance": 7,
-      "market": "全球",
-      "event": "油价与避险情绪双重交织下的多资产联动现象（油增金跌美债降）",
-      "source_titles": [
-        "[뉴욕마켓워치] 주말에 설마 이란 때릴까…주식·채권↓달러↑",
-        "[뉴욕유가] 중동 우려에 급등…WTI 다시 100달러대·브렌트 6개월來 최고",
-        "[뉴욕 금가격] 4,000달러 선마저 뚫렸다…하락세 지속"
-      ],
-      "angles": [
-        {
-          "angle": "油金背离！油价暴涨而金价暴跌，多资产交易者如何做对冲组合？",
-          "hook": "原油冲上100，黄金却掉下4000！为什么避险逻辑失效了？逻辑解析来了！",
-          "core_message": "通胀预期升温推动利率上涨，高利率环境削弱了黄金作为非收益资产的吸引力，导致油金背离。",
-          "trading_opportunity": "跨品种套利：做多WTI同时做空XAU，或配比对冲做多USD/JPY。",
+          "angle": "技术分析与宏观结合实操",
+          "hook": "消息面太乱？教你用布林带+震荡指标过滤地缘政治噪音",
+          "core_message": "在缺乏单边趋势的事件催化期，结合技术指标（如RSI、布林带）锁定区间边界，能显著提升交易质量。",
+          "trading_opportunity": "在USD/KRW、EUR/USD震荡区间上沿/下沿寻找高盈亏比入场点。",
           "best_platforms": [
             "youtube",
             "zhihu"
           ],
           "content_type": "深度",
-          "estimated_reach": "高",
-          "compliance_notes": "套利策略仍存在市场风险，严禁宣传无风险套利。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440949",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440931",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440930"
-      ]
-    },
-    {
-      "id": 9,
-      "importance": 6,
-      "market": "韩国",
-      "event": "LG Uplus黑客事件隐瞒争议升温，引发韩国本土企业治理与科技股情绪动荡",
-      "source_titles": [
-        "[현장칼럼] 호미로 막을 것을 가래로 막는 LG유플러스"
-      ],
-      "angles": [
+          "estimated_reach": "中（适合技术派散户）",
+          "compliance_notes": "提示技术指标存在滞后性，需配合严格风控。"
+        },
         {
-          "angle": "企业黑天鹅与黑客风波：个股CFD做空机制的风险对冲应用",
-          "hook": "LG유플러스 해킹 논란 악화! 악재 터진 개별 종목, 리스크 관리 법은?",
-          "core_message": "突发合规与安全危机常导致个股短期剧烈下跌，CFD工具可提供灵活的做空对冲途径。",
-          "trading_opportunity": "关注科技/电信板块个股CFD的风险对冲与卖空机会。",
+          "angle": "平台功能与注册引导",
+          "hook": "零成本演练突发行情！如何在模拟账户中无风险测试你的黑天鹅策略",
+          "core_message": "面对震荡激烈的国际汇市，先在体验账户中验证交易逻辑与灵活杠杆比例，是成熟交易者的第一步。",
+          "trading_opportunity": "无真实资金损失风险的策略测试与模拟演练。",
           "best_platforms": [
-            "naver_blog",
-            "youtube"
+            "xhs",
+            "telegram",
+            "instagram"
           ],
-          "content_type": "科普",
-          "estimated_reach": "中（韩国本土股市散户）",
-          "compliance_notes": "避开敏感个股投资建议，强调CFD作为风险管理工具的功能。"
+          "content_type": "图文",
+          "estimated_reach": "中（转化潜客）",
+          "compliance_notes": "严格使用“注册体验账户”、“存入资金”等合规词汇，轻度提示引导注册。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440971"
-      ]
-    },
-    {
-      "id": 12,
-      "importance": 9,
-      "market": "中国",
-      "event": "地缘政治与国际油价高企背景下，中国外贸与离岸人民币（CNH）波动分析",
-      "source_titles": [
-        "[뉴욕유가] 중동 우려에 급등…WTI 다시 100달러대·브렌트 6개월來 최고",
-        "[뉴욕환시] 달러 나흘만에↑…美 국채금리 반등 속 프랑스發 유로 약세"
-      ],
-      "angles": [
-        {
-          "angle": "油价破百加剧输入型通胀压力？USD/CNH交易员应对策略",
-          "hook": "国际油价破100美元！离岸人民币走势如何变阵？华尔街机构怎么看？",
-          "core_message": "能源进口成本上升叠加美元反弹，离岸人民币短期承受一定压力，波动率上升。",
-          "trading_opportunity": "利用USD/CNH做多或区间波段操作，关注7.25-7.30关键阻力位。",
-          "best_platforms": [
-            "zhihu",
-            "douyin"
-          ],
-          "content_type": "深度",
-          "estimated_reach": "高（中国散户高度关注人民币汇率）",
-          "compliance_notes": "严禁使用'入金'、'保本'，提及资金存入时使用'存入资金'，提倡理性交易。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440931",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4440938"
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441064",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441053"
       ]
     }
   ]
