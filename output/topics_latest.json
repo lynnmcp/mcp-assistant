@@ -1,93 +1,285 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "market_summary": {
-    "cn": "中国9月工业企业利润同比大幅回升14.4%，为离岸中国资产及商品货币（如澳元）注入修复动能。",
-    "kr": "韩元受半导体出口商结汇支撑维持在1320区间，加之加密货币征税有望再次延期，本土散户关注焦点集中于科技财报与税制变动。",
-    "global": "超级央行周来临前夕，中东局势出现缓和曙光压低原油，Anthropic提交IPO申请重新点燃AI板块与美股风险偏好。"
+    "cn": "美联储决议公布在即，美元维持强劲，中国散户交易者聚焦美股AI概念股CFD与黄金原油的大幅波动交易机会。",
+    "kr": "한국 3분기 GDP 호조에도 달러-원 1,320원대 관망세 지속, SK하이닉스 실적 발표 및 가상자산 과세 유예 논의가 화두.",
+    "global": "FOMC 회의를 앞두고 글로벌 시장은 AI 낙관론 재개, 국제유가 100달러 하회, 호주 물가 상승에 따른 금리 인상 기대감이 공존."
   },
   "topics": [
     {
       "id": 1,
-      "importance": 9,
+      "importance": 10,
       "market": "全球",
-      "event": "美联储利率决议前夕，美债收益率停滞于3周低点，美元指数窄幅震荡",
+      "event": "FOMC利率决议倒计时，美鹰派信号预期推动美元指数创两周新高",
       "source_titles": [
-        "U.S. yields hover near 3-week lows as ahead of Fed decision",
-        "Dollar rebounds as euro slips ahead of key central bank decisions",
-        "US Treasury sells $69 billion of 2-year notes at a high yield of 4.708%"
+        "[신윤우의 외환분석] 싱거워도 놓칠 수 없는 FOMC",
+        "[뉴욕환시] 달러 사흘째↑…되살아난 AI 낙관론 속 FOMC 'D-1' 경계감",
+        "Dollar hits 2-week high a day ahead of Fed decision, euro slips on French worries",
+        "investingLive European news wrap: Markets remain rangebound ahead of the FOMC decision"
       ],
       "angles": [
         {
-          "angle": "宏观利率决议前瞻与外汇交易策略",
-          "hook": "美联储议息在即，美债收益率创3周新低！美元指数反弹是诱多还是洗盘？",
-          "core_message": "议息前夕市场流动性紧缩，美债拍卖需求平平，交易员需防范决议公布后的买预期卖事实行情。",
-          "trading_opportunity": "关注EUR/USD、USD/JPY在决议公布前的突破方向，利用灵活杠杆进行区间突破挂单。",
+          "angle": "决议前夕的EUR/USD与USD/JPY冲高回落对冲策略",
+          "hook": "美联储利率决议前夜，美元指数反弹至两周高点，散户如何用灵活杠杆捕捉决议前后的瞬时波动？",
+          "core_message": "FOMC决议前的市场观望与鹰派预警往往带来强烈的短期双向波动，建议交易者做好止损并关注多空转折点。",
+          "trading_opportunity": "逢高做空EUR/USD，或在USD/JPY重回高位时布置波段看跌/看涨期权式CFD组合。",
           "best_platforms": [
+            "zhihu",
             "youtube",
-            "zhihu"
+            "telegram"
           ],
           "content_type": "深度",
-          "estimated_reach": "高互动，适合吸引中高级外汇交易员",
-          "compliance_notes": "提示美联储决议期间市场剧烈波动风险，禁止保证盈利表述。"
+          "estimated_reach": "高（覆盖核心外汇交易群体）",
+          "compliance_notes": "严禁承诺利率决议方向，提示汇率波动风险，使用'注册体验账户'引导模拟盘测试。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "",
-        "https://www.investing.com/news/forex-news/asia-fx-muted-yuan-at-4yr-high-dollar-drifts-lower-ahead-of-cbankpacked-week-4971383",
-        "https://investinglive.com/news/us-treasury-sells-69-billion-of-2-year-notes-at-a-high-yield-of-4-708/"
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441548",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441465",
+        "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-firm-yen-retreats-ahead-of-fed-decision-4974116",
+        "https://investinglive.com/news/investinglive-european-news-wrap-markets-remain-rangebound-ahead-of-the-fomc-decision/"
       ]
     },
     {
       "id": 2,
       "importance": 9,
-      "market": "中国",
-      "event": "中国9月规模以上工业企业利润同比大增14.4%，大幅好于前值",
+      "market": "全球",
+      "event": "澳大利亚9月Trimmed Mean CPI升至3.7%超预期，澳联储加息预期陡升",
       "source_titles": [
-        "China September industrial profits jump 14.4% y/y, rebounding from 4.2% in August"
+        "Australia trimmed mean CPI rises to 3.7%, above forecasts, as RBA hike case firms",
+        "Australian September core inflation (trimmed mean) 3.7% y/y (expected 3.6%)"
       ],
       "angles": [
         {
-          "angle": "中国基本面修复与澳元/中国股指关联交易",
-          "hook": "14.4%！中国工业利润超预期强劲反弹，离岸人民币与澳元迎来抄底良机？",
-          "core_message": "中国经济基本面呈现触底回升信号，不仅对中国A50/恒指构成利好，也将通过贸易传导机制提振澳元（AUD/USD）。",
-          "trading_opportunity": "看多AUD/USD及China A50 CFD，配合止损布局反弹行情。",
+          "angle": "AUD/USD暴涨背后的通胀逻辑与跟进策略",
+          "hook": "澳大利亚核心通胀意外破表！澳联储11月加息概率大增，AUD/USD迎来逢低做多良机？",
+          "core_message": "通胀超预期迫使RBA维持鹰派 stance，与其他偏鸽派G10央行形成政策分化，看好澳元交叉盘表现。",
+          "trading_opportunity": "做多 AUD/USD，或做多 AUD/EUR（利用欧洲弱势与澳洲鹰派分化）。",
           "best_platforms": [
-            "douyin",
-            "zhihu",
-            "xiaohongshu"
+            "tradingview",
+            "naver_blog",
+            "zhihu"
           ],
           "content_type": "科普",
-          "estimated_reach": "极高，契合华人圈对中国宏观数据的关注",
-          "compliance_notes": "严禁承诺收益，提及体验账户功能供用户测试策略。"
+          "estimated_reach": "中高（吸引交叉盘交易者）",
+          "compliance_notes": "交易点位提示需标注为个人分析不构成投资建议。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://investinglive.com/news/china-september-industrial-profits-jump-14-4-y-y-rebounding-from-4-2-in-august/"
+        "https://investinglive.com/news/australia-trimmed-mean-cpi-rises-to-3-7-above-forecasts-as-rba-hike-case-firms/",
+        "https://investinglive.com/news/australian-september-core-inflation-trimmed-mean-3-7-y-y-expected-3-6/"
       ]
     },
     {
       "id": 3,
       "importance": 8,
+      "market": "全球",
+      "event": "伊朗最高领袖释放停战意愿，WTI原油跌破100美元大关",
+      "source_titles": [
+        "[뉴욕유가] 종전 의지 보인 이란 최고지도자…WTI 1.8% 하락",
+        "[뉴욕 금가격] 이란 최고 지도자 종전 의지에 0.9%↑"
+      ],
+      "angles": [
+        {
+          "angle": "地缘政治缓和下，原油与黄金的走势分化拆解",
+          "hook": "原油重回双位数时代！地缘溢价退潮，WTI跌破100美元后交易者该如何布局能量板块？",
+          "core_message": "中东局势缓和直接削弱原油溢价，但避险与通胀预期依然对黄金形成支撑，原油看空/黄金高位震荡为主。",
+          "trading_opportunity": "WTI原油CFD逢高做空，或建立原油与黄金的对冲套利组合。",
+          "best_platforms": [
+            "douyin",
+            "youtube",
+            "instagram"
+          ],
+          "content_type": "短视频",
+          "estimated_reach": "高（热门大众话题）",
+          "compliance_notes": "避免对地缘政治敏感事件做过度政治定性，侧重于价格与商品市场逻辑。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441458",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441453"
+      ]
+    },
+    {
+      "id": 4,
+      "importance": 8,
+      "market": "全球",
+      "event": "Meta增资引发AI投资热潮复苏，美股三大指数及半导体板块强势反弹",
+      "source_titles": [
+        "[뉴욕마켓워치] AI 투자 열기 다시 살아나나…주식·달러↑채권↓",
+        "[뉴욕증시] 'AI 총력전' 메타 증자에 몰린 뭉칫돈…강세 마감",
+        "investingLive Americas market news wrap: Tech stocks rally"
+      ],
+      "angles": [
+        {
+          "angle": "AI概念股重拾升势：纳斯达克100与美股科技股CFD交易指南",
+          "hook": "AI泡沫破裂了？Meta增资被抢购、费城半导体暴涨3.6%，美股科技股牛市还在继续！",
+          "core_message": "大厂资本支出（CapEx）依然坚挺，科技巨头财报季前夕资金重回AI板块，纳指CFD具备波段向上动能。",
+          "trading_opportunity": "做多US100（纳斯达克指数CFD）及NVDA/META等大盘科技股CFD。",
+          "best_platforms": [
+            "xiaohongshu",
+            "youtube",
+            "naver_blog"
+          ],
+          "content_type": "图文",
+          "estimated_reach": "高（受散户高度关注）",
+          "compliance_notes": "禁止使用'稳赚'等保本词汇，提及股票CFD时强调个股高杠杆风险。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441470",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441457",
+        "https://investinglive.com/news/investinglive-americas-market-news-wrap-tech-stocks-rally/"
+      ]
+    },
+    {
+      "id": 5,
+      "importance": 8,
       "market": "韩国",
-      "event": "韩国拟再次延期实施虚拟资产（加密货币）所得税",
+      "event": "韩国Q3 GDP增长1.0%超预期，但出口结汇与强美元交织，USD/KRW维持1320关口",
+      "source_titles": [
+        "[신윤우의 외환분석] GDP, 증시, 유가…무게중심은 아래에",
+        "[노현우의 채권분석] 커브가 털어놓는 이야기",
+        "investingLive Asia-Pacific market news: Regional stocks mostly rose"
+      ],
+      "angles": [
+        {
+          "angle": "韩国经济基本面亮眼 vs 美元强劲，韩元汇率（USD/KRW）攻防战",
+          "hook": "3분기 GDP 1.0% 깜짝 성장에도 달러-원 1,320원 박스권… 서학개미가 알아야 할 환율 매매 전략은?",
+          "core_message": "수출업체 네고물량과 반도체 실적 기대감이 상단을 누르지만, FOMC 경계감으로 하방 역시 제한적인 박스권 흐름.",
+          "trading_opportunity": "USD/KRW 1,325 부근 매도, 1,315 부근 매수하는 박스권 단기 롱숏 전략.",
+          "best_platforms": [
+            "naver_blog",
+            "telegram",
+            "youtube"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "中高（韩国本土交易者）",
+          "compliance_notes": "遵守韩国FSS金融合规要求，不提供具体个股投资建议，专注于外汇CFD逻辑。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441263",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441262",
+        "https://investinglive.com/news/investinglive-asia-pacific-market-news-regional-stocks-mostly-rose/"
+      ]
+    },
+    {
+      "id": 6,
+      "importance": 7,
+      "market": "全球",
+      "event": "美国10月消费者信心指数大幅飙升至91.7，远超预期的81.0",
+      "source_titles": [
+        "October US consumer confidence 91.7 vs 81.0 expected",
+        "US September durable goods orders +1.8% vs +1.7% expected"
+      ],
+      "angles": [
+        {
+          "angle": "美国韧性消费数据如何重塑‘软着陆’与美联储降息预期",
+          "hook": "美国消费者信心大跃升！经济衰退预期再次被打脸，美元资产还能买吗？",
+          "core_message": "超预期的经济数据展现了美国终端需求的韧性，降低了美联储激进降息的必要性，利好美元基调。",
+          "trading_opportunity": "中短期看多USD/CAD、看空XAU/USD（美元走强压制金价）。",
+          "best_platforms": [
+            "zhihu",
+            "wechat"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "中（宏观偏好交易者）",
+          "compliance_notes": "无特殊敏感点，注意用词中立客观。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/october-us-consumer-confidence-vs-81-0-expected/",
+        "https://investinglive.com/news/us-september-durable-goods-orders-1-8-vs-1-7-expected/"
+      ]
+    },
+    {
+      "id": 7,
+      "importance": 7,
+      "market": "韩国",
+      "event": "SK海力士与三星电子财报周到来，KOSPI与半导体板块波动加剧",
+      "source_titles": [
+        "[남승표의 궁변통구] SK하이닉스 실적발표서 듣고 싶은 말"
+      ],
+      "angles": [
+        {
+          "angle": "SK海力士/三星财报季：韩国KOSPI 200指数与半导体CFD前瞻",
+          "hook": "국내 증시 구원투수 등판! SK하이닉스·삼성전자 실적 발표, KOSPI200 지수 CFD 반등 계기 될까?",
+          "core_message": "HBM Demand와 AI 메모리 업황에 대한 컨퍼런스콜 톤앤매너에 따라 KOSPI 200 지수 및 반도체 섹터의 변동성이 급증할 전망.",
+          "trading_opportunity": "실적 발표 직후 KOSPI 200 지수 CFD 돌파 매매 및 변동성 대응.",
+          "best_platforms": [
+            "naver_blog",
+            "youtube",
+            "telegram"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "高（韩国股票与指数交易者）",
+          "compliance_notes": "替换'高杠杆'为'灵活杠杆'，引导使用模拟账户练习策略。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441226"
+      ]
+    },
+    {
+      "id": 8,
+      "importance": 7,
+      "market": "全球",
+      "event": "法国财政危机发酵，消费者信心创2013年以来新低，欧元持续承压",
+      "source_titles": [
+        "France consumer confidence plunges to lowest since 2013 as fiscal worries deepen",
+        "Bond market tensions ease but Treasury yields near 5% and France's debt risks keep investors on edge"
+      ],
+      "angles": [
+        {
+          "angle": "欧洲脆弱环节点燃：法国财政危机如何拖累EUR/USD？",
+          "hook": "法国消费者信心跌至13年最低！债务阴云笼罩欧洲，欧元跌势何时休？",
+          "core_message": "法国财税不确定性与债务风险推高了欧元区尾部风险，在美欧利差扩大的背景下欧元动能不足。",
+          "trading_opportunity": "做空 EUR/USD 或做空 EUR/GBP。",
+          "best_platforms": [
+            "zhihu",
+            "tradingview"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "中（欧洲交叉盘交易者）",
+          "compliance_notes": "避免对法国政局过度煽动性描述，聚焦于财政指标与汇率影响。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/france-consumer-confidence-plunges-to-lowest-since-2013-as-fiscal-worries-deepen/",
+        "https://investinglive.com/news/bond-market-tensions-ease-but-treasury-yields-near-5-and-france-s-debt-risks-keep-investors-on-edge/"
+      ]
+    },
+    {
+      "id": 9,
+      "importance": 6,
+      "market": "韩国",
+      "event": "韩国虚拟资产（加密货币）课税或再次延期，市场关注流动性注入",
       "source_titles": [
         "[최욱의 정책한컷] 가상자산 과세 유예론이 남긴 것"
       ],
       "angles": [
         {
-          "angle": "韩国加密市场政策解读与离岸资金流向",
-          "hook": "韩国散户大获全胜？加密货币征税或再延期，资金会重回高风险资产吗？",
-          "core_message": "税收延期将暂时保留韩国散户在加密与高收益CFD市场的交易热情，减少本土资金流出压力。",
-          "trading_opportunity": "关注BTC/USD及韩元（USD/KRW）波动率，把握散户情绪驱动的短期趋势。",
+          "angle": "韩国加密货币征税延迟：BTC/ETH流动性与加密货币CFD交易影响",
+          "hook": "가상자산 과세 또 유예되나? 코인 투자자가 체크해야 할 비트코인/알트코인 CFD 유동성 변화",
+          "core_message": "과세 유예 논의는 국장 및 가상자산 시장 내 투자 심리 위축을 방지하고 단기 유동성에 긍정적 시그널을 제공함.",
+          "trading_opportunity": "BTC/USD, ETH/USD CFD 롱 포지션 전략 점검.",
           "best_platforms": [
-            "youtube",
-            "instagram"
+            "telegram",
+            "naver_blog",
+            "youtube"
           ],
-          "content_type": "图文",
-          "estimated_reach": "韩国本土市场极高传播度",
-          "compliance_notes": "合规提示加密资产及CFD高风险性，建议新手先注册体验账户。"
+          "content_type": "短视频",
+          "estimated_reach": "高（韩国币圈年轻群体）",
+          "compliance_notes": "加密货币属于高风险资产，必须包含充分的风险揭示声明（Risk Warning）。"
         }
       ],
       "sensitive": false,
@@ -96,278 +288,33 @@
       ]
     },
     {
-      "id": 4,
-      "importance": 8,
-      "market": "全球",
-      "event": "中东多国开启和平会谈，国际原油价格下挫1.5%，刺激黄金反弹",
-      "source_titles": [
-        "[뉴욕유가] 이란·사우디가 만났다…WTI 1.5% 하락",
-        "[뉴욕 금가격] 이란·사우디 등 4개국 회담에 유가 하락하자 0.8%↑",
-        "Saudi Arabia offers cash to Houthis to stop attacks - report"
-      ],
-      "angles": [
-        {
-          "angle": "地缘政治缓和下的原油与黄金联动逻辑",
-          "hook": "中东四国密谈缓和局势，原油暴跌1.5%！为什么金价反而逆势上涨？",
-          "core_message": "地缘风险溢价消退压低原油，但油价下跌缓解了通胀担忧，使市场对央行降息预期回升，进而支撑金价。",
-          "trading_opportunity": "做空WTI原油，同时逢低布局黄金（XAU/USD）多单。",
-          "best_platforms": [
-            "douyin",
-            "youtube"
-          ],
-          "content_type": "短视频",
-          "estimated_reach": "高，原油与黄金是散户最青睐品种",
-          "compliance_notes": "提醒地缘新闻不确定性极高，须设置严格止损。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441199",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441191",
-        "https://investinglive.com/B/"
-      ]
-    },
-    {
-      "id": 5,
-      "importance": 8,
-      "market": "全球",
-      "event": "AI巨头Anthropic正式提交纳斯达克IPO申请，美股科技股全面回暖",
-      "source_titles": [
-        "[뉴욕증시] 앤트로픽 상장 본격 준비…상승 마감",
-        "Anthropic files for IPO on Nasdaq, will use the symbol 'ANT'"
-      ],
-      "angles": [
-        {
-          "angle": "AI IPO热潮与美股指数CFD交易机会",
-          "hook": "Anthropic递交IPO申请！代码'ANT'，AI浪潮下美股纳斯达克指数还能涨多久？",
-          "core_message": "AI超级独角兽上市为美股科技板块注入强心剂，硬件与AI应用供应链企业持续受益。",
-          "trading_opportunity": "通过纳斯达克100指数（NAS100）CFD和英伟达等科技股CFD共享AI成长红利。",
-          "best_platforms": [
-            "xiaohongshu",
-            "zhihu",
-            "instagram"
-          ],
-          "content_type": "科普",
-          "estimated_reach": "中高，吸引科技股与指数投资者",
-          "compliance_notes": "提及杠杆工具时需使用“灵活杠杆”，不得宣称“包赚”。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441196",
-        "https://investinglive.com/news/anthropic-files-for-ipo-on-nasdaq-will-use-the-symbol-ant/"
-      ]
-    },
-    {
-      "id": 6,
-      "importance": 7,
-      "market": "韩国",
-      "event": "半导体巨头出口结汇抛售美元，USD/KRW在1320关口面临强下行压力",
-      "source_titles": [
-        "[신윤우의 외환분석] GDP, 증시, 유가…무게중심은 아래에",
-        "[남승표의 궁변통구] SK하이닉스 실적발표서 듣고 싶은 말"
-      ],
-      "angles": [
-        {
-          "angle": "半导体财报季与韩元汇率实战分析",
-          "hook": "SK海力士与三星财报周到来！为何出口商大量卖出美元，韩元1320成了铁板？",
-          "core_message": "韩国三季度GDP公布在即，芯片大厂抛售美元结汇形成强力阻力，美元/韩元倾向逢高做空。",
-          "trading_opportunity": "做空USD/KRW，或利用相关美韩外汇对进行套利交易。",
-          "best_platforms": [
-            "youtube",
-            "zhihu"
-          ],
-          "content_type": "深度",
-          "estimated_reach": "韩国及跨国华人交易员高度关注",
-          "compliance_notes": "恪守客观分析原则，不承诺任何操作收益率。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441263",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441226"
-      ]
-    },
-    {
-      "id": 7,
-      "importance": 7,
-      "market": "全球",
-      "event": "巴西总统卢拉连任引发市场恐慌，巴西雷亚尔暴跌12%，ETF大跌15%",
-      "source_titles": [
-        "[뉴욕환시] 달러 상승…브라질 헤알, 룰라 연임에 폭락",
-        "Brazil’s real weakens 12% as Lula wins reelection",
-        "Brazil ETF tumbles nearly 15% in Tokyo after Lula’s comeback runoff win"
-      ],
-      "angles": [
-        {
-          "angle": "新兴市场黑天鹅事件与外汇/ETF避险教学",
-          "hook": "选举黑天鹅！巴西货币一夜暴跌12%，新兴市场交叉盘该如何避险？",
-          "core_message": "政治左倾与财政赤字担忧引发外资撤离新兴市场，流动性危机放大震荡幅度。",
-          "trading_opportunity": "学习利用新兴市场货币对（USD/BRL等）及一揽子避险货币（USD, JPY）进行风险对冲。",
-          "best_platforms": [
-            "zhihu",
-            "youtube"
-          ],
-          "content_type": "科普",
-          "estimated_reach": "中等，适合风控与进阶教学",
-          "compliance_notes": "强调黑天鹅事件中滑点风险，建议存入资金时做好风控管理。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441202",
-        "https://www.investing.com/news/forex-news/brazils-real-weakens-12-as-lula-wins-reelection-93CH-4972631",
-        "https://investinglive.com/news/brazil-etf-tumbles-nearly-15-in-tokyo-after-lula-s-comeback-runoff-win/"
-      ]
-    },
-    {
-      "id": 8,
-      "importance": 7,
-      "market": "全球",
-      "event": "日本服务业PPI维持在3.7%高位，日本央行周五决议加息预期坚挺",
-      "source_titles": [
-        "Japan September services PPI holds at 3.7% y/y, in line with forecast, before BoJ",
-        "Japan services PPI preview: 3.7% pace in focus ahead of Friday’s BoJ decision"
-      ],
-      "angles": [
-        {
-          "angle": "日元套利交易解包与日央行议息前瞻",
-          "hook": "日本PPI维持3.7%！12月加息板上钉钉？日元（USD/JPY）空头正在离场！",
-          "core_message": "服务业通胀粘性支持日本央行继续推进货币政策正常化，日元套利交易平仓潮可能随时再现。",
-          "trading_opportunity": "逢高做空USD/JPY，关注157.50关键阻力位表现。",
-          "best_platforms": [
-            "youtube",
-            "douyin"
-          ],
-          "content_type": "短视频",
-          "estimated_reach": "极高，日元是亚洲散户最热衷交易的品种之一",
-          "compliance_notes": "严禁出现“保本”、“必跌”等绝对化词汇。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://investinglive.com/news/japan-september-services-ppi-holds-at-3-7-y-y-in-line-with-forecast-before-boj/",
-        "https://investinglive.com/news/japan-services-ppi-preview-3-7-pace-in-focus-ahead-of-friday-s-boj-decision/"
-      ]
-    },
-    {
-      "id": 9,
-      "importance": 7,
-      "market": "全球",
-      "event": "澳大利亚CPI前瞻：核心通胀或超央行预期，加息概率逼近50%",
-      "source_titles": [
-        "Australia CPI preview: banks see 1.0% core rise, above the RBA’s 0.8% forecast"
-      ],
-      "angles": [
-        {
-          "angle": "数据公布前夕的事件驱动型交易策略",
-          "hook": "通胀超预期？澳洲联储11月加息在即，澳元（AUD/USD）能否迎来大行情？",
-          "core_message": "若核心CPI达到或高于1.0%，市场将迅速消化11月加息预期，为澳元带来强劲买盘。",
-          "trading_opportunity": "在通胀数据公布前设立双向突破策略，或根据实际值做多AUD/USD、AUD/JPY。",
-          "best_platforms": [
-            "zhihu",
-            "xiaohongshu"
-          ],
-          "content_type": "图文",
-          "estimated_reach": "中等，适合喜欢数据日交易的散户",
-          "compliance_notes": "提示数据行情瞬息万变，提醒用户先在体验账户上测试EA或策略。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://investinglive.com/news/australia-cpi-preview-banks-see-1-0-core-rise-above-the-rba-s-0-8-forecast/"
-      ]
-    },
-    {
       "id": 10,
       "importance": 6,
       "market": "全球",
-      "event": "英国秋季预算案即将来袭，英镑在美联储与英央行夹击下维持弱势",
+      "event": "巴西大选卢拉连任后引发市场震荡，雷亚尔与股市暴跌，新兴市场风险上升",
       "source_titles": [
-        "UK autumn budget preview: Can Healey calm markets and change BOE rate hike bets?",
-        "Sterling today: Pound slips as dollar holds firm ahead of Fed decision"
+        "[뉴욕마켓워치] 룰라 당선에 브라질 시장 '발작'…주식·달러↑채권 혼조",
+        "Flávio Bolsonaro reportedly flees Brazil for the US after election loss"
       ],
       "angles": [
         {
-          "angle": "财政政策对汇率的影响——以英镑（GBP/USD）为例",
-          "hook": "英国财政预算案倒计时！特拉斯悲剧会重演吗？英镑汇率面临生死考验！",
-          "core_message": "市场密切关注英国政府的财政计划能否安抚债券市场，财政紧缩或宽松将直接决定英央行未来的降息路线图。",
-          "trading_opportunity": "区间交易GBP/USD，警惕预算案公布时的剧烈洗盘行情。",
+          "angle": "新兴市场避险风暴：从巴西雷亚尔暴跌看EM外汇交易风险控制",
+          "hook": "巴西大选后市场‘发作’！新兴市场货币剧烈波动，CFD交易者如何做好止损与对冲？",
+          "core_message": "政治选举带来的政策转向不确定性会引发极高的黑天鹅风险，散户应避免盲目抄底高波动新兴市场货币。",
+          "trading_opportunity": "教学类：讲解如何在新兴市场事件驱动下利用止损单和灵活杠杆控制风险。",
           "best_platforms": [
             "zhihu",
-            "youtube"
-          ],
-          "content_type": "深度",
-          "estimated_reach": "适合中阶外汇交易者",
-          "compliance_notes": "规范引导用户“存入资金”并设置合理止损，不进行违规引流。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://investinglive.com/news/uk-autumn-budget-preview-can-healey-calm-markets-and-change-boe-rate-hike-bets/",
-        "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-holds-firm-ahead-of-fed-decision-4971754"
-      ]
-    },
-    {
-      "id": 11,
-      "importance": 6,
-      "market": "全球",
-      "event": "法国财政危机深化致国债收益率飙升，市场推测ECB介入干预触发点",
-      "source_titles": [
-        "[뉴욕은 지금] ECB가 프랑스 국채에 개입하는 트리거",
-        "investingLive European session wrap: Stocks rebound as oil eases, French bonds find relief"
-      ],
-      "angles": [
-        {
-          "angle": "欧洲主权债务风险与欧元（EUR/USD）下行压力",
-          "hook": "法国财危升级！欧洲央行会不会出手救市？欧元反弹动力还能维持多久？",
-          "core_message": "法国政治与财政不确定性压制欧元上限，即使欧洲央行介入干预，也难以从根本上扭转欧元区的经济疲软趋势。",
-          "trading_opportunity": "逢高做空EUR/USD，或做多EUR/CHF作为对冲策略。",
-          "best_platforms": [
-            "youtube",
-            "instagram"
-          ],
-          "content_type": "科普",
-          "estimated_reach": "中等",
-          "compliance_notes": "引导用户理性看待宏观风险，不使用“稳赚”表述。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441064",
-        "https://investinglive.com/news/investinglive-european-session-wrap-stocks-rebound-as-oil-eases-french-bonds-find-relief/"
-      ]
-    },
-    {
-      "id": 12,
-      "importance": 6,
-      "market": "全球",
-      "event": "美加拟就钢铁与汽车关税达成协议，美加墨贸易协议再显曙光",
-      "source_titles": [
-        "US and Canada working on deal to ease tariffs on Canadian steel and auto imports",
-        "Carney says Canada has not budged as US trade deal looks less imminent than claimed",
-        "Canadian dollar steadies after seven-day rally ahead of rate decisions"
-      ],
-      "angles": [
-        {
-          "angle": "关税谈判与加元（USD/CAD）震荡行情破局",
-          "hook": "美加关税破冰还是假新闻？加元连涨7天后，USD/CAD方向怎么选？",
-          "core_message": "贸易关税缓和将利好加拿大出口，但鉴于协议尚未完全落地，美元/加元短期将在央行利率决议前维持高位震荡。",
-          "trading_opportunity": "围绕USD/CAD技术支撑阻力位进行高抛低吸，结合灵活杠杆控制仓位。",
-          "best_platforms": [
-            "xiaohongshu",
             "douyin"
           ],
-          "content_type": "短视频",
-          "estimated_reach": "适合交叉盘交易爱好者",
-          "compliance_notes": "开户表述需规范为“注册体验账户”。"
+          "content_type": "科普",
+          "estimated_reach": "中（偏好风控科普的交易者）",
+          "compliance_notes": "不评论巴西选举政治本身，重点放在外汇与新兴市场资产的风控案例展示。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://investinglive.com/news/us-and-canada-working-on-deal-to-ease-tariffs-on-canadian-steel-and-auto-imports/",
-        "https://investinglive.com/news/carney-says-canada-has-not-budged-as-us-trade-deal-looks-less-imminent-than-claimed/",
-        "https://www.investing.com/news/forex-news/canadian-dollar-steadies-after-sevenday-rally-ahead-of-rate-decisions-4973829"
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4441215",
+        "https://investinglive.com/news/flavio-bolsonaro-reportedly-flees-brazil-for-the-us-after-election-loss/"
       ]
     }
   ]
