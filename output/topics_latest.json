@@ -1,380 +1,305 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-08-17",
   "market_summary": {
-    "cn": "美股科技巨头财报利空引发跨资产流动性挤兑，黄金与汇市避险情绪升温，交易者需警惕多头连环平仓风险。",
-    "kr": "미국 빅테크 실적 쇼크로 인한 위험회피 심리로 달러-원 환율 상승 및 엔화 안전자산 매수세 강화.",
-    "global": "AI资本支出担忧重创全球股市，美债与日元发挥避险属性，欧洲数据好坏参半令ECB决策面临两难。"
+    "cn": "科技股财报利空与中东局势升级交织，避险资金流向日元瑞士法郎，商品与外汇市场波动剧烈。",
+    "kr": "아마존·인텔 실적 쇼크와 호르무즈 해협 위기로 위험자산 투매, 엔화·스위스프랑 등 안전통화 강세.",
+    "global": "美股科技股暴跌引发全盘避险，原油因霍尔木兹海峡地缘危机大涨，金价因补仓抛售逆势大跌。"
   },
   "topics": [
     {
       "id": 1,
       "importance": 10,
       "market": "全球",
-      "event": "美股科技巨头财报冲击引发全球风险厌恶，纳斯达克与美债收益率同步走低，日元与瑞郎避险大涨",
+      "event": "霍尔木兹海峡油轮爆破刺激原油暴涨，布伦特原油创6个月新高",
       "source_titles": [
-        "[뉴욕마켓워치] 위험 자산에 극도로 예민한 장세…주식·달러↓채권↑",
-        "[뉴욕환시] 달러 사흘째↓…기술투 투매 속 '엔·스위스프랑' 강세",
-        "[뉴욕증시] '아마존 쇼크'에 전방위 기술주 투매…필리 7.20%↓"
+        "[뉴욕유가] 호르무즈 해협서 유조선 3척 폭발…브렌트유 6개월來 최고"
       ],
       "angles": [
         {
-          "angle": "避险情绪驱动下的USD/JPY与美股指数CFD交叉交易策略",
-          "hook": "科技巨头失速引发避险海啸，日元大涨！此时做空股指还是买入日元？",
-          "core_message": "AI投资回报率质疑触发美股暴跌，资金涌入日元与美债避险，USD/JPY短期承压，指数CFD波动率剧增。",
-          "trading_opportunity": "关注USD/JPY跌破157.50后的顺势做空机会，以及纳斯达克100指数CFD的反弹做空机会。",
+          "angle": "地缘政治黑天鹅下的原油CFD追涨与止损突破策略",
+          "hook": "霍尔木즈海峡油轮爆炸！原油单日暴涨2%，后市还能上车吗？",
+          "core_message": "地缘政治引发原油供给端恐慌，原油CFD短期呈强动能突破形态，但需防范消息面平息后的剧烈回撤。",
+          "trading_opportunity": "关注WTI及Brent原油突破前高后的回调买入机会，防范地缘黑天鹅止损离场。",
           "best_platforms": [
-            "zhihu",
-            "youtube"
+            "douyin",
+            "youtube",
+            "zhihu"
           ],
-          "content_type": "深度",
-          "estimated_reach": "高爆款潜力",
-          "compliance_notes": "严禁承诺收益，提及杠杆时须标注风险警示并使用'灵活杠杆'表述。"
+          "content_type": "短视频",
+          "estimated_reach": "高曝光/高转化",
+          "compliance_notes": "禁止承诺保本收益，提示原油隔夜利息与波动风险，替换高杠杆为灵活杠杆。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442312",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442301",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442297"
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442298"
       ]
     },
     {
       "id": 2,
       "importance": 9,
-      "market": "中国",
-      "event": "黄金价格失守4000美元关口，美股爆仓引发现金补缴与黄金强制平仓抛售",
+      "market": "全球",
+      "event": "科技股暴跌触发避险，日元与瑞士法郎逆势强劲大涨",
       "source_titles": [
-        "[뉴욕 금가격] 유가 상승 속 기술주 투매에 3% 하락…4,000달러 밑으로",
-        "investingLive European session wrap: AI spending fears spook tech stocks; dollar falls alongside yields, gold"
+        "[뉴욕환시] 달러 사흘째↓…기술투 투매 속 '엔·스위스프랑' 강세"
       ],
       "angles": [
         {
-          "angle": "解密‘股市暴跌、金价为何跟着崩盘’的流动性挤兑逻辑",
-          "hook": "避险之王黄金突然狂跌3%失守关键心理关口！真相居然是股市爆仓补保证金？",
-          "core_message": "当股市大幅亏损时，机构投资者被迫抛售黄金等优质资产变现以补充保证金，呈现典型的流动性危机特征。",
-          "trading_opportunity": "XAU/USD跌破4000美元后观察超卖企稳信号，等待流动性平息后的逢低布局机会。",
+          "angle": "避险货币套利逻辑：美股暴跌时为什么首选USD/JPY和USD/CHF做空？",
+          "hook": "美股崩盘美元却在跌？真正的避险之王竟然是日元和瑞郎！",
+          "core_message": "避险情绪升温导致美债收益率下行，日元与瑞郎作为传统避险货币表现远优于美元。",
+          "trading_opportunity": "做空 USD/JPY 与 USD/CHF，利用避险资金流入捕获外汇趋势波段。",
           "best_platforms": [
-            "douyin",
-            "xiaohongshu",
-            "zhihu"
+            "zhihu",
+            "youtube",
+            "instagram"
           ],
-          "content_type": "科普",
-          "estimated_reach": "极高互动",
-          "compliance_notes": "不得使用'抄底保本'等字眼，轻度引导至MC Prime注册体验账户模拟操作。"
+          "content_type": "深度",
+          "estimated_reach": "中高曝光/专业转化",
+          "compliance_notes": "严禁使用稳赚表述，引导注册体验账户测试避险策略。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442292",
-        "https://investinglive.com/news/investinglive-european-session-wrap-ai-spending-fears-spook-tech-stocks-dollar-falls-alongside-yields-gold/"
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442301"
       ]
     },
     {
       "id": 3,
       "importance": 9,
-      "market": "韩国",
-      "event": "AI热潮降温冲击半导体与出口预期，美元兑韩元（USD/KRW）上探1,330区域",
+      "market": "全球",
+      "event": "避险情绪下国际金价逆势暴跌3%跌破4000美元大关",
       "source_titles": [
-        "[신윤우의 외환분석] 위로 향하는 AI 찬바람",
-        "[윤영숙의 시선] 삼성 '100조원대 환원'에도 박수받지 못한 이유"
+        "[뉴욕 금가격] 유가 상승 속 기술주 투매에 3% 하락…4,000달러 밑으로"
       ],
       "angles": [
         {
-          "angle": "韩国散户如何通过外汇与股指CFD对冲国内半导体股票下跌风险",
-          "hook": "삼성전자 주주환원에도 주가 5% 하락? AI 역풍 속 달러-원 1,330원 돌파, 내 계좌 지키는 헤징 전략",
-          "core_message": "AI投资泡沫疑虑打击韩国芯片出口龙头，韩元承压贬值，利用外汇与指数CFD对冲可有效降低现货股票回撤。",
-          "trading_opportunity": "做多USD/KRW或建立半导体指数CFD空头头寸，对冲KOSPI现货风险。",
+          "angle": "反常识解析：避险情绪高企，为什么黄金反而暴跌3%？",
+          "hook": "避险夜黄金不涨反跌跌破$4000？揭秘美股爆仓引爆的‘流动性危机’！",
+          "core_message": "科技股暴跌导致机构遭遇流动性追加保证金（Margin Call），被迫卖出黄金变现补仓，导致黄金短期超跌。",
+          "trading_opportunity": "黄金XAUUSD短线超跌后的超买超卖修复机会，关注跌压释放后的企稳反弹。",
           "best_platforms": [
-            "naver_blog",
-            "youtube"
+            "zhihu",
+            "youtube",
+            "douyin"
           ],
-          "content_type": "深度",
-          "estimated_reach": "韩国本地高针对性",
-          "compliance_notes": "引导注册体验账户测试对冲策略，严禁保证对冲无风险。"
+          "content_type": "科普",
+          "estimated_reach": "极高互动/高转发",
+          "compliance_notes": "说明保证金追加机制，严禁引导无风险套利。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442122",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442082"
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442292"
       ]
     },
     {
       "id": 4,
-      "importance": 8,
+      "importance": 9,
       "market": "全球",
-      "event": "霍尔木兹海峡油轮爆炸引发中东局势紧张，布伦特原油暴涨2%创6个月新高",
+      "event": "亚玛逊与英特尔业绩冲击引发美股科技股全线暴跌",
       "source_titles": [
-        "[뉴욕유가] 호르무즈 해협서 유조선 3척 폭발…브렌트유 6개월來 최고",
-        "[뉴욕유가] 이란에 서한 보낸 美 부통령…WTI 0.8%↓"
+        "[뉴욕증시] '아마존 쇼크'에 전방위 기술주 투매…필리 7.20%↓",
+        "[뉴욕마켓워치] 위험 자산에 극도로 예민한 장세…주식·달러↓채권↑"
       ],
       "angles": [
         {
-          "angle": "地缘政治地雷炸响，原油（WTI/Brent）黑天鹅行情交易指南",
-          "hook": "霍尔木兹海峡突发爆炸，原油瞬间飙升！地缘政治突发新闻下，散户如何挂单捕捉突破？",
-          "core_message": "地缘冲突推高原油风险溢价，原油CFD短期波动剧烈，需严格设置止损并避免过高杠杆。",
-          "trading_opportunity": "关注WTI原油突破104美元后的动量跟进，同时严防美国外交干预引发的高位剧烈回调。",
+          "angle": "英特尔闪跌30%：美股指数CFD与科技股股指对冲实战",
+          "hook": "英特尔单日崩盘30%！持有美股现货如何用指数CFD做空对冲？",
+          "core_message": "巨头财报雷爆引发纳斯达克及费城半导体指数暴跌，散户可通过股指CFD双向交易规避现货持仓风险。",
+          "trading_opportunity": "利用NAS100与US500股指CFD进行短线对冲或动能突破交易。",
           "best_platforms": [
-            "douyin",
-            "weibo"
+            "youtube",
+            "zhihu",
+            "instagram"
           ],
-          "content_type": "短视频",
-          "estimated_reach": "高时效流量",
-          "compliance_notes": "避免对地缘政治进行主观政治立场评价，仅聚焦市场影响。"
+          "content_type": "图文",
+          "estimated_reach": "高精准度/高开户意向",
+          "compliance_notes": "替换开户为注册体验账户，强调衍生品交易风险。"
         }
       ],
-      "sensitive": true,
+      "sensitive": false,
       "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442298",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442059"
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442297",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442312"
       ]
     },
     {
       "id": 5,
       "importance": 8,
       "market": "全球",
-      "event": "欧洲经济陷‘滞胀’困境：法国Q3 GDP收缩，西班牙与意大利通胀顽固高企",
+      "event": "美债收益率曲线陡峭化，市场对美联储加息预期降温",
       "source_titles": [
-        "France's economy contracts in Q3 as growth troubles pile up for the ECB",
-        "Spain inflation remains stubbornly high near 5% as the ECB headache gets worse",
-        "Eurozone Q3 GDP beats expectations but the growth surprise comes with a catch"
+        "[뉴욕채권] 단기물 강세 속 스팁…기술주 급락에 추가 금리 인상 베팅↓"
       ],
       "angles": [
         {
-          "angle": "欧元区滞胀阴影加剧，EUR/USD基本面破位拆解",
-          "hook": "法国经济负增长，西班牙通胀却飙到5%！欧洲央行进退两难，欧元要跌去哪？",
-          "core_message": "欧洲经济体内部出现严重分化，加息抑制通胀会损害经济增长，降息又恐引发二次通胀，欧元缺乏持续上涨动能。",
-          "trading_opportunity": "逢高做空EUR/USD或EUR/GBP，利用灵活杠杆把握交叉盘震荡下行机会。",
-          "best_platforms": [
-            "zhihu",
-            "naver_blog"
-          ],
-          "content_type": "图文",
-          "estimated_reach": "中高专业受众",
-          "compliance_notes": "合规使用术语，'存入资金'代替'入金'。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://investinglive.com/news/france-s-economy-contracts-in-q3-as-growth-troubles-pile-up-for-the-ecb/",
-        "https://investinglive.com/news/spain-inflation-remains-stubbornly-high-near-5-as-the-ecb-headache-gets-worse/",
-        "https://investinglive.com/news/eurozone-q3-gdp-beats-expectations-but-the-growth-surprise-comes-with-a-catch/"
-      ]
-    },
-    {
-      "id": 6,
-      "importance": 8,
-      "market": "全球",
-      "event": "英国央行加息预期维持坚挺，英镑对瑞郎及美元展现相对韧性",
-      "source_titles": [
-        "UBS sees scope for further sterling gains as short positioning creates upside",
-        "UBS sees Bank of England rate hikes supporting pound vs franc",
-        "Fitch on UK Budget: Policy continuity leaves a tough delivery challenge"
-      ],
-      "angles": [
-        {
-          "angle": "央行货币政策背离下的货币对选择：为什么看好英镑（GBP/CHF）",
-          "hook": "同样是欧洲货币，为什么英镑比欧元硬气？瑞银喊话英镑仍有大上涨空间！",
-          "core_message": "英国央行加息预期与空头回补资金为英镑提供支撑，GBP/CHF与GBP/USD存在利差交易与结构性突破机会。",
-          "trading_opportunity": "寻找GBP/CHF逢低做多机会，留意BoE决议前的震荡积蓄动能阶段。",
+          "angle": "收益率曲线 Bull Steepening 释放什么信号？对外汇交易者的启示",
+          "hook": "美债短端收益率大跌！美联储加息预期降温，汇市大行情来了？",
+          "core_message": "科技股衰退忧虑压低加息预期，美债短端收益率快速下行，利空美债收益率敏感型外汇品种。",
+          "trading_opportunity": "关注EUR/USD、GBP/USD等非美货币在利空消化后的阶段性做多机会。",
           "best_platforms": [
             "zhihu",
             "youtube"
           ],
           "content_type": "深度",
-          "estimated_reach": "中等",
-          "compliance_notes": "明确声明分析仅供参考，不构成投资建议。"
+          "estimated_reach": "中等曝光/高质量交易者",
+          "compliance_notes": "保持中立客观，避免对央行政策做出绝对预测。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://www.investing.com/news/forex-news/ubs-sees-scope-for-further-sterling-gains-as-short-positioning-creates-upside-4987181",
-        "https://www.investing.com/news/forex-news/ubs-sees-bank-of-england-rate-hikes-supporting-pound-vs-franc-93CH-4986322",
-        "https://investinglive.com/news/fitch-on-uk-budget-policy-continuity-leaves-a-tough-delivery-challenge/"
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442299"
+      ]
+    },
+    {
+      "id": 6,
+      "importance": 8,
+      "market": "韩国",
+      "event": "费城半导体指数大跌7.2%，韩元及韩国半导体产业链震荡",
+      "source_titles": [
+        "[뉴욕증시] '아마존 쇼크'에 전방위 기술주 투매…필리 7.20%↓",
+        "[기업 이모저모] 회장님의 이중생활"
+      ],
+      "angles": [
+        {
+          "angle": "美半导体指数大跌7.2%对韩元(USD/KRW)与KOSPI的连带冲击",
+          "hook": "필라델피아 반도체 7.2% 폭락! 원/달러 환율과 국장 반도체주 영향은?",
+          "core_message": "全球AI半导体链受挫拖累韩元走势，跨市场套利交易者需防范USD/KRW波动率剧升。",
+          "trading_opportunity": "捕捉USD/KRW短线向上波动以及利用灵活杠杆对冲KOSPI下行风险。",
+          "best_platforms": [
+            "youtube",
+            "instagram",
+            "naver_blog"
+          ],
+          "content_type": "短视频",
+          "estimated_reach": "韩国本土高关注",
+          "compliance_notes": "使用‘存入资金’替代‘入金’，遵守韩国金融广告规范。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442297",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442351"
       ]
     },
     {
       "id": 7,
-      "importance": 8,
+      "importance": 7,
       "market": "全球",
-      "event": "美国国会中期选举倒计时，政治不确定性导致美元指数与美债高位震荡",
+      "event": "股落、油升、金降：跨资产背离下的CFD多资产组合交易法",
       "source_titles": [
-        "[문정현의 글로브] 美 중간선거 이후 시장은",
-        "Week ahead: Elections, rate decisions and jobs take center stage",
-        "Sterling today: Pound firms as dollar slips on midterm, AI jitters"
+        "[뉴욕마켓워치] 위험 자산에 극도로 예민한 장세…주식·달러↓채권↑",
+        "[뉴욕유가] 호르무즈 해협서 유조선 3척 폭발…브렌트유 6개월來 최고",
+        "[뉴욕 금가격] 유가 상승 속 기술주 투매에 3% 하락…4,000달러 밑으로"
       ],
       "angles": [
         {
-          "angle": "美国中期选举前夕，外汇市场‘大风暴’避险交易前瞻",
-          "hook": "美股中期选举倒计时3天！分裂国会还是民主党横扫？看懂这三种走势提前布阵！",
-          "core_message": "中期选举结果将重塑美国财政与贸易政策预期，历史数据表明选举前后外汇波动率增加显著。",
-          "trading_opportunity": "利用美元指数（DXY）和主要非美货币的期权/CFD工具，在大选前降低单边持仓，采用突破对冲策略。",
+          "angle": "股债油金全线异动！如何利用CFD一站式交易多资产套利",
+          "hook": "美股跌、原油涨、黄金降！单一品种太难做？教你跨资产对冲配比",
+          "core_message": "极端行情下单一资产易受挤压，利用CFD多资产交易功能可分散单一市场风险。",
+          "trading_opportunity": "构建‘做空股指+做多原油+做空USD/JPY’的跨资产对冲组合。",
           "best_platforms": [
+            "zhihu",
             "youtube",
-            "weibo"
+            "douyin"
           ],
-          "content_type": "短视频",
-          "estimated_reach": "高话题度",
-          "compliance_notes": "保持政治中立，专注金融市场影响。"
+          "content_type": "科普",
+          "estimated_reach": "高开户转化",
+          "compliance_notes": "强调分散风险不等于无风险，轻度植入MC Prime多资产交易优势。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442213",
-        "https://investinglive.com/news/week-ahead-elections-rate-decisions-and-jobs-take-center-stage/",
-        "https://www.investing.com/news/forex-news/sterling-today-pound-firms-as-dollar-slips-on-midterm-ai-jitters-4986986"
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442312",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442298",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442292"
       ]
     },
     {
       "id": 8,
       "importance": 7,
       "market": "全球",
-      "event": "日本央行维持1.25%利率不变并调高通胀预期，日元套息交易继续平仓",
+      "event": "黑天鹅频繁暴发下的散户风控：跳空缺口与止损平仓逻辑",
       "source_titles": [
-        "investingLive Asia-Pacific market news: Binance hack shakes crypto",
-        "[뉴욕환시] 달러 사흘째↓…기술투 투매 속 '엔·스위스프랑' 강세"
+        "[뉴욕유가] 호르무즈 해협서 유조선 3척 폭발…브렌트유 6개월來 최고"
       ],
       "angles": [
         {
-          "angle": "日本央行靴子落地，日元升值通道是否已全面打开？",
-          "hook": "BOJ按兵不动却放出鹰派信号！2%通胀目标达成，USD/JPY会跌破150吗？",
-          "core_message": "日本央行确认通胀达成目标，未来继续加息空间打开，配合美联储降息预期，日元长线看涨逻辑确立。",
-          "trading_opportunity": "关注USD/JPY反弹至阻力位的做空机会，或做多EUR/JPY空头头寸。",
+          "angle": "地缘突发事件引发开盘跳空，如何设置负余额保护与动态止损？",
+          "hook": "油轮爆炸原油直接跳空高开！你的止损单被穿仓了吗？",
+          "core_message": "突发黑天鹅易引发流动性空洞，合规券商的负余额保护与灵活杠杆管理是散户生存关键。",
+          "trading_opportunity": "风控教学：防范周末/隔夜跳空风险，合理控制持仓过夜杠杆。",
           "best_platforms": [
-            "naver_blog",
-            "zhihu"
+            "zhihu",
+            "instagram",
+            "youtube"
           ],
-          "content_type": "图文",
-          "estimated_reach": "中高",
-          "compliance_notes": "规范表达，禁称'稳赚套利'。"
+          "content_type": "科普",
+          "estimated_reach": "提升品牌信任度",
+          "compliance_notes": "宣传牌照与负余额保护，严禁使用保本保收益字眼。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://investinglive.com/news/investinglive-asia-pacific-market-news-binance-hack-shakes-crypto/",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442301"
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442298"
       ]
     },
     {
       "id": 9,
-      "importance": 7,
+      "importance": 6,
       "market": "全球",
-      "event": "美国三季度劳工成本指数（ECI）坚挺，通胀粘性加剧美联储鹰派加息担忧",
+      "event": "保证金追缴（Margin Call）原理：为什么美股崩盘会拉垮黄金？",
       "source_titles": [
-        "US employment cost index for Q3 +0.8% vs +0.8% expected",
-        "[뉴욕 금가격] 끈적한 美 인플레에 0.5% 하락"
+        "[뉴욕 금가격] 유가 상승 속 기술주 투매에 3% 하락…4,000달러 밑으로"
       ],
       "angles": [
         {
-          "angle": "从ECI与CPI数据看美联储利率走向：为什么利率维持高位更久？",
-          "hook": "工资还在涨！美国三季度ECI数据曝光，美联储降息梦碎？散户如何调整持仓？",
-          "core_message": "劳动力成本居高不下支撑美联储维持高利率政策，美债收益率有反弹需求，压制非美货币与黄金表现。",
-          "trading_opportunity": "在非农与FOMC会议前，逢高做空金价（XAU/USD）及高贝塔非美货币。",
+          "angle": "交易误区避坑：流动性危机中的‘卖出优质资产’现象",
+          "hook": "为什么市场越恐慌，机构越急着卖黄金？揭秘 Margin Call 链条反应！",
+          "core_message": "当股票保证金不足时，机构被迫平仓获利且流动性好的黄金来补充保证金，散户切忌盲目抄底。",
+          "trading_opportunity": "观察保证金平仓潮结束信号，寻找黄金超跌反弹的右侧入场点。",
           "best_platforms": [
             "zhihu",
             "douyin"
           ],
           "content_type": "科普",
-          "estimated_reach": "中等",
-          "compliance_notes": "替换敏感词，使用'注册体验账户'引导试用。"
+          "estimated_reach": "中等曝光/建立专业形象",
+          "compliance_notes": "科普性质为主，自然引导交易者在体验账户中熟悉保证金率计算。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://investinglive.com/news/us-employment-cost-index-for-q3-0-8-vs-0-8-expected/",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442049"
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442292"
       ]
     },
     {
       "id": 10,
-      "importance": 7,
+      "importance": 6,
       "market": "全球",
-      "event": "加拿大8月GDP零增长且三季度增长疲软，加元走弱推动USD/CAD攀升",
+      "event": "美联储政策转向阴影下，美元指数连续三日走弱",
       "source_titles": [
-        "Canada GDP for August 0.0% vs 0.2% estimate",
-        "Carney: Canada, EU working toward deepest possible partnership, short of accession"
+        "[뉴욕환시] 달러 사흘째↓…기술투 투매 속 '엔·스위스프랑' 강세"
       ],
       "angles": [
         {
-          "angle": "加拿大经济失速与原油波动交织下的USD/CAD单边趋势捕捉",
-          "hook": "加拿大经济零增长！即使油价上涨也救不了加元？USD/CAD突破行情来了！",
-          "core_message": "加拿大基本面疲软加剧加拿大央行降息压力，尽管原油暴涨提供一定支撑，但美加利差扩大仍主导USD/CAD上行。",
-          "trading_opportunity": "USD/CAD回踩支撑位做多，注意原油价格突发暴涨对加元的短期干扰。",
-          "best_platforms": [
-            "naver_blog",
-            "instagram"
-          ],
-          "content_type": "图文",
-          "estimated_reach": "中等",
-          "compliance_notes": "提示交叉盘交易风险，合理控制仓位。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://investinglive.com/news/canada-gdp-for-august-0-0-vs-0-2-estimate/",
-        "https://investinglive.com/news/carney-canada-eu-working-toward-deepest-possible-partnership-short-of-accession/"
-      ]
-    },
-    {
-      "id": 11,
-      "importance": 7,
-      "market": "全球",
-      "event": "币安安全恐慌与科技股砸盘双重打击，比特币测试关键支撑位",
-      "source_titles": [
-        "investingLive Americas FX news wrap 30 Oct: It’s a wrap: Nasdaq tumbles as AI costs worry investors; Fed speakers keep hikes in play",
-        "investingLive Asia-Pacific market news: Binance hack shakes crypto"
-      ],
-      "angles": [
-        {
-          "angle": "黑客阴霾与美股去风险化：加密货币与纳斯达克指数的相关性分析",
-          "hook": "币安安全危机加上美股科技股暴跌，BTC直接跳水！加密市场还能避险吗？",
-          "core_message": "加密货币目前仍属于高贝塔风险资产，在宏观流动性紧缩与安全事件双重打击下，与美股科技股高度正相关。",
-          "trading_opportunity": "利用MC Prime的加密货币CFD进行双向交易，在市场恐慌期做空BTC/USD或进行跨资产对冲。",
+          "angle": "美元指数(DXY)连跌三天，外汇主要货币对的技术面突破布局",
+          "hook": "美元指数连续3日下行！主操盘手如何布局EUR/USD与GBP/USD？",
+          "core_message": "美元弱势形态确立，非美货币普遍迎来技术性反弹窗口。",
+          "trading_opportunity": "寻找EUR/USD关键阻力突破位的做多机会及严格风控点位。",
           "best_platforms": [
             "youtube",
-            "instagram"
-          ],
-          "content_type": "短视频",
-          "estimated_reach": "高青年受众关注度",
-          "compliance_notes": "强调加密资产极高波动风险，禁止承诺保本。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://investinglive.com/news/investinglive-americas-fx-news-wrap-30-oct-it-s-a-wrap-nasdaq-tumbles-as-ai-costs-worry-investors-fed-speakers-keep-hikes-in-play/",
-        "https://investinglive.com/news/investinglive-asia-pacific-market-news-binance-hack-shakes-crypto/"
-      ]
-    },
-    {
-      "id": 12,
-      "importance": 6,
-      "market": "中国",
-      "event": "多资产联动暴跌背景下的风控实操：如何避免连环爆仓与保证金追缴",
-      "source_titles": [
-        "[뉴욕마켓워치] 위험 자산에 극도로 예민한 장세…주식·달러↓채권↑",
-        "[뉴욕 금가격] 유가 상승 속 기술주 투매에 3% 하락…4,000달러 밑으로",
-        "What is spooking markets as stocks, Treasury yields and gold all fall ahead of European trading?"
-      ],
-      "angles": [
-        {
-          "angle": "交易员生存指南：当股票、黄金、美债同时下跌时，如何正确使用‘灵活杠杆’与止损",
-          "hook": "股票跌、黄金跌、汇率乱！黑色星期五来了，如何靠一套风控模型保住本金？",
-          "core_message": "跨资产关联度在极度恐慌时会趋近于1，散户必须降低杠杆、严格执行止损，并合理分散仓位。",
-          "trading_opportunity": "教育向：展示如何在MC Prime平台上使用动态止损与风险管理工具控制仓位。",
-          "best_platforms": [
-            "zhihu",
+            "instagram",
             "douyin"
           ],
-          "content_type": "科普",
-          "estimated_reach": "长尾高转化",
-          "compliance_notes": "严格遵循禁用词规则：使用'灵活杠杆'、'注册体验账户'、'存入资金'，绝不提保本。"
+          "content_type": "图文",
+          "estimated_reach": "高日活互动",
+          "compliance_notes": "禁止绝对化行情预测，强调技术分析仅供参考。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442312",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442292",
-        "https://investinglive.com/news/what-is-spooking-markets-as-stocks-treasury-yields-and-gold-all-fall-ahead-of-european-trading/"
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442301"
       ]
     }
   ]
