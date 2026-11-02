@@ -1,305 +1,331 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-11-02",
   "market_summary": {
-    "cn": "科技股财报利空与中东局势升级交织，避险资金流向日元瑞士法郎，商品与外汇市场波动剧烈。",
-    "kr": "아마존·인텔 실적 쇼크와 호르무즈 해협 위기로 위험자산 투매, 엔화·스위스프랑 등 안전통화 강세.",
-    "global": "美股科技股暴跌引发全盘避险，原油因霍尔木兹海峡地缘危机大涨，金价因补仓抛售逆势大跌。"
+    "cn": "官方与财新PMI数据分化，市场等待周一开盘对收缩数据的再定价，重点关注澳元与离岸人民币。",
+    "kr": "出口额创历史新高但受半导体板块暴跌拖累，韩元汇率在1,330关口维持窄幅震荡。",
+    "global": "美股冬令时开启导致重叠交易时段后移，美中期选举前美元震荡，加元受贸易利好预期支撑。"
   },
   "topics": [
     {
       "id": 1,
-      "importance": 10,
-      "market": "全球",
-      "event": "霍尔木兹海峡油轮爆破刺激原油暴涨，布伦特原油创6个月新高",
+      "importance": 9,
+      "market": "中国",
+      "event": "中国官方与财新PMI数据出现分化，周末官方PMI跌破50荣枯线，周一财新PMI超预期升至52.0",
       "source_titles": [
-        "[뉴욕유가] 호르무즈 해협서 유조선 3척 폭발…브렌트유 6개월來 최고"
+        "China private factory PMI at 52.0 beats forecasts, output growth fastest since April",
+        "Economic and event calendar in Asia Monday, November 2, 2026 - another China PMI",
+        "China’s factory and services PMI gauges both drop below 50 as fourth quarter starts on a weak note"
       ],
       "angles": [
         {
-          "angle": "地缘政治黑天鹅下的原油CFD追涨与止损突破策略",
-          "hook": "霍尔木즈海峡油轮爆炸！原油单日暴涨2%，后市还能上车吗？",
-          "core_message": "地缘政治引发原油供给端恐慌，原油CFD短期呈强动能突破形态，但需防范消息面平息后的剧烈回撤。",
-          "trading_opportunity": "关注WTI及Brent原油突破前高后的回调买入机会，防范地缘黑天鹅止损离场。",
+          "angle": "宏观数据分化下的商品货币交易策略",
+          "hook": "官方PMI破位而财新PMI超预期，中国经济真相到底如何？澳元和离岸人民币该怎么做？",
+          "core_message": "大中小企业复苏节奏不一，私营出口端韧性强于整体需求，对中国经济敏感的资产（AUD/USD、USD/CNH、铜）短期呈现震荡回升格局。",
+          "trading_opportunity": "逢低布局 AUD/USD 做多，或利用 USD/CNH 在高位做做空对冲。",
           "best_platforms": [
+            "zhihu",
             "douyin",
-            "youtube",
-            "zhihu"
+            "youtube"
           ],
-          "content_type": "短视频",
-          "estimated_reach": "高曝光/高转化",
-          "compliance_notes": "禁止承诺保本收益，提示原油隔夜利息与波动风险，替换高杠杆为灵活杠杆。"
+          "content_type": "深度",
+          "estimated_reach": "高曝光与高互动",
+          "compliance_notes": "避开承诺绝对收益，强调数据波动带来的双向交易风险。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442298"
+        "https://investinglive.com/news/china-private-factory-pmi-at-52-0-beats-forecasts-output-growth-fastest-since-april/",
+        "https://investinglive.com/news/economic-and-event-calendar-in-asia-monday-november-2-2026-another-china-pmi/",
+        "https://investinglive.com/news/china-s-factory-and-services-pmi-gauges-both-drop-below-50-as-fourth-quarter-starts-on-a-weak-note/"
       ]
     },
     {
       "id": 2,
       "importance": 9,
       "market": "全球",
-      "event": "科技股暴跌触发避险，日元与瑞士法郎逆势强劲大涨",
+      "event": "美国中期选举倒计时2天，市场打折计入民主党胜选预期，但美债与美元前景充满不确定性",
       "source_titles": [
-        "[뉴욕환시] 달러 사흘째↓…기술투 투매 속 '엔·스위스프랑' 강세"
+        "[뉴욕은 지금] 美 중간선거, 누가 이겨도 채권시장은 웃기 어렵다",
+        "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist"
       ],
       "angles": [
         {
-          "angle": "避险货币套利逻辑：美股暴跌时为什么首选USD/JPY和USD/CHF做空？",
-          "hook": "美股崩盘美元却在跌？真正的避险之王竟然是日元和瑞郎！",
-          "core_message": "避险情绪升温导致美债收益率下行，日元与瑞郎作为传统避险货币表现远优于美元。",
-          "trading_opportunity": "做空 USD/JPY 与 USD/CHF，利用避险资金流入捕获外汇趋势波段。",
-          "best_platforms": [
-            "zhihu",
-            "youtube",
-            "instagram"
-          ],
-          "content_type": "深度",
-          "estimated_reach": "中高曝光/专业转化",
-          "compliance_notes": "严禁使用稳赚表述，引导注册体验账户测试避险策略。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442301"
-      ]
-    },
-    {
-      "id": 3,
-      "importance": 9,
-      "market": "全球",
-      "event": "避险情绪下国际金价逆势暴跌3%跌破4000美元大关",
-      "source_titles": [
-        "[뉴욕 금가격] 유가 상승 속 기술주 투매에 3% 하락…4,000달러 밑으로"
-      ],
-      "angles": [
-        {
-          "angle": "反常识解析：避险情绪高企，为什么黄金反而暴跌3%？",
-          "hook": "避险夜黄金不涨反跌跌破$4000？揭秘美股爆仓引爆的‘流动性危机’！",
-          "core_message": "科技股暴跌导致机构遭遇流动性追加保证金（Margin Call），被迫卖出黄金变现补仓，导致黄金短期超跌。",
-          "trading_opportunity": "黄金XAUUSD短线超跌后的超买超卖修复机会，关注跌压释放后的企稳反弹。",
-          "best_platforms": [
-            "zhihu",
-            "youtube",
-            "douyin"
-          ],
-          "content_type": "科普",
-          "estimated_reach": "极高互动/高转发",
-          "compliance_notes": "说明保证金追加机制，严禁引导无风险套利。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442292"
-      ]
-    },
-    {
-      "id": 4,
-      "importance": 9,
-      "market": "全球",
-      "event": "亚玛逊与英特尔业绩冲击引发美股科技股全线暴跌",
-      "source_titles": [
-        "[뉴욕증시] '아마존 쇼크'에 전방위 기술주 투매…필리 7.20%↓",
-        "[뉴욕마켓워치] 위험 자산에 극도로 예민한 장세…주식·달러↓채권↑"
-      ],
-      "angles": [
-        {
-          "angle": "英特尔闪跌30%：美股指数CFD与科技股股指对冲实战",
-          "hook": "英特尔单日崩盘30%！持有美股现货如何用指数CFD做空对冲？",
-          "core_message": "巨头财报雷爆引发纳斯达克及费城半导体指数暴跌，散户可通过股指CFD双向交易规避现货持仓风险。",
-          "trading_opportunity": "利用NAS100与US500股指CFD进行短线对冲或动能突破交易。",
-          "best_platforms": [
-            "youtube",
-            "zhihu",
-            "instagram"
-          ],
-          "content_type": "图文",
-          "estimated_reach": "高精准度/高开户意向",
-          "compliance_notes": "替换开户为注册体验账户，强调衍生品交易风险。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442297",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442312"
-      ]
-    },
-    {
-      "id": 5,
-      "importance": 8,
-      "market": "全球",
-      "event": "美债收益率曲线陡峭化，市场对美联储加息预期降温",
-      "source_titles": [
-        "[뉴욕채권] 단기물 강세 속 스팁…기술주 급락에 추가 금리 인상 베팅↓"
-      ],
-      "angles": [
-        {
-          "angle": "收益率曲线 Bull Steepening 释放什么信号？对外汇交易者的启示",
-          "hook": "美债短端收益率大跌！美联储加息预期降温，汇市大行情来了？",
-          "core_message": "科技股衰退忧虑压低加息预期，美债短端收益率快速下行，利空美债收益率敏感型外汇品种。",
-          "trading_opportunity": "关注EUR/USD、GBP/USD等非美货币在利空消化后的阶段性做多机会。",
+          "angle": "中期选举对外汇与美债市场的深远影响",
+          "hook": "中期选举倒计时！不管谁赢美债都难笑？美元指数震荡背后的博弈策略",
+          "core_message": "两党财政扩张政策均难以压低发债规模，选举结果可能加剧美债抛压，美元短期维持区间震荡，长端收益率面临上行压力。",
+          "trading_opportunity": "关注 EUR/USD 及 USD/JPY 在选举期间的突破机会，适度锁定美债收益率相关品种。",
           "best_platforms": [
             "zhihu",
             "youtube"
           ],
           "content_type": "深度",
-          "estimated_reach": "中等曝光/高质量交易者",
-          "compliance_notes": "保持中立客观，避免对央行政策做出绝对预测。"
+          "estimated_reach": "中高传播力",
+          "compliance_notes": "政治话题需保持中立客观，不发表带有偏见的政治立场评述。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442299"
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442442",
+        "https://www.investing.com/news/forex-news/dollar-rangebound-ahead-of-us-midterms-bitcoin-reels-from-crypto-heist-4989794"
+      ]
+    },
+    {
+      "id": 3,
+      "importance": 8,
+      "market": "韩国",
+      "event": "韩国累计出口额突破9,300亿美元大关，但韩元/美元汇率仍盘整于1,330位置",
+      "source_titles": [
+        "[신윤우의 외환분석] 수출 금자탑과 기술주 급락이 가리키는 곳은"
+      ],
+      "angles": [
+        {
+          "angle": "出口强劲与韩元汇率滞涨的背离解析",
+          "hook": "韩国出口创下历史金字塔，为什么韩元/美元汇率还在1330附近走不强？",
+          "core_message": "出口企业结汇需求（네고물량）提供下方支撑，但全球科技股调整与资本外流压制了韩元升值空间，短线维持1320-1340区间整理。",
+          "trading_opportunity": "USD/KRW 区间网格策略，高抛低吸为主。",
+          "best_platforms": [
+            "instagram",
+            "youtube"
+          ],
+          "content_type": "图文",
+          "estimated_reach": "精准韩国散户群体",
+          "compliance_notes": "涉及韩国外汇市场政策，确保符合当地金融推介规范。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442433"
+      ]
+    },
+    {
+      "id": 4,
+      "importance": 8,
+      "market": "全球",
+      "event": "北美进入冬令时，美股及美洲外汇交易时段顺延一小时，亚太交易员重叠时段缩小",
+      "source_titles": [
+        "US clocks fall back: Wall Street opens an hour later for traders in Asia and Europe"
+      ],
+      "angles": [
+        {
+          "angle": "冬令时外汇交易实操指南与流动性窗口调整",
+          "hook": "交易员注意！美股开盘晚了一小时，你的外汇挂单和风控策略调了吗？",
+          "core_message": "冬令时调整影响美洲盘与亚太/欧洲盘的流动性重叠期，深夜波动高峰后移，散户需相应调整挂单时间与止损设置。",
+          "trading_opportunity": "调整黄金属（XAU/USD）与主力外汇对的黄金交易时段预警。",
+          "best_platforms": [
+            "douyin",
+            "instagram"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "极高转发率与收藏率",
+          "compliance_notes": "无敏感表述，注重交易工具与时间节点科普。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/us-clocks-fall-back-wall-street-opens-an-hour-later-for-traders-in-asia-and-europe/"
+      ]
+    },
+    {
+      "id": 5,
+      "importance": 8,
+      "market": "韩国",
+      "event": "英特尔惨跌近29%拖累费城半导体指数跌超7%，韩国芯片巨头股价及债市外资动向受牵连",
+      "source_titles": [
+        "[노현우의 채권분석] 적군이지만 너무 망가져도 문제"
+      ],
+      "angles": [
+        {
+          "angle": "半导体风暴袭来：科技股大跌如何传导至韩元与国债市场",
+          "hook": "英特尔一夜暴跌28%！AI热潮退烧，韩国科技股与外汇市场联动预警",
+          "core_message": "AI盈利前景阴霾导致全球芯片股重挫，外资在韩国国债期货与股市同时调仓，引发避险情绪，短期韩元承压。",
+          "trading_opportunity": "做空美股半导体指数CFD，或对冲做多 USD/KRW。",
+          "best_platforms": [
+            "zhihu",
+            "youtube"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "高讨论度",
+          "compliance_notes": "个股提及需注明为行业分析，不作具体个股买卖推荐。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442431"
       ]
     },
     {
       "id": 6,
-      "importance": 8,
-      "market": "韩国",
-      "event": "费城半导体指数大跌7.2%，韩元及韩国半导体产业链震荡",
+      "importance": 7,
+      "market": "全球",
+      "event": "特朗普透露美加贸易协议已具备“雏形”，加元汇率受利好情绪提振",
       "source_titles": [
-        "[뉴욕증시] '아마존 쇼크'에 전방위 기술주 투매…필리 7.20%↓",
-        "[기업 이모저모] 회장님의 이중생활"
+        "Trump says US and Canada have ‘concept’ of a deal, two days before midterms"
       ],
       "angles": [
         {
-          "angle": "美半导体指数大跌7.2%对韩元(USD/KRW)与KOSPI的连带冲击",
-          "hook": "필라델피아 반도체 7.2% 폭락! 원/달러 환율과 국장 반도체주 영향은?",
-          "core_message": "全球AI半导体链受挫拖累韩元走势，跨市场套利交易者需防范USD/KRW波动率剧升。",
-          "trading_opportunity": "捕捉USD/KRW短线向上波动以及利用灵活杠杆对冲KOSPI下行风险。",
+          "angle": "北美贸易摩擦破冰预期下的加元（CAD）反弹逻辑",
+          "hook": "中期选举前大动作？美加协议雏形初现，CAD/USD 迎来转折点？",
+          "core_message": "持续数月的关税争端若出现缓和，将显著降低加拿大出口企业成本，加元前期超跌后具备较强的反弹弹性。",
+          "trading_opportunity": "逢低做多 CAD/JPY 或做空 USD/CAD。",
           "best_platforms": [
-            "youtube",
-            "instagram",
-            "naver_blog"
+            "douyin",
+            "instagram"
           ],
           "content_type": "短视频",
-          "estimated_reach": "韩国本土高关注",
-          "compliance_notes": "使用‘存入资金’替代‘入金’，遵守韩国金融广告规范。"
+          "estimated_reach": "中等传播",
+          "compliance_notes": "不得将政治表态定性为既定事实，强调协议落地的不确定性。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442297",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442351"
+        "https://investinglive.com/news/trump-says-us-and-canada-have-concept-of-a-deal-two-days-before-midterms/"
       ]
     },
     {
       "id": 7,
       "importance": 7,
       "market": "全球",
-      "event": "股落、油升、金降：跨资产背离下的CFD多资产组合交易法",
+      "event": "日本制造业PMI降至53.3但物价压力回升，政府拟推补贴及食品消费税减免计划",
       "source_titles": [
-        "[뉴욕마켓워치] 위험 자산에 극도로 예민한 장세…주식·달러↓채권↑",
-        "[뉴욕유가] 호르무즈 해협서 유조선 3척 폭발…브렌트유 6개월來 최고",
-        "[뉴욕 금가격] 유가 상승 속 기술주 투매에 3% 하락…4,000달러 밑으로"
+        "Japan factory PMI slips to 53.3, a seven-month low, as cost pressures pick up",
+        "Japan weighs ¥5,000 annual payment for low-income workers under new benefit plan"
       ],
       "angles": [
         {
-          "angle": "股债油金全线异动！如何利用CFD一站式交易多资产套利",
-          "hook": "美股跌、原油涨、黄金降！单一品种太难做？教你跨资产对冲配比",
-          "core_message": "极端行情下单一资产易受挤压，利用CFD多资产交易功能可分散单一市场风险。",
-          "trading_opportunity": "构建‘做空股指+做多原油+做空USD/JPY’的跨资产对冲组合。",
+          "angle": "日本通胀压力与财政刺激双重作用下的日元（JPY）走势",
+          "hook": "日本PMI创7个月新低，但输入型通胀又起！日本央行加息底气还在吗？",
+          "core_message": "成本端通胀升温支撑日央行继续推进政策正常化，但财政刺激加剧国债负担，USD/JPY 维持高位拉锯。",
+          "trading_opportunity": "关注 USD/JPY 关键阻力位突破做空机会，或日元交叉盘反弹。",
           "best_platforms": [
             "zhihu",
-            "youtube",
-            "douyin"
+            "youtube"
           ],
-          "content_type": "科普",
-          "estimated_reach": "高开户转化",
-          "compliance_notes": "强调分散风险不等于无风险，轻度植入MC Prime多资产交易优势。"
+          "content_type": "深度",
+          "estimated_reach": "中等传播",
+          "compliance_notes": "提示日本央行干预汇率的尾部风险。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442312",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442298",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442292"
+        "https://investinglive.com/news/japan-factory-pmi-slips-to-53-3-a-seven-month-low-as-cost-pressures-pick-up/",
+        "https://investinglive.com/news/japan-weighs-5-000-annual-payment-for-low-income-workers-under-new-benefit-plan/"
       ]
     },
     {
       "id": 8,
       "importance": 7,
       "market": "全球",
-      "event": "黑天鹅频繁暴发下的散户风控：跳空缺口与止损平仓逻辑",
+      "event": "澳大利亚PMI跌至49.6陷收缩区，AI数据中心建设屡屡受阻压制商品货币",
       "source_titles": [
-        "[뉴욕유가] 호르무즈 해협서 유조선 3척 폭발…브렌트유 6개월來 최고"
+        "Australia’s AI investment ambitions hit by another data centre setback",
+        "Australia’s factory PMI stuck at 49.6 as new orders drop at fastest pace since 2024"
       ],
       "angles": [
         {
-          "angle": "地缘突发事件引发开盘跳空，如何设置负余额保护与动态止损？",
-          "hook": "油轮爆炸原油直接跳空高开！你的止损单被穿仓了吗？",
-          "core_message": "突发黑天鹅易引发流动性空洞，合规券商的负余额保护与灵活杠杆管理是散户生存关键。",
-          "trading_opportunity": "风控教学：防范周末/隔夜跳空风险，合理控制持仓过夜杠杆。",
+          "angle": "高利率与基本面疲软夹击下的澳元（AUD）风控",
+          "hook": "新订单增速创2024年以来新低，澳元下行压力加大？",
+          "core_message": "澳大利亚陷入需求收缩与成本上升的微型滞胀困境，结合基建延迟，澳元基本面承压，需警惕下行风险。",
+          "trading_opportunity": "逢高做空 AUD/USD，或做多 EUR/AUD 进行交叉盘对冲。",
           "best_platforms": [
-            "zhihu",
             "instagram",
-            "youtube"
+            "douyin"
           ],
-          "content_type": "科普",
-          "estimated_reach": "提升品牌信任度",
-          "compliance_notes": "宣传牌照与负余额保护，严禁使用保本保收益字眼。"
+          "content_type": "图文",
+          "estimated_reach": "精准交易者",
+          "compliance_notes": "提示保证金交易风险，使用“灵活杠杆”代替“高杠杆”。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442298"
+        "https://investinglive.com/news/australia-s-ai-investment-ambitions-hit-by-another-data-centre-setback/",
+        "https://investinglive.com/news/australia-s-factory-pmi-stuck-at-49-6-as-new-orders-drop-at-fastest-pace-since-2024/"
       ]
     },
     {
       "id": 9,
       "importance": 6,
       "market": "全球",
-      "event": "保证金追缴（Margin Call）原理：为什么美股崩盘会拉垮黄金？",
+      "event": "加密货币市场遭黑客攻击引发抛售，比特币在美中期选举前震荡加剧",
       "source_titles": [
-        "[뉴욕 금가격] 유가 상승 속 기술주 투매에 3% 하락…4,000달러 밑으로"
+        "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist"
       ],
       "angles": [
         {
-          "angle": "交易误区避坑：流动性危机中的‘卖出优质资产’现象",
-          "hook": "为什么市场越恐慌，机构越急着卖黄金？揭秘 Margin Call 链条反应！",
-          "core_message": "当股票保证金不足时，机构被迫平仓获利且流动性好的黄金来补充保证金，散户切忌盲目抄底。",
-          "trading_opportunity": "观察保证金平仓潮结束信号，寻找黄金超跌反弹的右侧入场点。",
+          "angle": "黑客安全事件与宏观选举交织下的比特币（BTC）交易心理",
+          "hook": "黑客大劫案遇上美大选！比特币剧烈洗盘，避险属性还是风险资产？",
+          "core_message": "安全事件破坏短期市场信心，但中期选举带来的宏观流动性预期仍是主导因素，BTC短期呈现宽幅震荡。",
+          "trading_opportunity": "利用平台BTC/USD差价合约进行区间突破交易与动态止损。",
           "best_platforms": [
-            "zhihu",
-            "douyin"
+            "douyin",
+            "instagram"
           ],
-          "content_type": "科普",
-          "estimated_reach": "中等曝光/建立专业形象",
-          "compliance_notes": "科普性质为主，自然引导交易者在体验账户中熟悉保证金率计算。"
+          "content_type": "短视频",
+          "estimated_reach": "高热度与高讨论",
+          "compliance_notes": "加密货币属高波动资产，严禁承诺保本或保收益，需严格提示风险。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442292"
+        "https://www.investing.com/news/forex-news/dollar-rangebound-ahead-of-us-midterms-bitcoin-reels-from-crypto-heist-4989794"
       ]
     },
     {
       "id": 10,
       "importance": 6,
-      "market": "全球",
-      "event": "美联储政策转向阴影下，美元指数连续三日走弱",
+      "market": "韩国",
+      "event": "LG CNS推进金融机构AI Agent部署，改变银行业与证券公司的工作方式",
       "source_titles": [
-        "[뉴욕환시] 달러 사흘째↓…기술투 투매 속 '엔·스위스프랑' 강세"
+        "[기업 이모저모] 은행 전산 바꾸던 LG CNS, AI로 일하는 방식 바꾼다"
       ],
       "angles": [
         {
-          "angle": "美元指数(DXY)连跌三天，外汇主要货币对的技术面突破布局",
-          "hook": "美元指数连续3日下行！主操盘手如何布局EUR/USD与GBP/USD？",
-          "core_message": "美元弱势形态确立，非美货币普遍迎来技术性反弹窗口。",
-          "trading_opportunity": "寻找EUR/USD关键阻力突破位的做多机会及严格风控点位。",
+          "angle": "AI技术如何重塑散户交易与券商服务体验",
+          "hook": "金融科技进化论：韩国券商都在用的AI助手，能帮散户做对交易决策吗？",
+          "core_message": "AI正在加速金融机构风控与市场数据处理效率，散户应学会利用智能工具分析盘面，提高交易纪律与执行力。",
+          "trading_opportunity": "推荐散户体验 MC Prime 智能分析工具与注册体验账户功能。",
           "best_platforms": [
-            "youtube",
             "instagram",
-            "douyin"
+            "youtube"
           ],
-          "content_type": "图文",
-          "estimated_reach": "高日活互动",
-          "compliance_notes": "禁止绝对化行情预测，强调技术分析仅供参考。"
+          "content_type": "科普",
+          "estimated_reach": "良好品牌转化",
+          "compliance_notes": "合规使用“注册体验账户”，不使用“开户/入金”等直接引导词。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442301"
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442488"
+      ]
+    },
+    {
+      "id": 12,
+      "importance": 9,
+      "market": "全球",
+      "event": "政治大事件（中期选举）与重磅宏观数据密集发布期，散户风控指南",
+      "source_titles": [
+        "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
+        "[뉴욕은 지금] 美 중간선거, 누가 이겨도 채권시장은 웃기 어렵다"
+      ],
+      "angles": [
+        {
+          "angle": "重大宏观事件叠加期：外汇散户如何做风控与仓位管理",
+          "hook": "大行情来了却总是爆仓？中期选举周外汇防守指南，这3个误区千万别踩！",
+          "core_message": "大事件期间市场经常出现点差扩大与跳空缺口，散户应降低杠杆比例、合理设定止损，避免重仓赌单边。",
+          "trading_opportunity": "推荐使用灵活杠杆与演示账户进行风险无感测试。",
+          "best_platforms": [
+            "zhihu",
+            "douyin",
+            "youtube"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "极高信任度与品牌塑造",
+          "compliance_notes": "严禁使用“稳赚”、“保本”；提倡理性交易，强调风险管理。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://www.investing.com/news/forex-news/dollar-rangebound-ahead-of-us-midterms-bitcoin-reels-from-crypto-heist-4989794",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4442442"
       ]
     }
   ]
