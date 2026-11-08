@@ -1,0 +1,221 @@
+{
+  "date": "2026-08-17",
+  "market_summary": {
+    "cn": "美联储加息预期因强劲就业数据回升，美元大涨压制大宗商品，散户关注避险资产与美股低吸机会。",
+    "kr": "미국의 '깜짝' 고용 호조로 달러화와 채권 금리가 급등하며 금·증시 변동성이 확대됨에 따라 저가 매수세와 환율 향방에 주목.",
+    "global": "US NFP data significantly beat expectations, sparking bear flattening in Treasuries, driving USD/JPY past 158, and pressuring Gold while tech stocks saw selective dip-buying."
+  },
+  "topics": [
+    {
+      "id": 1,
+      "importance": 10,
+      "market": "全球",
+      "event": "美国 10 月非农就业数据远超预期，美联储加息预期重燃导致美元大涨",
+      "source_titles": [
+        "[뉴욕환시] 달러 급등…기술주 회복 속 美 '깜짝' 고용",
+        "[뉴욕채권] '서프라이즈' 美 고용에 베어 플랫…AI 불안감은 여전"
+      ],
+      "angles": [
+        {
+          "angle": "非农爆表如何重构美元走势与美联储利率预期",
+          "hook": "就业数据爆雷还是爆喜？美元指数单日暴涨的背后真相",
+          "core_message": "强劲就业收紧加息预期，美联储可能延缓降息步伐，推动美元短期走强。",
+          "trading_opportunity": "逢低买入 USD/JPY、做空 EUR/USD 或 GBP/USD 波动率",
+          "best_platforms": [
+            "zhihu",
+            "youtube"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "高曝光/高互动",
+          "compliance_notes": "严禁预测确切点位，提示汇率双向波动风险"
+        },
+        {
+          "angle": "散户如何在非农发布后的波幅拓展中避坑",
+          "hook": "非农公布瞬间滑点严重？交易员必看的避险风控三步法",
+          "core_message": "数据发布初期流动性剧烈波动，盲目追单易被扫损，需利用止损单和灵活杠杆进行仓位管控。",
+          "trading_opportunity": "利用微型一手微调仓位，分散非农数据发布时的冲击风险",
+          "best_platforms": [
+            "douyin",
+            "instagram"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "中高互动",
+          "compliance_notes": "使用'注册体验账户'代替开户，避免提及稳赚技巧"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4443597",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4443594"
+      ]
+    },
+    {
+      "id": 2,
+      "importance": 9,
+      "market": "全球",
+      "event": "强劲就业数据压制无息资产，国际金价单日下跌超 1% 突破 4,065 美元",
+      "source_titles": [
+        "[뉴욕 금가격] 예상 대폭 웃돈 美 고용에 1%대 하락"
+      ],
+      "angles": [
+        {
+          "angle": "美债收益率反弹冲击金价，黄金牛市暂停还是抄底良机？",
+          "hook": "金价暴跌 47 美元！4000 大关当前，避险属性失效了吗？",
+          "core_message": "实际利率走高短期压制黄金，但地缘政治风险仍提供长期支撑。",
+          "trading_opportunity": "关注 XAU/USD 在关键支撑位的反弹机会，配合带止损的分批布局策略",
+          "best_platforms": [
+            "zhihu",
+            "youtube",
+            "douyin"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "高转化",
+          "compliance_notes": "禁止承诺保本抄底，明确黄金 CFD 的保证金交易风险"
+        },
+        {
+          "angle": "黄金与美债收益率的负相关性实操解析",
+          "hook": "10分钟学会看美债收益率做黄金 CFD 交易",
+          "core_message": "美债 Bear Flatening 周期中，黄金价格往往呈现阶段性承压。",
+          "trading_opportunity": "通过观察 US10Y 走势做空或做多黄金短线价差",
+          "best_platforms": [
+            "zhihu",
+            "instagram"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "中等精准引流",
+          "compliance_notes": "仅作教学参考，提示市场有风险"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4443575"
+      ]
+    },
+    {
+      "id": 3,
+      "importance": 8,
+      "market": "韩国",
+      "event": "美元/日元突破 158.4 关口，韩元及亚洲货币汇率承压",
+      "source_titles": [
+        "[뉴욕환시] 달러 급등…기술주 회복 속 美 '깜짝' 고용"
+      ],
+      "angles": [
+        {
+          "angle": "USD/JPY 突破 158.4，美日利差下的套利交易（Carry Trade）复苏？",
+          "hook": "엔화 약세 지속! 달러-엔 158엔 돌파, 서학개미와 FX 트레이더의 대응법은?",
+          "core_message": "美联储鹰派预期与日本央行鸽派立场导致美日利差扩大，驱动美日汇率上行。",
+          "trading_opportunity": "关注 USD/JPY 顺势多头交易及日元交叉盘的波动率",
+          "best_platforms": [
+            "youtube",
+            "instagram"
+          ],
+          "content_type": "短视频",
+          "estimated_reach": "韩国区域高转化",
+          "compliance_notes": "避免出现高杠杆宣传，强调灵活杠杆的双刃剑属性"
+        },
+        {
+          "angle": "韩元与日元联动走弱背景下，离岸散户如何做对冲",
+          "hook": "원화·엔화 동반 약세, 내 자산 가치 지키는 환헤지 CFD 활용법",
+          "core_message": "在亚洲货币贬值压力下，利用外汇 CFD 进行双向交易以规避本币贬值风险。",
+          "trading_opportunity": "做多 USD/KRW 或利用外汇对进行交叉盘套利",
+          "best_platforms": [
+            "youtube",
+            "zhihu"
+          ],
+          "content_type": "图文",
+          "estimated_reach": "中高互动",
+          "compliance_notes": "使用'存入资金'取代入金，强调风险自担"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4443597"
+      ]
+    },
+    {
+      "id": 4,
+      "importance": 8,
+      "market": "全球",
+      "event": "美股大跌后迎来低吸买盘，科技股与半导体反弹但 AI 焦虑尚存",
+      "source_titles": [
+        "[뉴욕마켓워치] 폭락 뒤 저가 매수로 한숨 돌린 증시…채권↓달러↑",
+        "[뉴욕증시] '블루 쓰나미' 여파 속 저가 매수…혼조 마감"
+      ],
+      "angles": [
+        {
+          "angle": "暴跌 12% 后的低吸逻辑：纳斯达克与半导体指数的反弹持续性",
+          "hook": "AI 概念股洗盘结束？필라델피아 반도체 지수 4% 반등에서 찾은 힌트",
+          "core_message": "市场恐慌抛售过后，资金重新布局高贝塔科技股，但监管政策及监管不确定性仍存在。",
+          "trading_opportunity": "通过 US100 (纳斯达克指数 CFD) 进行短线回调做多操作",
+          "best_platforms": [
+            "zhihu",
+            "youtube",
+            "douyin"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "高流量",
+          "compliance_notes": "禁止宣传稳赚暴富，提示指数 CFD 的高波动风险"
+        },
+        {
+          "angle": "股债汇三杀行情下的多资产对冲策略",
+          "hook": "美股反弹、美债下跌、美元飙升：三重信号下的多资产组合配置",
+          "core_message": "单一股票投资风险集中，利用 CFD 工具可对冲跨市场风险。",
+          "trading_opportunity": "结合美股指数做多与美债/黄金做空进行对冲",
+          "best_platforms": [
+            "zhihu",
+            "instagram"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "中等",
+          "compliance_notes": "不提供个人投资建议，仅作策略模型演示"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4443600",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4443579"
+      ]
+    },
+    {
+      "id": 5,
+      "importance": 7,
+      "market": "全球",
+      "event": "伊朗地缘局势探底与美国中期选举交织，WTI 原油突破 90 美元关口",
+      "source_titles": [
+        "[뉴욕유가] 이란전 향방 탐색 속 소폭 상승…WTI 0.34%↑"
+      ],
+      "angles": [
+        {
+          "angle": "油价站稳 90 美元：地缘溢价与政治大选如何共振？",
+          "hook": "WTI 原油破 90 大关！中东局势加剧，能源交易员如何捕捉行情？",
+          "core_message": "地缘政治紧张局势推高风险溢价，原油呈现易涨难跌态势。",
+          "trading_opportunity": "关注 WTI / Brent 原油 CFD 的突破跟随交易",
+          "best_platforms": [
+            "youtube",
+            "douyin"
+          ],
+          "content_type": "短视频",
+          "estimated_reach": "中高流量",
+          "compliance_notes": "注意避开过激政治言论，侧重市场逻辑"
+        },
+        {
+          "angle": "大宗商品交易入门：原油与外汇商品的连动效应",
+          "hook": "유가 90달러 시대, 석유화학주 대신 원유 CFD 거래하는 이유",
+          "core_message": "直接交易原油 CFD 相比股票能更直接反映大宗商品价格波动。",
+          "trading_opportunity": "交易 WTI 能源商品及加元 (CAD) 等商品货币",
+          "best_platforms": [
+            "instagram",
+            "zhihu"
+          ],
+          "content_type": "图文",
+          "estimated_reach": "中等",
+          "compliance_notes": "提示隔夜利息与展期成本风险"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4443582"
+      ]
+    }
+  ]
+}
