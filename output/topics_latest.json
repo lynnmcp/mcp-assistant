@@ -1,67 +1,73 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-08-17",
   "market_summary": {
-    "cn": "10月工业与零售数据不及预期，加上房价持续走低，经济放缓压力拖累离岸人民币与澳元走势。",
-    "kr": "美联储加息预期升温推动美元强劲反弹，韩元在1330关口面临出口商结汇盘与强美元的激烈攻防。",
-    "global": "日本Q3 GDP意外萎缩但市场仍押注日央行加息，美债收益率与美元双双飙升，纽元受强劲服务业数据支撑。"
+    "cn": "美联储鹰派重燃加剧全球汇市波动，离岸人民币与主流非美货币承压，市场高度关注科技股管制与宏观数据走势。",
+    "kr": "엔비디아 실적 발표 전 리스크 회피와 강달러 여파로 달러-원 환율이 1,330원대에서 팽팽한 네고 공방을 벌이고 있습니다.",
+    "global": "美联储加息预期升温驱动美元指数刷19个月新高，科技股与原油大幅下挫，市场避险情绪显著上升。"
   },
   "topics": [
     {
       "id": 1,
-      "importance": 9,
+      "importance": 10,
       "market": "全球",
-      "event": "美债收益率急升与PPI数据粘性强化美联储鹰派预期，推动美元指数创多月新高",
+      "event": "美联储鹰파信号频出，美元指数（DXY）创19个月新高，非美货币全面承压",
       "source_titles": [
+        "[뉴욕환시] 달러 닷새째↑…안전선호 속 'DXY' 1년7개월來 최고",
         "[뉴욕은 지금] 연준 추가 인상보다 먼저 도착한 청구서",
-        "[신윤우의 외환분석] 뾰족해진 강달러와 네고 방패의 공방전"
+        "Dollar hits 19-month high as hawkish Fed signals bolster rate hike bets",
+        "Asia FX subdued as dollar hits 19-mth peak on Fed tightening bets"
       ],
       "angles": [
         {
-          "angle": "宏观利率视角：利率尚未动，市场已先跑",
-          "hook": "美联储还没降/加息，为什么你的EUR/USD订单已经开始亏损？",
-          "core_message": "美债2年期收益率暴涨37bp透露出市场正提前计价美联储鹰派立场，强美元周期尚未结束。",
-          "trading_opportunity": "顺势做多美元指数(DXY)或逢高做空EUR/USD、GBP/USD。",
+          "angle": "宏观趋势与汇率对冲",
+          "hook": "美元指数飙升至19个月新高！美联储再次转鹰，你的非美空头仓位准备好了吗？",
+          "core_message": "美联储加息预期重燃叠加美股避险情绪，推动美元指数破位拉升。散户交易者应警惕欧元、英镑及日元的阶段性下行风险。",
+          "trading_opportunity": "逢高做空 EUR/USD、GBP/USD，或利用 USD/JPY 顺势做多，设置紧密止损。",
           "best_platforms": [
             "zhihu",
-            "youtube"
+            "youtube",
+            "instagram"
           ],
           "content_type": "深度",
-          "estimated_reach": "高曝光、高互动",
-          "compliance_notes": "提示宏观波动的双向风险，使用‘灵活杠杆’表述，严禁保证收益。"
+          "estimated_reach": "高曝光/高转化",
+          "compliance_notes": "严禁承诺收益，提及杠杆时须使用'灵活杠杆'，提示市场剧烈波动风险。"
         }
       ],
       "sensitive": false,
       "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4445067",
         "https://news.einfomax.co.kr/news/articleView.html?idxno=4444901",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4444889"
+        "https://www.investing.com/news/forex-news/asia-fx-muted-as-dollar-holds-near-19mth-high-yen-steady-after-weak-gdp-5028358",
+        "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-hits-19mth-peak-on-fed-tightening-bets-5031600"
       ]
     },
     {
       "id": 2,
       "importance": 9,
       "market": "韩国",
-      "event": "美元兑韩元在1330区间受强美元压制与出口商结汇防御（Nego）攻防交织",
+      "event": "强美元冲击下，韩国出口商结汇盘（Nego）死守 USD/KRW 1,330 关口",
       "source_titles": [
+        "[신윤우의 외환분석] 철벽 네고에 안 먹히는 달러의 고백",
         "[신윤우의 외환분석] 뾰족해진 강달러와 네고 방패의 공방전"
       ],
       "angles": [
         {
-          "angle": "韩元实操视角：1330关键阻力位，韩元交易者如何布局？",
-          "hook": "USD/KRW再次冲向1330，韩国出口商的‘美元卖盘防线’能守住多久？",
-          "core_message": "强美元大趋势压制韩元，但韩国出口商结汇抛售在短线上形成阻力，关键位突破后可能引发技术性追买。",
-          "trading_opportunity": "关注USD/KRW在1330-1335阻力区的冲高回落短线突破机会，或利用差价合约捕捉交叉盘波动。",
+          "angle": "韩元区间交易实操",
+          "hook": "1,330韩元成了铁壁？强美元遇见出口商结汇潮，USD/KRW 接下来怎么走？",
+          "core_message": "韩国半导体及出口大厂抛售美元锁汇（Nego）形成强大上行阻力，但在全球强美元大背景下，USD/KRW 呈现高位窄幅震荡格局。",
+          "trading_opportunity": "适合利用 CFD 进行 USD/KRW 区间波段操作，关注 1,330 关口突破情况。",
           "best_platforms": [
             "youtube",
-            "naver_blog",
             "instagram"
           ],
           "content_type": "短视频",
-          "estimated_reach": "中高（韩国本土交易者精准覆盖）",
-          "compliance_notes": "引导用户在模拟账户测试突破策略，避开‘包赚’表述。"
+          "estimated_reach": "韩国本地交易者高精准度关注",
+          "compliance_notes": "提示汇率干预与政策风险，引导用户注册体验账户进行无风险模拟测试。"
         }
       ],
       "sensitive": false,
       "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4445112",
         "https://news.einfomax.co.kr/news/articleView.html?idxno=4444889"
       ]
     },
@@ -69,296 +75,246 @@
       "id": 3,
       "importance": 9,
       "market": "全球",
-      "event": "日本第3季度GDP意外收缩0.1%，但市场解读日本央行12月加息预期依然坚挺",
+      "event": "美芯片出口新规加剧行业动荡，英伟达等科技巨头暴跌拖累美股",
       "source_titles": [
-        "Japan economy shrinks 0.1% in Q3, first fall in 4 quarters as inflation hits households",
-        "Japan Q3 GDP shrinks 0.1% annualised vs +0.3% expected as exports and consumers weigh",
-        "Yen steady against euro and dollar after soft Japanese GDP data"
+        "[뉴욕증시] 젠슨 황 거취에 휘둘린 증시…필리 반도체 지수 5% 급락",
+        "WSJ: US imposes chip export licenses on 5 countries to close China’s data center loophole",
+        "investingLive Americas market news wrap: Chip stocks dump again"
       ],
       "angles": [
         {
-          "angle": "日元策略视角：GDP跌了，日元为什么没崩？详解BOJ加息定价逻辑",
-          "hook": "日本经济陷入萎缩，为什么日元多头反而稳如泰山？",
-          "core_message": "GDP下滑主因在外需拖累，内需和资本支出依然强劲，通胀数据仍将倒逼日本央行维持12月加息预期。",
-          "trading_opportunity": "逢低布局日元交叉盘（如EUR/JPY、GBP/JPY空单），关注USD/JPY在关键整数关口的见顶信号。",
+          "angle": "股指与科技单股 CFD 交易",
+          "hook": "费城半导体指数狂跌5%！管制升级与财报前夕，科技股抄底还是离场？",
+          "core_message": "美国出口许可证新规叠加英伟达财报前夕的避险情绪，导致芯片板块遭抛售。科技股高波动率为指数 CFD 交易者带来双向获利空间。",
+          "trading_opportunity": "做空 NVDA/AMD 或纳斯达克100指数（NAS100），在财报公布前控制仓位。",
           "best_platforms": [
+            "douyin",
             "zhihu",
-            "youtube",
-            "douyin"
+            "youtube"
           ],
-          "content_type": "深度",
-          "estimated_reach": "高流量（日元近期热度极高）",
-          "compliance_notes": "提及汇率波动剧烈，建议设置止损，提醒杠杆交易风险。"
+          "content_type": "短视频",
+          "estimated_reach": "极高话题热度与互动量",
+          "compliance_notes": "强调股票 CFD 属于高风险衍生品，引导合理控制仓位。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://investinglive.com/news/japan-economy-shrinks-0-1-in-q3-first-fall-in-4-quarters-as-inflation-hits-households/",
-        "https://investinglive.com/news/japan-q3-gdp-shrinks-0-1-annualised-vs-0-3-expected-as-exports-and-consumers-weigh/",
-        "https://www.investing.com/news/forex-news/yen-steady-against-euro-and-dollar-after-soft-japanese-gdp-data-5028268"
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4445049",
+        "https://investinglive.com/news/wsj-us-imposes-chip-export-licenses-on-5-countries-to-close-china-s-data-center-loophole/",
+        "https://investinglive.com/news/investinglive-americas-market-news-wrap-chip-stocks-dump-again/"
       ]
     },
     {
       "id": 4,
       "importance": 8,
-      "market": "中国",
-      "event": "中国10月工业增加值及零售数据放缓，百城新房二手房价格持续下探",
+      "market": "全球",
+      "event": "供过于求忧虑加剧，WTI原油重挫逾3%创3个月新低",
       "source_titles": [
-        "China’s October data shows the economy losing momentum on retail sales and industry output",
-        "China house prices continue their downward spiral"
+        "[뉴욕유가] 공급과잉 우려 심화에 3%대 급락…WTI, 약 3개월來 최저",
+        "investingLive European news wrap: Risk sentiment remains negative"
       ],
       "angles": [
         {
-          "angle": "商品与外汇联动视角：中国经济数据放缓，离岸人民币与商品货币（AUD）受压",
-          "hook": "中国10月宏观数据出炉，澳元和离岸人民币交易员需要注意哪些信号？",
-          "core_message": "中国内需与房地产市场仍处于修复期，对中国经济敏感的澳元(AUD/USD)及离岸人民币(USD/CNH)面临下行回调压力。",
-          "trading_opportunity": "逢高做空AUD/USD，或建仓USD/CNH多头差价合约。",
+          "angle": "大宗商品研判",
+          "hook": "WTI 跌破86美元创近3个月新低！原油市场“供过于求”噩梦重演？",
+          "core_message": "全球经济放缓预期与增产担忧击垮油价，原油技术面破位明显，下行通道打开。",
+          "trading_opportunity": "顺势做空 WTI / BRENT 原油 CFD，关注下一支撑位；若超跌可布局短线反弹。",
           "best_platforms": [
-            "zhihu",
-            "douyin"
+            "douyin",
+            "zhihu"
           ],
-          "content_type": "科普",
-          "estimated_reach": "中偏高",
-          "compliance_notes": "涉及中国经济数据，保持中立客观分析，避免过激政治评价。"
+          "content_type": "图文",
+          "estimated_reach": "中高吸引力",
+          "compliance_notes": "规避保本表述，说明原油受地缘政治影响可能出现高跳空风险。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://investinglive.com/news/china-s-october-data-shows-the-economy-losing-momentum-on-retail-sales-and-industry-output/",
-        "https://investinglive.com/news/china-house-prices-continue-their-downward-spiral/"
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4445052",
+        "https://investinglive.com/news/investinglive-european-news-wrap-risk-sentiment-remains-negative/"
       ]
     },
     {
       "id": 5,
       "importance": 8,
       "market": "全球",
-      "event": "新西兰服务业PSI指数创3.5年新高至51.7，呈现连涨态势支撑纽元",
+      "event": "美债收益率攀升与美联储鹰派打压，现货黄金逼近一年低位",
       "source_titles": [
-        "New Zealand services PSI hits 3.5-year high at 51.7, fifth straight month of growth"
+        "[뉴욕 금가격] 달러 강세에 0.6% 하락…한때 1년여來 최저",
+        "Treasury yields pause near 1-month highs as traders brace for Fed signals"
       ],
       "angles": [
         {
-          "angle": "套利与强弱货币视角：大洋洲货币分化，NZD/USD与AUD/NZD交易逻辑",
-          "hook": "新西兰服务业重回高光时刻！纽元（NZD）能否成为黑马？",
-          "core_message": "新西兰服务业强劲复苏降低了强力降息的必要性，NZD基本面显著强于陷入增长瓶颈的AUD。",
-          "trading_opportunity": "关注做空AUD/NZD套利交易，或NZD/USD超跌反弹做多机会。",
+          "angle": "贵金属技术面与避险属性剖析",
+          "hook": "金价逼近一年低点！美元强攻之下，避险之王黄金为何失去光环？",
+          "core_message": "实际收益率上升和强劲美元打压黄金无息资产吸引力，黄金避险属性被美联储加息预期掩盖，短线寻底尚未结束。",
+          "trading_opportunity": "XAU/USD 逢高做空或观察关键支撑位（如关键整数关口）企稳信号。",
           "best_platforms": [
-            "douyin",
+            "zhihu",
+            "youtube",
             "instagram"
           ],
-          "content_type": "图文",
-          "estimated_reach": "中等（适合中阶交易者）",
-          "compliance_notes": "强调交叉盘交易需注意买卖价差与资金存入规范。"
+          "content_type": "深度",
+          "estimated_reach": "散户关注度极高",
+          "compliance_notes": "严禁使用“保本避险”字眼，黄金 CFD 波动剧烈须做好止损。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://investinglive.com/news/new-zealand-services-psi-hits-3-5-year-high-at-51-7-fifth-straight-month-of-growth/"
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4445045",
+        "https://www.investing.com/news/forex-news/eurozone-yields-stall-after-volatile-week-as-traders-brace-for-ai-megatests-5028425"
       ]
     },
     {
       "id": 6,
       "importance": 7,
-      "market": "韩国",
-      "event": "韩国国债完成WGBI编入，Euroclear表示被动资金有效抵消了主动资金撤出",
+      "market": "全球",
+      "event": "加拿大CPI放缓 vs 美国纽约联储制造业指数不及预期",
       "source_titles": [
-        "[인터뷰] 쟈닝 리 유로클리어 CPO &quot;WGBI, 外인 유입 기대 못 미쳤지만…&quot;"
+        "Canada October CPI 3.1% vs +3.2% expected",
+        "US November Empire Manufacturing index +7.80 vs +18.00 expected"
       ],
       "angles": [
         {
-          "angle": "资本流动视角：WGBI入指落地，韩元中长期资金面得到底座支撑",
-          "hook": "外资大举流入韩国国债，为什么韩元依然没有暴涨？",
-          "core_message": "被动指数资金（WGBI）的稳步流入对冲了主动型基金的撤出，中长期为韩元提供了流动性底部垫片。",
-          "trading_opportunity": "中长期看好韩元资产稳定性，可作为USD/KRW高位做空的中长期宏观逻辑支撑。",
+          "angle": "交叉盘与数据日日内交易",
+          "hook": "通胀放缓符合预期！加拿大央行降息预期升温，USDCAD 突破在即？",
+          "core_message": "加拿大CPI如期降温加深央行鸽派倾斜，配合美联储鹰派预期，美加（USD/CAD）上行趋势得到基本面支撑。",
+          "trading_opportunity": "利用数据公布后的回调逢低做多 USD/CAD，或做空 CAD 交叉盘（如 CAD/JPY）。",
           "best_platforms": [
-            "naver_blog",
-            "zhihu"
+            "zhihu",
+            "instagram"
           ],
-          "content_type": "深度",
-          "estimated_reach": "中等",
-          "compliance_notes": "严禁使用‘保本’、‘包赚’字眼描述中长期趋势。"
+          "content_type": "科普",
+          "estimated_reach": "中等（专业外汇交易者）",
+          "compliance_notes": "强调日内数据交易风险，建议在体验账户上先演练交易策略。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        ""
+        "https://investinglive.com/news/canada-october-cpi-3-1-vs-3-2-expected/",
+        "https://investinglive.com/news/us-november-empire-manufacturing-index-7-80-vs-18-00-expected/"
       ]
     },
     {
       "id": 7,
       "importance": 7,
       "market": "全球",
-      "event": "特朗普数日未公开露面引发传闻，但金融市场对此表现淡定并视为无实质影响事件",
+      "event": "澳联储（RBA）会议纪要释放鹰派信号，黑田东彦警示日本央行升息超中性利率",
       "source_titles": [
-        "Trump out of public view since Wednesday, fuelling speculation on his wherabouts"
+        "investingLive Asia-Pacific market news: RBA minutes lean hawkish",
+        "Kuroda, once Japan’s great easer, says BOJ rates may need to rise above neutral"
       ],
       "angles": [
         {
-          "angle": "交易心态与杂音过滤：如何识别社交媒体谣言与真实市场动向？",
-          "hook": "政治人物隐身传闻引发小作文？成熟交易者如何过滤市场杂音！",
-          "core_message": "市场定价基于官方记录与基本面数据，成熟交易者应学会在噪音中保持镇定，防止被虚假社交媒体信息诱导频繁交易。",
-          "trading_opportunity": "建立风控纪律，避免在非确认消息公布时盲目追单。",
+          "angle": "亚太货币政策对比与套利交易",
+          "hook": "澳联储鹰派姿态不减、日央行升息吹风，AUD/JPY 交叉盘迎来重磅转折？",
+          "core_message": "商品货币政策分化与套利交易拆仓交织，亚太货币短线波动加剧，需密切关注央行政策路径演变。",
+          "trading_opportunity": "关注 AUD/USD 相对强势及 AUD/JPY 的区间套利机会。",
           "best_platforms": [
-            "douyin",
-            "instagram",
-            "youtube"
+            "youtube",
+            "zhihu"
           ],
-          "content_type": "科普",
-          "estimated_reach": "高（具社交传播爆点）",
-          "compliance_notes": "避开敏感政治立场讨论，聚焦于‘心理风控’与‘信息筛选’。"
+          "content_type": "深度",
+          "estimated_reach": "中等",
+          "compliance_notes": "避免出现“稳赚套利”等违禁词，突出市场流动性与隔夜利息风险。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://investinglive.com/news/trump-out-of-public-view-since-wednesday-fuelling-speculation-on-hiw-wherabouts/"
+        "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-minutes-lean-hawkish/",
+        ""
       ]
     },
     {
       "id": 8,
       "importance": 6,
       "market": "韩国",
-      "event": "韩国公精委拟惩戒债券一级交易商（PD），10年期国债竞标显现交易员谨慎情绪",
+      "event": "韩国国债 WGBI 入指完成，外资流入不及预期与韩债市场反弹",
       "source_titles": [
+        "[인터뷰] 쟈닝 리 유로클리어 CPO \"WGBI, 外인 유입 기대 못 미쳤지만…\"",
         "[노현우의 채권분석] '딜러X'의 퇴각…금리의 반격"
       ],
       "angles": [
         {
-          "angle": "机构行为视角：监管风暴下交易员退场，韩国利率与汇率受何冲击？",
-          "hook": "韩国债市‘交易员退场’，收益率反弹如何影响韩元汇率？",
-          "core_message": "机构退场导致债市流动性短期承压，国债收益率上行间接对本土股市与外汇流动性形成挤压。",
-          "trading_opportunity": "关注韩国股指CFD（如KOSPI 200）的短期承压回调机会。",
+          "angle": "韩国宏观资产配置",
+          "hook": "WGBI 纳入落地，外资并未如期暴涌？韩国债市与韩元汇率如何联动？",
+          "core_message": "被动资金流入虽抵消了主动基金缩减，但整体外资流入不及乐观预期，韩债收益率反弹对韩元构成短期压力。",
+          "trading_opportunity": "结合国债收益率变动逻辑，观察韩元（USD/KRW）与韩国 KOSPI50 指数交易机会。",
           "best_platforms": [
-            "naver_blog",
+            "youtube",
             "zhihu"
           ],
           "content_type": "深度",
-          "estimated_reach": "小众精准",
-          "compliance_notes": "客观描述监管事件，不对此类监管合规做主观抨击。"
+          "estimated_reach": "韩国本地机构与高端散户",
+          "compliance_notes": "严格遵循金融分析合规要求，不提供具体投资指令。"
         }
       ],
       "sensitive": false,
       "source_links": [
+        "",
         "https://news.einfomax.co.kr/news/articleView.html?idxno=4444886"
       ]
     },
     {
       "id": 9,
       "importance": 6,
-      "market": "韩国",
-      "event": "对比台湾国家金融安定基金获利平仓，分析韩国股市稳定基金（증안펀드）的动用困局",
-      "source_titles": [
-        "[정지서의 조곤조곤] 증안펀드, 쓰지 않는 것과 못 쓰는 것"
-      ],
-      "angles": [
-        {
-          "angle": "托底政策视角：政府救市基金出动时，给股市CFD交易者带来的抄底信号",
-          "hook": "台湾救市基金赚了大钱，韩国平准基金为何‘有钱不敢用’？",
-          "core_message": "平准基金等救市政策往往能为股指建立短期的‘政策底’，是指数CFD右侧交易的重要参考信号。",
-          "trading_opportunity": "学习如何结合政府干预政策寻找股指CFD的拐点做多机会。",
-          "best_platforms": [
-            "youtube",
-            "zhihu"
-          ],
-          "content_type": "科普",
-          "estimated_reach": "中等",
-          "compliance_notes": "澄清‘政策底’并不代表‘无风险’，必须强调严格止损。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4444851"
-      ]
-    },
-    {
-      "id": 10,
-      "importance": 6,
       "market": "全球",
-      "event": "韩投信高管亮相日本探讨ETF快速扩张，亚洲零售投资者资产配置策略转型",
+      "event": "美银行业网站突发故障与网络安全担忧引发市场短暂恐慌",
       "source_titles": [
-        "[금융가 이모저모] &quot;ETF는 한국이 가장 빠르다&quot;…日무대에 선 배재규 대표"
+        "US banking websites are having problems",
+        "US warns Americans in Europe of holiday terror risk as bomb hoaxes disrupt flights"
       ],
       "angles": [
         {
-          "angle": "产品对比视角：ETF vs CFD，散户如何选择更适合自己的交易工具？",
-          "hook": "亚洲ETF市场火爆，为什么高手依然偏爱指数CFD？",
-          "core_message": "ETF适合无杠杆长期持有，而CFD具备灵活杠杆、双向交易及无印花税优势，更适合捕捉短期宏观波段。",
-          "trading_opportunity": "向零售交易员展示如何利用MC Prime平台体验账户熟悉全球主要股指CFD交易。",
+          "angle": "黑天鹅事件与市场情绪交易",
+          "hook": "美国多家银行网站瘫痪！网络攻击疑云下，如何捕捉突发避险行情？",
+          "core_message": "在市场对AI与黑客高度敏感时期，金融基础设施故障极易诱发短线黑天鹅抛售，交易者需掌握突发风险的对冲技巧。",
+          "trading_opportunity": "利用 VIX 波动率指数或日元/黄金短线避险买盘进行风险对冲。",
           "best_platforms": [
             "douyin",
-            "instagram"
-          ],
-          "content_type": "科普",
-          "estimated_reach": "中高",
-          "compliance_notes": "将‘高杠杆’替换为‘灵活杠杆’；将‘开户’替换为‘注册体验账户’。"
-        }
-      ],
-      "sensitive": false,
-      "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4444861"
-      ]
-    },
-    {
-      "id": 11,
-      "importance": 8,
-      "market": "全球",
-      "event": "美元指数DXY破位上行，技术面呈现强劲多头排列趋势",
-      "source_titles": [
-        "[뉴욕은 지금] 연준 추가 인상보다 먼저 도착한 청구서",
-        "[신윤우의 외환분석] 뾰족해진 강달러와 네고 방패의 공방전"
-      ],
-      "angles": [
-        {
-          "angle": "技术分析教学：强趋势行情中，如何用移动平均线与RSI跟进强美元？",
-          "hook": "美元指数冲上19个月高点！教你一招‘顺势交易’不踩坑",
-          "core_message": "在强劲宏观基本面驱动的单边行情中，切忌盲目摸顶，应借助均线回踩寻找低吸买点。",
-          "trading_opportunity": "演示在USD/JPY、USD/CAD等主要货币对中运用顺势突破策略。",
-          "best_platforms": [
-            "douyin",
-            "youtube",
             "instagram"
           ],
           "content_type": "短视频",
-          "estimated_reach": "高（技术教学类极受散户欢迎）",
-          "compliance_notes": "强调技术指标仅供参考，不保证盈利，展示风险管理策略。"
+          "estimated_reach": "高传播力/吸睛",
+          "compliance_notes": "禁止渲染恐慌情绪，重点宣导风险控制与止损设置。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4444901",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4444889"
+        "https://investinglive.com/news/us-banking-websites-are-having-problems/",
+        "https://investinglive.com/news/us-warns-americans-in-europe-of-holiday-terror-risk-as-bomb-hoaxes-disrupt-flights/"
       ]
     },
     {
       "id": 12,
       "importance": 7,
       "market": "全球",
-      "event": "宏观数据密集的重磅周：日本GDP、中国经济数据与美联储预期交织带来的波动管理",
+      "event": "美联储鹰派震荡期，散户交易者的仓位管理与风险控制实操教学",
       "source_titles": [
-        "Japan economy shrinks 0.1% in Q3, first fall in 4 quarters as inflation hits households",
-        "China’s October data shows the economy losing momentum on retail sales and industry output",
-        "[뉴욕은 지금] 연준 추가 인상보다 먼저 도착한 청구서"
+        "[뉴욕환시] 달러 닷새째↑…안전선호 속 'DXY' 1년7개월來 최고",
+        "Dollar hits 19-month high as hawkish Fed signals bolster rate hike bets"
       ],
       "angles": [
         {
-          "angle": "交易误区与风控教学：数据发布日，散户如何避免账户‘被爆仓’？",
-          "hook": "宏观数据接连失守！为什么你的账户总在大行情来临前被清场？",
-          "core_message": "重磅数据公布前后滑点与点差容易扩大，交易者应在数据前合理调整仓位大小、使用灵活杠杆并设定严格止损。",
-          "trading_opportunity": "引导交易员建立标准化风控清单，并建议在模拟账户中练习数据行情的挂单策略。",
+          "angle": "交易者教育与风险管理",
+          "hook": "强美元风暴席卷！在单边暴涨行情中，散户如何用“灵活杠杆”防范爆仓？",
+          "core_message": "当美联储鹰派预期引发外汇大跳水时，盲目重仓易遭止损。合理设定动态止损、巧用离岸券商提供的灵活杠杆及存入资金安全管理是生存关键。",
+          "trading_opportunity": "通过注册体验账户进行行情模拟，练习在单边行情中建立分批建仓与移动止损策略。",
           "best_platforms": [
+            "douyin",
             "zhihu",
             "youtube",
-            "douyin"
+            "instagram"
           ],
           "content_type": "科普",
-          "estimated_reach": "高",
-          "compliance_notes": "使用‘存入资金’代替‘入金’，重点突出风险提示与资金安全。"
+          "estimated_reach": "高转化/高粘性",
+          "compliance_notes": "严禁出现'稳赚'、'保本'、'无风险'、'高杠杆'等禁用词。必须使用'灵活杠杆'、'注册体验账户'、'存입资金'等合规词汇。"
         }
       ],
       "sensitive": false,
       "source_links": [
-        "https://investinglive.com/news/japan-economy-shrinks-0-1-in-q3-first-fall-in-4-quarters-as-inflation-hits-households/",
-        "https://investinglive.com/news/china-s-october-data-shows-the-economy-losing-momentum-on-retail-sales-and-industry-output/",
-        "https://news.einfomax.co.kr/news/articleView.html?idxno=4444901"
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4445067",
+        "https://www.investing.com/news/forex-news/asia-fx-muted-as-dollar-holds-near-19mth-high-yen-steady-after-weak-gdp-5028358"
       ]
     }
   ]
