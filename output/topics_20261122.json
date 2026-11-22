@@ -1,0 +1,299 @@
+{
+  "date": "2026-08-17",
+  "market_summary": {
+    "cn": "美股科技股暴跌引发全球避险情绪，散户投资者对冲股票下行风险及外汇避险需求显著上升。",
+    "kr": "美股半导体及AI概念惨遭抛售，拖累韩国半导体板块，散户投资者高位套牢情绪蔓延。",
+    "global": "美股AI与科技板块遭遇流动性危机式抛售，金价因保证金追缴挤兑暴跌，日元瑞郎及美债等避险资产大涨。"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "importance": 10,
+      "market": "全球",
+      "event": "美股科技股与AI概念遭遇暴跌，英伟达急挫14%，费城半导体指数重挫10.7%",
+      "source_titles": [
+        "[뉴욕증시] '시계 제로' AI 테마 패닉 장세…필리 10.7%↓",
+        "[뉴욕마켓워치] 나스닥, 코로나 이후 최악의 한주…증시 패닉 속 채권↑달러↓"
+      ],
+      "angles": [
+        {
+          "angle": "美股科技股抛售潮下的指数双向交易策略",
+          "hook": "英伟达单日暴跌14%！AI泡沫破裂还是最佳逢低布局时机？",
+          "core_message": "科技股高估值修正引发市场恐慌，散户交易者可通过股指CFD灵活捕捉双向波动的交易机会。",
+          "trading_opportunity": "关注纳斯达克100指数（NAS100）及标普500（SPX500）的关键支撑位突破与反弹反转信号。",
+          "best_platforms": [
+            "zhihu",
+            "youtube",
+            "douyin"
+          ],
+          "content_type": "深度分析",
+          "estimated_reach": "高曝光/高互动",
+          "compliance_notes": "严禁预测确切底部，提示灵活杠杆下的市场剧烈波动风险。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4445836",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4445850"
+      ]
+    },
+    {
+      "id": 2,
+      "importance": 9,
+      "market": "全球",
+      "event": "美股暴跌引发保证金追缴，黄金遭遇抛售单日重挫超4%",
+      "source_titles": [
+        "[뉴욕 금가격] 증시 급락발 포지션 처분에 4%↓…3천500달러선 위태"
+      ],
+      "angles": [
+        {
+          "angle": "跨资产联动分析：股市崩盘时黄金为何不避险反暴跌？",
+          "hook": "美股暴跌黄金不涨反崩4%？揭秘‘流动性挤兑’背后的黄金交易陷阱！",
+          "core_message": "股市剧烈抛售时，机构交易员常被迫平仓黄金以补充股票保证金，导致黄金短期流动性紧缩。",
+          "trading_opportunity": "密切留意现货黄金（XAUUSD）流动性危机过后的均线修复与超卖反弹机会。",
+          "best_platforms": [
+            "zhihu",
+            "xiaohongshu",
+            "naver_blog"
+          ],
+          "content_type": "科普教学",
+          "estimated_reach": "中高曝光",
+          "compliance_notes": "禁止宣传黄金保本属性，强调止损设置的重要性。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4445829"
+      ]
+    },
+    {
+      "id": 3,
+      "importance": 9,
+      "market": "全球",
+      "event": "避险需求暴增推动日元和瑞郎走强，美日（USD/JPY）汇率剧烈波动",
+      "source_titles": [
+        "[뉴욕환시] 달러 소폭↓…기술주 투매에 급락 후 보합권 반등"
+      ],
+      "angles": [
+        {
+          "angle": "恐慌指数爆发时，避险货币日元与瑞郎的套利交易解套与布局",
+          "hook": "股市血洗日元狂升！美日汇率大戏开启，避险货币怎么做？",
+          "core_message": "市场极度避险时套利交易加速解包，日元与瑞郎短期升值动能强劲。",
+          "trading_opportunity": "逢高做空USD/JPY或EUR/JPY，留意央行干预与158整数关口的破位情况。",
+          "best_platforms": [
+            "youtube",
+            "douyin",
+            "instagram"
+          ],
+          "content_type": "短视频/图文",
+          "estimated_reach": "高互动",
+          "compliance_notes": "严禁承诺任何收益率，仅作技术面与基本面分析提示。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4445847"
+      ]
+    },
+    {
+      "id": 4,
+      "importance": 8,
+      "market": "全球",
+      "event": "美债收益率大幅下行，市场重新押注美联储货币政策转向",
+      "source_titles": [
+        "[뉴욕채권] 단기물 주도 초강세…美 기술주 패닉에 '내달 동결' 고개"
+      ],
+      "angles": [
+        {
+          "angle": "美债收益率曲线陡峭化对美元指数（DXY）的传导机制",
+          "hook": "美债收益率跳水！美联储降息预期再变，美元走势转向何方？",
+          "core_message": "美债价格暴涨反映市场极度避险与降息预期升温，美元指数面临周期性压力。",
+          "trading_opportunity": "关注美元指数（DXY）与美债CFD的联动波段交易机会。",
+          "best_platforms": [
+            "zhihu",
+            "naver_blog"
+          ],
+          "content_type": "深度分析",
+          "estimated_reach": "中等曝光",
+          "compliance_notes": "合规表达货币政策概率，不作确定性预测。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4445846"
+      ]
+    },
+    {
+      "id": 5,
+      "importance": 8,
+      "market": "韩国",
+      "event": "韩国散户高位套牢三星电子与SK海力士，“网络客栈”扎堆抱团",
+      "source_titles": [
+        "[현장에서] 사이버 객장에서 만난 '삼전 20층' 개미"
+      ],
+      "angles": [
+        {
+          "angle": "股票高位套牢如何通过股指/单股CFD进行对冲保护？",
+          "hook": "‘三星电子套在20楼’？散户如何利用对冲工具减少单边持仓亏损？",
+          "core_message": "单边持有现货股票风险集中，通过CFD对冲工具可有效控制熊市中的最大回撤。",
+          "trading_opportunity": "利用单股CFD做空机制或指数CFD建立空头对冲组合。",
+          "best_platforms": [
+            "youtube",
+            "naver_blog",
+            "instagram"
+          ],
+          "content_type": "交易误区与对冲教学",
+          "estimated_reach": "韩国本地高爆款潜力",
+          "compliance_notes": "使用‘存入资金’与‘注册体验账户’等规范表述，严禁使用‘稳赚对冲’。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4445875"
+      ]
+    },
+    {
+      "id": 6,
+      "importance": 7,
+      "market": "全球",
+      "event": "比特币在低位反弹突破60,000美元关口",
+      "source_titles": [
+        "Bitcoin rises after falling to two-year low",
+        "Bitcoin rises over 2% to more than $60,000"
+      ],
+      "angles": [
+        {
+          "angle": "加密货币与美股科技股的相关性破裂还是短期超跌反弹？",
+          "hook": "美股崩盘比特币逆势反弹重回6万大关，加密市场触底了吗？",
+          "core_message": "比特币在经历大幅清洗后展现短期韧性，但宏观避险环境仍制约反弹高度。",
+          "trading_opportunity": "把握BTCUSD在60,000美元心理关口附近的短线突破交易。",
+          "best_platforms": [
+            "douyin",
+            "instagram",
+            "youtube"
+          ],
+          "content_type": "短视频/极简图文",
+          "estimated_reach": "高流量",
+          "compliance_notes": "遵守当地关于加密货币监管提示，强调高波动性风险。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://www.investing.com/news/forex-news/bitcoin-falls-357-to-56814-5043137",
+        "https://www.investing.com/news/forex-news/bitcoin-rises-over-2-to-more-than-60000-5043497"
+      ]
+    },
+    {
+      "id": 7,
+      "importance": 7,
+      "market": "全球",
+      "event": "中东地缘政治局势引发供应担忧，WTI原油止跌回升",
+      "source_titles": [
+        "[뉴욕유가] 이란 불확실성에 WTI 사흘만에 상승…WTI, 0.93%↑"
+      ],
+      "angles": [
+        {
+          "angle": "地缘政治突发新闻事件下的原油（WTI）突破交易法",
+          "hook": "伊朗局势再起波澜，油价止跌反弹！能源交易者如何盯盘？",
+          "core_message": "地缘风险溢价注入油价，突发消息面容易引发原油价格瞬间剧烈跳空。",
+          "trading_opportunity": "跟踪WTI原油关键阻力位突破，结合严格止损控制风险。",
+          "best_platforms": [
+            "zhihu",
+            "douyin"
+          ],
+          "content_type": "事件驱动教学",
+          "estimated_reach": "中等曝光",
+          "compliance_notes": "避免对地缘政治作政治立场点评，仅聚焦经济与商品价格影响。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4445838"
+      ]
+    },
+    {
+      "id": 8,
+      "importance": 8,
+      "market": "中国",
+      "event": "全球资产剧烈波动下，中国散户如何避免追涨杀跌陷阱",
+      "source_titles": [
+        "[뉴욕마켓워치] 나스닥, 코로나 이후 최악의 한주…증시 패닉 속 채권↑달러↓"
+      ],
+      "angles": [
+        {
+          "angle": "交易心理学：面对‘黑天鹅’行情，如何建立机械化风控体系？",
+          "hook": "一夜之间爆仓无数？黑天鹅频发时，高手都在用的风控公式！",
+          "core_message": "情绪化交易是散户亏损的主因，合理运用灵活杠杆与严格仓位管理方能在高波动中生存。",
+          "trading_opportunity": "建立固定风险暴露比例（如每笔交易不超过总资金的1-2%）。",
+          "best_platforms": [
+            "zhihu",
+            "xiaohongshu"
+          ],
+          "content_type": "交易误区与心理学",
+          "estimated_reach": "高长尾流量",
+          "compliance_notes": "禁用保本或包赚等绝对化承诺，强调风险第一。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4445850"
+      ]
+    },
+    {
+      "id": 9,
+      "importance": 6,
+      "market": "全球",
+      "event": "恐慌指数VIX激增，多资产波动率全面放大",
+      "source_titles": [
+        "[뉴욕증시] '시계 제로' AI 테마 패닉 장세…필리 10.7%↓"
+      ],
+      "angles": [
+        {
+          "angle": "高波动率行情下的交易策略：网格交易与突破策略的适用边界",
+          "hook": "市场大起大落不知道怎么做？教你如何在极端行情中科学设置止盈止损！",
+          "core_message": "高波动市场中宽幅震荡加剧，传统震荡指标容易失真，建议使用动态ATR设置止损。",
+          "trading_opportunity": "利用ATR指标动态调整CFD产品的止损距离与仓位大小。",
+          "best_platforms": [
+            "youtube",
+            "zhihu"
+          ],
+          "content_type": "技术分析教学",
+          "estimated_reach": "中等曝光",
+          "compliance_notes": "纯技术指标教学，不构成具体买卖建议。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4445836"
+      ]
+    },
+    {
+      "id": 10,
+      "importance": 6,
+      "market": "中国",
+      "event": "外汇市场波动加剧，交叉盘（EUR/JPY, GBP/JPY）出现结构性机会",
+      "source_titles": [
+        "[뉴욕환시] 달러 소폭↓…기술주 투매에 급락 후 보합권 반등"
+      ],
+      "angles": [
+        {
+          "angle": "放弃单边思维：如何利用日元交叉盘捕捉波段收益",
+          "hook": "美日高位震荡，为什么聪明交易员都在转战欧日（EUR/JPY）？",
+          "core_message": "交叉盘受单一货币干预风险较小，在避险行情中趋势延续性往往强于直盘。",
+          "trading_opportunity": "寻找EUR/JPY和GBP/JPY逢高做空的趋势跟踪机会。",
+          "best_platforms": [
+            "xiaohongshu",
+            "douyin"
+          ],
+          "content_type": "科普/实操指导",
+          "estimated_reach": "中等互动",
+          "compliance_notes": "替换“高杠杆”为“灵活杠杆”，提示交叉盘点差风险。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4445847"
+      ]
+    }
+  ]
+}
