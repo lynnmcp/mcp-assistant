@@ -1,0 +1,375 @@
+{
+  "date": "2026-08-17",
+  "market_summary": {
+    "cn": "美国强劲GDP与黏性PCE数据引发美联储降息预期再修正，人民币及离岸资产波动加剧。",
+    "kr": "한국은행 금통위 금리 결정과 엔비디아 등 AI 주가 폭등락 속 원/달러 환율 1,340원대 경계감 심화.",
+    "global": "美Q3 GDP上修至4.3%与科技股抛售交织，中东地狱火风险推升原油，黄金跌破3500美元关口。"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "importance": 10,
+      "market": "全球",
+      "event": "美国三季度GDP大幅上修至4.3%，核心PCE物价指数同比升至3.3%",
+      "source_titles": [
+        "US GDP 2nd Estimate for the 3rd quarter 4.3% vs 3.5 estimate",
+        "US October PCE core inflation +0.3% m/m vs +0.3% expected",
+        "US Initial jobless claims 189K vs 200K estimate"
+      ],
+      "angles": [
+        {
+          "angle": "宏观数据解读与美元指数走向",
+          "hook": "4.3%的GDP+黏性通胀！美联储降息大门正在关上？",
+          "core_message": "强劲的经济与劳动力数据叠加高企的PCE通胀，直接削弱了市场对美联储激进降息的预期，强美元逻辑重拾支撑。",
+          "trading_opportunity": "做多美元指数(DXY)，做空非美货币(如EUR/USD, GBP/USD)",
+          "best_platforms": [
+            "zhihu",
+            "youtube"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "高",
+          "compliance_notes": "严禁预测具体涨跌绝对点位，使用概率性表达"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/us-gdp-2nd-estimate-for-the-3rd-quarter-3-5-vs-3-5-estimate/",
+        "https://investinglive.com/news/us-october-pce-core-inflation-m-m-vs-0-3-expected/",
+        ""
+      ]
+    },
+    {
+      "id": 2,
+      "importance": 9,
+      "market": "韩国",
+      "event": "韩国央行金融通和委员会维持/调整利率决策，美元兑韩元在1,340韩元区间震荡",
+      "source_titles": [
+        "[신윤우의 외환분석] '진정제' 금통위 될까",
+        "[곽세연의 프리즘] 한은은 한은 길을 간다",
+        "Asia FX: won muted after BOK hikes rates, dollar steady"
+      ],
+      "angles": [
+        {
+          "angle": "韩元汇率实战分析与韩国央行政策独立性",
+          "hook": "한은 금통위 발표! 달러-원 1,340원 깨질까?",
+          "core_message": "수출과 내수 양극화 속에 한국은행의 통화정책 고민이 깊어지고 있으며, 반도체 주가와 미 국채 금리가 원화 향방의 핵심 키.",
+          "trading_opportunity": "USD/KRW 区间突破交易与逢低布局",
+          "best_platforms": [
+            "youtube",
+            "instagram"
+          ],
+          "content_type": "短视频",
+          "estimated_reach": "高",
+          "compliance_notes": "遵守韩国金融投资法规，提示汇率差价合约杠杆风险"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4446633",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4446369",
+        "https://www.investing.com/news/forex-news/asia-fx-won-muted-after-bok-hikes-rates-dollar-steady-5052015"
+      ]
+    },
+    {
+      "id": 3,
+      "importance": 9,
+      "market": "全球",
+      "event": "英伟达CEO黄仁勋复职冲击波与AI概念股过山车行情，美股科技股剧烈震荡",
+      "source_titles": [
+        "[뉴욕증시] AI 불안에 또 출렁…저가 매수 속 보합권 혼조 마감",
+        "[월가 톡톡] 젠슨 황 사임에 사표 던진 엔비디아 직원…\"너무 성급했나\"",
+        "Dollar reverses course after earlier gains driven by hot U.S. data, AI rout"
+      ],
+      "angles": [
+        {
+          "angle": "美股指数(NAS100/SPX500)恐慌情绪下的避险与反弹交易策略",
+          "hook": "英伟达剧情大反转！AI泡沫破裂还是最佳抄底时机？",
+          "core_message": "高估值AI股对盈利和高利率极度敏感，资本开支怀疑论导致高波动成为常态，适合利用CFD双向交易捕捉波幅。",
+          "trading_opportunity": "纳斯达克100指数(NAS100)高抛低吸及日内波动率策略",
+          "best_platforms": [
+            "douyin",
+            "zhihu"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "极高",
+          "compliance_notes": "禁止承诺保本收益，提示美股指数CFD的高波动风险"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4446573",
+        "",
+        "https://www.investing.com/news/forex-news/asia-fx-weakens-as-dollar-firms-on-tariff-risks-aussie-hits-11month-low-5049767"
+      ]
+    },
+    {
+      "id": 4,
+      "importance": 9,
+      "market": "全球",
+      "event": "胡塞武装袭击沙特核心炼油设施，WTI原油大涨1.99%突破83美元",
+      "source_titles": [
+        "[뉴욕유가] 후티 사우디 정유시설 공격에 이틀째 상승…WTI, 1.99%↑",
+        "[현장에서] 석유최고가격제가 미리 던진 숙제"
+      ],
+      "angles": [
+        {
+          "angle": "地缘政治黑天鹅下的原油(WTI/Brent)交易逻辑",
+          "hook": "中东圣火再起！沙特炼油厂遭袭，油价飙升能否持续？",
+          "core_message": "霍尔木兹海峡及沙特设施的安全隐患直接抹平了供需过剩预期，原油短线地缘溢价显着，需密切关注供给端中断风险。",
+          "trading_opportunity": "美原油(USOIL)突破做多与追踪止损策略",
+          "best_platforms": [
+            "douyin",
+            "youtube"
+          ],
+          "content_type": "短视频",
+          "estimated_reach": "高",
+          "compliance_notes": "客观报道地缘事件，避免政治敏感偏见表述"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4446576",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4446624"
+      ]
+    },
+    {
+      "id": 5,
+      "importance": 8,
+      "market": "全球",
+      "event": "美股抛售潮引发流动性挤压，现货黄金跌破3500美元大关",
+      "source_titles": [
+        "[뉴욕 금가격] 증시 급락 속 2% 안팎 하락…3천500달러 붕괴",
+        "investingLive European session wrap: Equities and tech selloff deepens, gold threatens $3,500"
+      ],
+      "angles": [
+        {
+          "angle": "黄金(XAU/USD)避险属性失效原因解析及关键支撑位",
+          "hook": "避险资产暴跌！黄金惨遭血洗跌破3500美元，真相竟是“补仓”？",
+          "core_message": "当股市面临强力平仓压力时，流动性需求会导致交易员抛售黄金补缴保证金，造成“股金双杀”，等待流动性危机缓解后的企稳信号。",
+          "trading_opportunity": "黄金(XAUUSD)关键心理关口(3450-3500)的回踩逢低买入或短线顺势做空",
+          "best_platforms": [
+            "zhihu",
+            "douyin"
+          ],
+          "content_type": "图文",
+          "estimated_reach": "高",
+          "compliance_notes": "禁止使用“稳赚买点”、“包赚止盈”等字眼"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4446565",
+        "https://investinglive.com/news/investinglive-european-session-wrap-equities-and-tech-selloff-deepens-gold-threatens-3-500/"
+      ]
+    },
+    {
+      "id": 6,
+      "importance": 7,
+      "market": "全球",
+      "event": "美国关税政策细节披露，若达成贸易协议印度关税上限设为17%",
+      "source_titles": [
+        "US tariff details are better than the worst-case scenario implied yesterday",
+        "US to cap India tariff at 17% if trade deal is reached, USTR says"
+      ],
+      "angles": [
+        {
+          "angle": "特朗普关税靴子落地对新兴市场货币的冲击",
+          "hook": "关税战缓和信号？美国设定印度关税上限，对新兴市场是喜是忧？",
+          "core_message": "关税细节优于极端的最坏预期，市场恐慌情绪有所释放，但贸易保护主义长期仍将压制非美货币走势。",
+          "trading_opportunity": "USD/INR 及 Emerging FX 对冲策略",
+          "best_platforms": [
+            "zhihu"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "中",
+          "compliance_notes": "中立评价贸易政策，不涉及过度政治评论"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/us-tariff-details-are-better-than-the-worst-case-scenario-implied-yesterday/",
+        "https://www.investing.com/news/forex-news/us-to-cap-india-tariff-at-17-if-trade-deal-is-reached-ustr-says-5051317"
+      ]
+    },
+    {
+      "id": 7,
+      "importance": 7,
+      "market": "全球",
+      "event": "德国Q3 GDP下修至0.1%陷停滞状态，BCA研究预测欧元/美元将升至1.12后探底1.05",
+      "source_titles": [
+        "German economy flirts with stagnation in Q3 as growth is revised lower",
+        "EUR/USD may rally to 1.12 before falling to 1.05, BCA says"
+      ],
+      "angles": [
+        {
+          "angle": "欧元(EUR/USD)中长期走势分歧与欧洲基本面疲软分析",
+          "hook": "欧洲经济火车头失速！德国GDP接近零增长，欧元反弹还是死猫跳？",
+          "core_message": "德国经济在停滞边缘挣扎限制了欧洲央行的鹰派空间，欧元短线反弹或给中线空头创造更好的入场点位。",
+          "trading_opportunity": "EUR/USD 逢高做空或区间波段交易",
+          "best_platforms": [
+            "zhihu",
+            "youtube"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "中",
+          "compliance_notes": "明确声明分析机构观点不构成直接投资建议"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/german-economy-flirts-with-stagnation-in-q3-as-growth-is-revised-lower/",
+        "https://www.investing.com/news/forex-news/eurusd-may-rally-to-112-before-falling-to-105-bca-says-93CH-5050407"
+      ]
+    },
+    {
+      "id": 8,
+      "importance": 7,
+      "market": "韩国",
+      "event": "韩国股市蒸发后政府设立“证券市场稳定基金(증안펀드)”，三星电子与SK海力士救市争论",
+      "source_titles": [
+        "[정원의 Why] 증안펀드 '삼전닉스 활용법'",
+        "[신윤우의 외환분석] 반도체 롤러코스터와 숨 고를 이유들"
+      ],
+      "angles": [
+        {
+          "angle": "증안펀드(증권시장안정펀드) 투입과 KOSPI200 반등 가능성 분석",
+          "hook": "코스피 반토막에 증안펀드 등판! 삼성전자·SK하이닉스 구원투수 될까?",
+          "core_message": "정부의 자본시장 안정화 의지와 대형 반도체주 주가 방어책이 증시 하단을 지지할 수 있을지 시장의 관심이 집중됨.",
+          "trading_opportunity": "KOSPI200 指数CFD短线反弹机会",
+          "best_platforms": [
+            "youtube",
+            "instagram"
+          ],
+          "content_type": "图文",
+          "estimated_reach": "中",
+          "compliance_notes": "替换“入金”为“存入资金”，提示股票指数CFD投资风险"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4446598",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4446400"
+      ]
+    },
+    {
+      "id": 9,
+      "importance": 7,
+      "market": "全球",
+      "event": "美国财政部拍卖440亿美元7年期国债，中标利率高企达4.708%",
+      "source_titles": [
+        "US treasury sells $44 billion of 7-year notes at a high yield of 4.708%",
+        "[뉴욕채권] 불 플랫…기술주 급락에 랠리 후 강세폭 크게 축소"
+      ],
+      "angles": [
+        {
+          "angle": "美债收益率飙升对全球资产定价的影响",
+          "hook": "美债收益率突破4.7%！高息时代资产如何重配置？",
+          "core_message": "国债拍卖尾部利差扩大显示美债吸引力受考验，高长端收益率持续对高估值科技股和外汇市场施压。",
+          "trading_opportunity": "做空美国国债期货(US10Y/US30Y)或做多 USD/JPY",
+          "best_platforms": [
+            "zhihu"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "中",
+          "compliance_notes": "无敏感项，规范使用专业术语"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/us-treasury-sells-44-billion-of-70-or-notes-at-a-high-yield-of-4-708/",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4446585"
+      ]
+    },
+    {
+      "id": 10,
+      "importance": 6,
+      "market": "全球",
+      "event": "科技股大跌引发避险需求，瑞郎(CHF)与日元(JPY)展现避险韧性",
+      "source_titles": [
+        "[뉴욕환시] AI주 낙폭 만회에 달러 약세…엔·스위스프랑 반등",
+        "Swiss franc safe-haven demand and USD/CHF technical outlook"
+      ],
+      "angles": [
+        {
+          "angle": "避险货币选择：USD/CHF 与 USD/JPY 技术面突破",
+          "hook": "市场风暴来袭，除了黄金，聪明钱都在抢什么避险货币？",
+          "core_message": "在美股剧烈震荡期，瑞郎和日元作为传统避险货币表现出强于美元的抗跌性，交叉盘具备对冲价值。",
+          "trading_opportunity": "USD/CHF 逢高做空或 EUR/CHF 对冲交易",
+          "best_platforms": [
+            "instagram",
+            "youtube"
+          ],
+          "content_type": "图文",
+          "estimated_reach": "中",
+          "compliance_notes": "强调避险货币并非“无风险”，仍有汇率波动风险"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4446590",
+        "https://www.investing.com/news/forex-news/swiss-franc-safehaven-demand-and-usdchf-technical-outlook-93CH-5050525"
+      ]
+    },
+    {
+      "id": 11,
+      "importance": 8,
+      "market": "全球",
+      "event": "散户交易者教学：如何应对“GDP+PCE+美股爆仓”三重超级数据日",
+      "source_titles": [
+        "What are the main events for today?",
+        "investingLive Americas FX news wrap 25 Nov: It’s a Wrap. S&P 500 and Nasdaq pare steep losses"
+      ],
+      "angles": [
+        {
+          "angle": "超级重磅数据公布前的仓位与风险管理指南",
+          "hook": "隔夜数据大地震！新手如何在超级数据日避免爆仓？",
+          "core_message": "在强宏观冲击和极端波动日，合理使用止损、降低杠杆比例、分批建仓是保护本金的核心法宝。",
+          "trading_opportunity": "使用移动止损(Trailing Stop)与控制单笔风险在2%以内",
+          "best_platforms": [
+            "douyin",
+            "zhihu",
+            "instagram"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "高",
+          "compliance_notes": "严禁出现“保本”、“稳赚”字眼，宣传“灵活杠杆”而非“高杠杆”"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/what-are-the-main-events-for-today-93/",
+        "https://investinglive.com/news/investinglive-americas-fx-news-wrap-25-nov-it-s-a-wrap-s-p-500-and-nasdaq-pare-steep-losses/"
+      ]
+    },
+    {
+      "id": 12,
+      "importance": 7,
+      "market": "韩国",
+      "event": "券商功能与交易工具科普：利用 MC Prime 灵活杠杆应对韩元与外汇波动",
+      "source_titles": [
+        "[신윤우의 외환분석] 반도체 롤러코스터와 숨 고를 이유들",
+        "Large FX option expiries for NY cut on Wednesday"
+      ],
+      "angles": [
+        {
+          "angle": "外汇与大宗商品CFD交易的灵活杠杆与点差优势",
+          "hook": "환율 변동성 확대 시대, 리스크는 줄이고 기회는 잡는 CFD 활용법",
+          "core_message": "MC Prime의 정식 라이선스(CySEC/FSA/FSC) 기반 환경에서 유연한 레버리지와 낮은 스프레드로 글로벌 시장 기회에 대응하는 방법.",
+          "trading_opportunity": "体验 MC Prime 模拟账户交易外汇及原油CFD",
+          "best_platforms": [
+            "instagram",
+            "youtube"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "中",
+          "compliance_notes": "克制引流，引导至“注册体验账户”，严禁承诺任何盈利保障"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4446400",
+        "https://www.investing.com/news/forex-news/large-fx-option-expiries-for-ny-cut-on-wednesday-93CH-5050589"
+      ]
+    }
+  ]
+}
