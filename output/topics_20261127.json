@@ -1,0 +1,364 @@
+{
+  "date": "2026-11-27",
+  "market_summary": {
+    "cn": "中国10月工业企业利润同比大增20.1%彰显经济韧性，但特朗普关税威胁重启令离岸人民币（CNH）汇率与中概资产承压博弈。",
+    "kr": "三星电子百亿美金外资分红派息换汇潮与韩国央行超预期鹰派立场激烈交锋，美元兑韩元（USD/KRW）在1,340关口反复拉锯。",
+    "global": "美联储12月加息25bp预期在粘性PCE数据下巩固，中东炼油设施遭袭倒逼原油暴涨，东京CPI走高加速日央行加息下注。"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "importance": 10,
+      "market": "韩国",
+      "event": "三星电子30万亿韩元分红派息引发百亿美金换汇需求，美元兑韩元冲高1,340关口",
+      "source_titles": [
+        "[신윤우의 외환분석] 배당, 네고 대격돌의 파장은"
+      ],
+      "angles": [
+        {
+          "angle": "事件驱动套利：韩国季度分红期的韩元贬值逻辑与实操",
+          "hook": "外资分红抓取112亿美元！为什么每次三星派息，韩元都会遭殃？",
+          "core_message": "三星电子高达15万亿韩元（约112亿美元）的外资分红兑换需求，短期内将对美元兑韩元形成强烈的买盘支撑，探向1,340上方。",
+          "trading_opportunity": "逢低看多 USD/KRW 或通过做空 KRW 相关衍生品进行短期事件驱动交易。",
+          "best_platforms": [
+            "youtube",
+            "naver_blog",
+            "zhihu"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "高（韩国本土散户极度关注三星分红与韩元走势）",
+          "compliance_notes": "提醒汇率波动受多重因素影响，交易需设置止损，避免保证收益类表述。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4446909"
+      ]
+    },
+    {
+      "id": 2,
+      "importance": 9,
+      "market": "全球",
+      "event": "特朗普关税威胁重现引发中美贸易战担忧，避险情绪与离岸人民币波动加剧",
+      "source_titles": [
+        "China hits back at Trump’s latest tariff threat as trade war tensions resurface"
+      ],
+      "angles": [
+        {
+          "angle": "宏观博弈：贸易战2.0阴影下，散户如何用外汇与黄金实施对冲策略？",
+          "hook": "关税大棒再度挥起！你的跨国资产和离岸人民币准备好防空洞了吗？",
+          "core_message": "关税预期重启将阶段性压制 CNH 及澳元（AUD）等商品货币，同时推高市场对黄金（XAU/USD）的阶段性避险需求。",
+          "trading_opportunity": "看空 AUD/USD、USD/CNH 冲高做多，或者建立 XAU/USD 避险多头组合。",
+          "best_platforms": [
+            "zhihu",
+            "wechat",
+            "douyin"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "极高（中国散户对关税与人民币汇率高度敏感）",
+          "compliance_notes": "克制引流，严禁使用“必定大涨/稳赚”等用词，引导注册体验账户进行模拟对冲演示。"
+        }
+      ],
+      "sensitive": true,
+      "source_links": [
+        "https://investinglive.com/news/china-hits-back-at-trump-s-latest-tariff-threat-as-trade-war-tensions-resurface/"
+      ]
+    },
+    {
+      "id": 3,
+      "importance": 9,
+      "market": "全球",
+      "event": "胡塞武装袭击沙特炼油设施，WTI原油飙升近2%突破83美元",
+      "source_titles": [
+        "[뉴욕유가] 후티 사우디 정유시설 공격에 이틀째 상승…WTI, 1.99%↑"
+      ],
+      "angles": [
+        {
+          "angle": "地缘政治突发：中东供给侧冲击下的原油（WTI/Brent）突破交易法",
+          "hook": "黑天鹅再次袭来！沙特精炼厂遭袭，原油连涨两天意味着什么？",
+          "core_message": "地缘冲突再度直接打击供给端，原油短期呈现强买盘形态，阻力位突破后易引发动量追多情绪。",
+          "trading_opportunity": "日内顺势做多 WTI/Brent 原油 CFD，或布局加元（CAD）等油价正相关货币。",
+          "best_platforms": [
+            "douyin",
+            "instagram",
+            "youtube"
+          ],
+          "content_type": "短视频",
+          "estimated_reach": "高（突发行情吸引日内高频交易者）",
+          "compliance_notes": "强调突发地缘新闻易引发剧烈回调，务必设置合理止损并调低灵活杠杆。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4446576"
+      ]
+    },
+    {
+      "id": 4,
+      "importance": 9,
+      "market": "全球",
+      "event": "美联储12月加息25bp概率锁定，粘性PCE压制降息预期导致美元高位震荡",
+      "source_titles": [
+        "[인터뷰] SC \"연준 12월 25bp 인상…내년 동결 전망 확신 약해져\"",
+        "Global bond rally eases as sticky PCE locks in December Fed hike"
+      ],
+      "angles": [
+        {
+          "angle": "央行观察：通胀顽固导致美联储政策转向，美元指数（DXY）未来走向何方？",
+          "hook": "12月加息已成定局？内幕解析为什么美联储明年可能“按兵不动”！",
+          "core_message": "核心通胀居高不下使美联储政策持续偏鹰，美债收益率保持韧性，限制美元大幅下行的空间。",
+          "trading_opportunity": "逢低做多美元指数（DXY）或欧元兑美元（EUR/USD）高空布局。",
+          "best_platforms": [
+            "zhihu",
+            "naver_blog"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "中高（适合专业及中阶交易者）",
+          "compliance_notes": "遵守合规指引，将“高杠杆”表述替换为“灵活杠杆”。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "",
+        "https://www.investing.com/news/forex-news/global-bond-rally-eases-as-sticky-pce-locks-in-december-fed-hike-5052104"
+      ]
+    },
+    {
+      "id": 5,
+      "importance": 8,
+      "market": "全球",
+      "event": "东京11月核心CPI升至2.9%接近3%大关，日本央行12月加息预期高涨",
+      "source_titles": [
+        "Tokyo November core CPI rises to 2.9% y/y, just shy of 3.0% expected"
+      ],
+      "angles": [
+        {
+          "angle": "交叉盘机遇：日本通胀再次抬头，USD/JPY 见顶信号出现了吗？",
+          "hook": "2.9%！东京通胀又逼近新高，日元套利交易要迎来终局了吗？",
+          "core_message": "东京CPI作为日本全国通胀的前瞻指标，其强劲表现增大了日本央行在年底前加息的概率，日元具备反弹动能。",
+          "trading_opportunity": "关注 USD/JPY 及 EUR/JPY 逢高做空的机会，捕捉日元升值波段。",
+          "best_platforms": [
+            "youtube",
+            "instagram",
+            "wechat"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "高（中韩散户均极度偏好交易日元）",
+          "compliance_notes": "合规提示：外汇交易存在亏损风险，仅做市场分析展示。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/tokyo-november-core-cpi-rises-to-2-9-y-y-just-shy-of-3-0-expected/"
+      ]
+    },
+    {
+      "id": 6,
+      "importance": 8,
+      "market": "韩国",
+      "event": "韩国央行透露鹰派信号，通胀与汇率担忧下内阁暂停降息幻想",
+      "source_titles": [
+        "[노현우의 채권분석] 두 내러티브 속 더 굳게 '움켜쥔 손'",
+        "[신윤우의 외환분석] '진정제' 금통위 될까"
+      ],
+      "angles": [
+        {
+          "angle": "韩国宏观：韩央行超预期鹰派，韩元债券与外汇市场如何联动？",
+          "hook": "韩国央行拒绝放水！想要干预汇率，韩元能摆脱1340泥潭吗？",
+          "core_message": "韩国央行对经济增长和通胀维持鹰派立场，意在维稳韩元汇率并防范资本外流，短期限制了韩元的暴跌空间。",
+          "trading_opportunity": "区间震荡思路对待 USD/KRW，阻力位关注1,345-1,350，支撑位看1,330。",
+          "best_platforms": [
+            "naver_blog",
+            "youtube"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "中高（韩国本国市场焦点）",
+          "compliance_notes": "无敏感内容，注意客观描述央行政策。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4446899",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4446633"
+      ]
+    },
+    {
+      "id": 7,
+      "importance": 8,
+      "market": "中国",
+      "event": "中国10月工业企业利润强劲增长20.1%，电子制造产业链展现韧性",
+      "source_titles": [
+        "China's industrial profits jump 20.1% in October as electronics do the heavy lifting"
+      ],
+      "angles": [
+        {
+          "angle": "产业宏观：中国工业利润爆发，对澳元（AUD）及富时中国A50指数有何提振？",
+          "hook": "20.1%逆势大增！中国工业利润亮眼，哪些衍生品品种正迎来买点？",
+          "core_message": "中国电子产业链的复苏不仅提振本土权益市场，也将通过贸易传导改善澳大利亚商品出口预期，利好澳元。",
+          "trading_opportunity": "逢低看多澳元兑美元（AUD/USD）及 China A50 指数 CFD。",
+          "best_platforms": [
+            "zhihu",
+            "wechat"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "中（适合关注基本面的中国散户）",
+          "compliance_notes": "避免出现“保本”或“无风险”等违法宣传用词。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/china-s-industrial-profits-jump-20-1-in-october-as-electronics-do-the-heavy-lifting/"
+      ]
+    },
+    {
+      "id": 8,
+      "importance": 7,
+      "market": "全球",
+      "event": "美股AI概念股剧烈震荡，科技股遭抛售与抄底资金交锋，美股指数剧烈波动",
+      "source_titles": [
+        "[뉴욕마켓워치] AI 투매와 저가 매수의 줄다리기…주식 혼조·채권↑달러↓",
+        "[뉴욕증시] AI 불안에 또 출렁…저가 매수 속 보합권 혼조 마감"
+      ],
+      "angles": [
+        {
+          "angle": "指数CFD实操：纳斯达克（USTECH100）巨幅震荡，高波行情下的风控指南",
+          "hook": "AI泡沫论 VS 抄底大军！美股技术性回调，散户如何避免被双杀？",
+          "core_message": "AI巨头高资本开支引发盈利质疑，美股波动率大增，但逢低买盘依然坚韧，指数交易应注意控制仓位。",
+          "trading_opportunity": "利用网格策略或定投思路交易纳斯达克100指数（USTECH100）CFD，严禁过度加杠杆。",
+          "best_platforms": [
+            "douyin",
+            "youtube",
+            "instagram"
+          ],
+          "content_type": "短视频",
+          "estimated_reach": "极高（美股指数是散户最爱交易的品种之一）",
+          "compliance_notes": "引导用户“存入资金”需适度，提示指数CFD高波动风险。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4446593",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4446573"
+      ]
+    },
+    {
+      "id": 9,
+      "importance": 7,
+      "market": "韩国",
+      "event": "韩国 KOSDAQ 指数在风险偏好回升下大涨 6.7%，资本市场呈现冷热双重天",
+      "source_titles": [
+        "investingLive Asia-Pacific market news: Kosdaq jumps 6.7% as risk appetite returns, gold rebounds",
+        "[양용비의 VAR] 가난한 코스닥과 부자 벤처"
+      ],
+      "angles": [
+        {
+          "angle": "情绪面分析：KOSDAQ 暴涨 6.7%，如何用股指 CFD 捕捉韩国小盘股反弹？",
+          "hook": "单日飙升6.7%！KOSDAQ 的报复性反弹是陷阱还是反转起点？",
+          "core_message": "风险偏好回暖驱动高贝塔值的韩国科技与小盘股爆发，但散户应警惕资金轮动过快带来的回调风险。",
+          "trading_opportunity": "关注 KOSPI200 及韩国相关指数衍生品的日内短线突破机会。",
+          "best_platforms": [
+            "naver_blog",
+            "youtube"
+          ],
+          "content_type": "图文",
+          "estimated_reach": "高（韩国本土高风险偏好散户关注）",
+          "compliance_notes": "严禁给出具体买卖点承诺，仅提供技术面分析框架。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/investinglive-asia-pacific-market-news-kosdaq-jumps-6-7-as-risk-appetite-returns-gold-rebounds/",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4446871"
+      ]
+    },
+    {
+      "id": 10,
+      "importance": 6,
+      "market": "全球",
+      "event": "德国消费者信心持续低迷，欧洲经济阴霾笼罩下的欧元（EUR）疲软",
+      "source_titles": [
+        "German consumer confidence remains in the doldrums heading into December",
+        "investingLive European session wrap: European stocks ride Wall Street's comeback into Thanksgiving"
+      ],
+      "angles": [
+        {
+          "angle": "基本面利空：欧洲“火车头”熄火，EUR/USD 会跌破平价吗？",
+          "hook": "消费者彻底摆烂？德国信心指数持续冰封，欧元还要惨跌多久？",
+          "core_message": "德国经济滞胀风险未解，导致欧洲央行（ECB）降息压力加大，欧元兑美元基本面承压严重。",
+          "trading_opportunity": "寻找 EUR/USD 逢高做空机会，或通过 EUR/GBP 交叉盘捕捉欧洲内部强弱差异。",
+          "best_platforms": [
+            "zhihu",
+            "wechat"
+          ],
+          "content_type": "图文",
+          "estimated_reach": "中（适合中长线趋势交易者）",
+          "compliance_notes": "提醒注意欧洲央行政策突发转向的黑天鹅风险。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/german-consumer-confidence-remains-in-the-doldrums-heading-into-december/",
+        "https://investinglive.com/news/investinglive-european-session-wrap-european-stocks-ride-wall-street-s-comeback-into-thanksgiving/"
+      ]
+    },
+    {
+      "id": 11,
+      "importance": 6,
+      "market": "全球",
+      "event": "新西兰大选悬峙国会确定，通胀预期降温减轻央行压力，纽元（NZD）波澜不惊",
+      "source_titles": [
+        "Kiwi edges higher as official NZ election count confirms a hung parliament",
+        "NZ consumer confidence breaks 100 as falling fuel prices cool inflation fears"
+      ],
+      "angles": [
+        {
+          "angle": "小众货币对：政治噪音落幕与通胀降温，纽元（NZD）交易机会解析",
+          "hook": "悬峙国会尘埃落定！通胀降温下的纽元，隐藏着哪些低波套利机会？",
+          "core_message": "政治不确定性消化后，市场回归利率差异主线。新西兰通胀预期冷却降温了央行鹰派倾向，NZD 趋于震荡。",
+          "trading_opportunity": "交易 NZD/USD 区间网格策略，或在 AUD/NZD 中做多强弱差。",
+          "best_platforms": [
+            "zhihu",
+            "instagram"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "中低（适合追求低波动套利的散户）",
+          "compliance_notes": "引导客户“注册体验账户”先进行网格策略回测。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/kiwi-edges-higher-as-official-nz-election-count-confirms-a-hung-parliament/",
+        "https://investinglive.com/news/nz-consumer-confidence-breaks-100-as-falling-fuel-prices-cool-inflation-fears/"
+      ]
+    },
+    {
+      "id": 12,
+      "importance": 6,
+      "market": "全球",
+      "event": "感恩节假期交投清淡，加元（CAD）受就业数据与原油价格交织冲击",
+      "source_titles": [
+        "Loonie weakens amid Thanksgiving holiday lull, Canadian labor market data"
+      ],
+      "angles": [
+        {
+          "angle": "假日交易法则：市场流动性枯竭时，如何避免加元（USD/CAD）虚假突破陷阱？",
+          "hook": "感恩节休市流动性归零！加元波动异常，假期交易怎么避坑？",
+          "core_message": "美股休市期间市场流动性变薄，放大局部数据影响，交易者应减少追涨杀跌，防范点差放大风险。",
+          "trading_opportunity": "观望为主，或利用极低仓位在 USD/CAD 强支撑/阻力位挂单（Pending Order）。",
+          "best_platforms": [
+            "wechat",
+            "douyin",
+            "naver_blog"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "中（教育型内容，建立品牌专业形象）",
+          "compliance_notes": "重点强调假期点差扩大风险与仓位管理，严禁诱导高杠杆重仓。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://www.investing.com/news/forex-news/loonie-weakens-amid-thanksgiving-holiday-lull-canadian-labor-market-data-5052729"
+      ]
+    }
+  ]
+}
