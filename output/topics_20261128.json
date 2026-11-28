@@ -1,0 +1,365 @@
+{
+  "date": "2026-08-17",
+  "market_summary": {
+    "cn": "外汇散户密切关注美联储12月加息预期重构与高盛看涨欧元的汇率交易机会。",
+    "kr": "삼성전자 30조 원 배당에 따른 외국인 환전 수요와 달러-원 1,340원대 공방이 시장의 핵심 관심사입니다.",
+    "global": "美股“黑五”AI反弹带动风险偏好，但美债收益率上升与欧洲经济数据下滑加剧了宏观分化。"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "importance": 10,
+      "market": "全球",
+      "event": "渣打银行预测美联储12月加息25bp且明年暂停，引发美联储紧缩预期重构与美元波动",
+      "source_titles": [
+        "[인터뷰] SC \"연준 12월 25bp 인상…내년 동결 전망 확신 약해져\"",
+        "[뉴욕환시] 달러, 위험선호 회복·연준 긴축 전망에 상승",
+        "Dollar drifts lower in holiday-thinned trade, set to snap 4-wk winning streak"
+      ],
+      "angles": [
+        {
+          "angle": "12月FOMC鹰派加息预期下，美元指数与非美货币的短期对决逻辑",
+          "hook": "美联储12月还要加息？渣打最新研报打破市场降息幻觉！",
+          "core_message": "核心通胀居高不下促使美联储维持鹰派立场，美元指数短线支撑强劲，散户需预防非美货币二次探底。",
+          "trading_opportunity": "逢低关注美元指数（USDX）多头突破机会，或锁定EUR/USD短线逢高做空机会。",
+          "best_platforms": [
+            "zhihu",
+            "youtube"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "高曝光/高转化",
+          "compliance_notes": "严禁承诺收益，提及杠杆时统一采用‘灵活杠杆’，避开‘包赚’表述。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4447042",
+        "https://www.investing.com/news/forex-news/asia-fx-weakens-as-high-oil-prices-weigh-dollar-edges-lower-in-holiday-trade-5052845"
+      ]
+    },
+    {
+      "id": 2,
+      "importance": 10,
+      "market": "韩国",
+      "event": "三星电子30万亿韩元派息引发15万亿韩元（112亿美元）外资换汇出境潮，USD/KRW挑战1340关口",
+      "source_titles": [
+        "[신윤우의 외환분석] 배당, 네고 대격돌의 파장은"
+      ],
+      "angles": [
+        {
+          "angle": "韩国散户实战：三星派息日如何利用USD/KRW波动进行波段操作",
+          "hook": "112亿美元外资换汇需求压境！韩元1340关口能否守住？",
+          "core_message": "巨额派息带来的美元买盘与出口商结汇盘在1340韩元附近激烈博弈，汇率短期波动率大增。",
+          "trading_opportunity": "关注USD/KRW在1340突破后的跟进机会，或通过体验账户模拟做空KRW相关对冲产品。",
+          "best_platforms": [
+            "youtube",
+            "instagram"
+          ],
+          "content_type": "短视频",
+          "estimated_reach": "韩国本土精准触达",
+          "compliance_notes": "引导用户注册体验账户进行模拟练习，不得出现‘入金’等字眼，统一用‘存入资金’。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4446909"
+      ]
+    },
+    {
+      "id": 3,
+      "importance": 9,
+      "market": "全球",
+      "event": "现货黄金单日大涨2.4%突破3640美元，黑五风险偏好与低吸买盘推动金价反弹",
+      "source_titles": [
+        "[뉴욕 금가격] AI株 강세 속 저가매수에 2.4% 상승",
+        "investingLive European session wrap: Post-Thanksgiving optimism lifts stocks, gold"
+      ],
+      "angles": [
+        {
+          "angle": "黄金突破新高逻辑解密：为何风险偏好上升期黄金依然受抄底资金青睐？",
+          "hook": "黄金暴涨2.4%冲上3640美元！现在进场是接盘还是顺势？",
+          "core_message": "避险需求与抗通胀资金在节后重新流入贵金属市场，技术面呈现逢低买入的强劲支撑。",
+          "trading_opportunity": "XAU/USD（现货黄金）回调至支撑位附近的逢低做多机会，注意设置严格止损。",
+          "best_platforms": [
+            "douyin",
+            "zhihu",
+            "youtube"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "极高热度",
+          "compliance_notes": "黄金属于高波动品种，需充分提示市场风险，严禁出现‘稳赚’‘保本’承诺。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4447031",
+        "https://investinglive.com/news/investinglive-european-session-wrap-post-thanksgiving-optimism-lifts-stocks-gold/"
+      ]
+    },
+    {
+      "id": 4,
+      "importance": 9,
+      "market": "全球",
+      "event": "美股黑色星期五AI芯片股狂欢，费城半导体指数大涨4.7%，科技股低吸买盘汹涌",
+      "source_titles": [
+        "[뉴욕마켓워치] 블프엔 AI주 쇼핑…주식·달러↑채권↓",
+        "[뉴욕증시] AI株 '블랙 프라이데이 쇼핑'…필리 반도체 지수 4.7%↑",
+        "[월가 톡톡] \"젠슨 황을 메뉴서 뺄수 없죠\"…美 식당의 복귀인사"
+      ],
+      "angles": [
+        {
+          "angle": "美股指数CFD实战：利用‘黑五效应’配置纳斯达克与半导体指数",
+          "hook": "黑五狂欢不买包，华尔街大牛都在疯抢NVIDIA与AI股票！",
+          "core_message": "AI概念股估值回调后吸引大量机构抄底，短线科技股指数反弹势头明确。",
+          "trading_opportunity": "通过股指CFD交易NAS100或US500，捕捉科技股反弹轮动行情。",
+          "best_platforms": [
+            "douyin",
+            "instagram"
+          ],
+          "content_type": "图文",
+          "estimated_reach": "高互动量",
+          "compliance_notes": "涉及股票指数CFD产品，须说明杠杆双刃剑属性，建议用户使用灵活杠杆管理风险。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4447044",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4447030",
+        ""
+      ]
+    },
+    {
+      "id": 5,
+      "importance": 8,
+      "market": "全球",
+      "event": "高盛预测EUR/USD年底反弹至1.12，但法国三季度GDP下修至-0.2%陷入萎缩",
+      "source_titles": [
+        "Goldman Sachs sees EUR/USD recovering toward 1.12 by year-end",
+        "France Q3 GDP revised lower as economic woes deepen"
+      ],
+      "angles": [
+        {
+          "angle": "机构看多与基本面下滑背离：EUR/USD能如高盛所愿反弹至1.12吗？",
+          "hook": "高盛喊话EUR/USD看涨至1.12，但法国GDP却在萎缩，该信谁？",
+          "core_message": "欧洲主要经济体陷入停滞，但美元回落预期支持机构的中长期看涨逻辑，散户应警惕宏观数据差带来的震荡洗盘。",
+          "trading_opportunity": "EUR/USD区间震荡策略，关注1.0800关键支撑位附近的做多信号。",
+          "best_platforms": [
+            "zhihu",
+            "youtube"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "中高专业人群",
+          "compliance_notes": "不得将机构预测作为保证获利的依据，提示用户自主决策风险。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://www.investing.com/news/forex-news/goldman-sachs-sees-eurusd-recovering-toward-112-by-yearend-93CH-5053234",
+        "https://investinglive.com/news/france-q3-gdp-revised-lower-as-economic-woes-deepen/"
+      ]
+    },
+    {
+      "id": 6,
+      "importance": 8,
+      "market": "全球",
+      "event": "美方秘密劝说委内瑞拉与伊拉克退出OPEC，国际原油价格在地缘与内部裂痕下震荡下行",
+      "source_titles": [
+        "[뉴욕유가] 중동 공급 불안과 OPEC 균열 재료 교차 속 하락",
+        "US reportedly urged Venezuela, Iraq to consider quitting OPEC earlier this year"
+      ],
+      "angles": [
+        {
+          "angle": "OPEC联盟裂痕加深，WTI原油CFD多空博弈交易指南",
+          "hook": "美国逼伊拉克退群？OPEC内部生变，原油跌破83美元大关！",
+          "core_message": "地缘溢价退潮结合OPEC内部配额裂痕，使原油市场面临供需与政治的双重偏空压力。",
+          "trading_opportunity": "WTI原油逢高做空，或在80-85美元区间实施高抛低吸网格策略。",
+          "best_platforms": [
+            "zhihu",
+            "douyin"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "大宗商品交易者",
+          "compliance_notes": "涉及地缘政治话题需保持客观中立，聚焦于价格走势与风险控制。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4447034",
+        "https://investinglive.com/news/us-reportedly-urged-venezuela-iraq-to-consider-quitting-opec-earlier-this-year/"
+      ]
+    },
+    {
+      "id": 7,
+      "importance": 8,
+      "market": "全球",
+      "event": "美国10月商品贸易逆差扩大至1495亿美元远超预期，GDP增长预期遭遇重创",
+      "source_titles": [
+        "October US advance goods trade balance -149.5B vs -133.0B expected"
+      ],
+      "angles": [
+        {
+          "angle": "解读美国贸易赤字走高对四季度GDP及美元中长期走势的潜伏影响",
+          "hook": "1495亿美元赤字砸盘！美国GDP要被拉下水了吗？",
+          "core_message": "巨额赤字将直接拖累四季度GDP初值，促使美联储在长远视角上重新评估经济韧性，抑制美元强劲势头。",
+          "trading_opportunity": "关注USD/JPY、USD/CAD等货币对的利空回调机会。",
+          "best_platforms": [
+            "zhihu"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "专业宏观交易者",
+          "compliance_notes": "严禁对交易结果做出任何无风险保障的宣传。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/october-us-advance-goods-trade-balance-149-5b-vs-133-0b-expected/"
+      ]
+    },
+    {
+      "id": 8,
+      "importance": 7,
+      "market": "韩国",
+      "event": "韩国央行发出鹰派信号，市场讨论设立100万亿韩元外汇与股市稳定基金",
+      "source_titles": [
+        "[정선영의 마켓산책] 환시개입으로 비춰본 증안펀드",
+        "[노현우의 채권분석] 두 내러티브 속 더 굳게 '움켜쥔 손'"
+      ],
+      "angles": [
+        {
+          "angle": "韩国监管当局手握干预重器，韩元交叉盘（EUR/KRW, JPY/KRW）波动应对策略",
+          "hook": "100万亿稳定基金准备就绪？韩国当局打击外资恶炒韩元！",
+          "core_message": "韩国央行鹰派态度与干预预期将压制韩元无序贬值，防止资本外流保护本国市场。",
+          "trading_opportunity": "关注韩元相关交叉盘的高波动率逆势交易机会。",
+          "best_platforms": [
+            "youtube",
+            "instagram"
+          ],
+          "content_type": "短视频",
+          "estimated_reach": "韩国本地交易散户",
+          "compliance_notes": "遵守当地外汇监管说明，引流至MC Prime演示平台体验。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4446979",
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4446899"
+      ]
+    },
+    {
+      "id": 9,
+      "importance": 7,
+      "market": "全球",
+      "event": "美国10年期国债收益率上涨8.8bp止步八连跌，熊市陡峭化再现",
+      "source_titles": [
+        "[뉴욕채권] 블프 환호한 증시에 10년물 금리 8.8bp 상승",
+        "U.S. Treasury yields rally, snapping eight-day rally as bond bulls pause"
+      ],
+      "angles": [
+        {
+          "angle": "新手科普：美债收益率反弹对外汇市场货币对走势的传导机制",
+          "hook": "美债收益率8连跌终结！这对你的外汇持仓意味着什么？",
+          "core_message": "国债收益率回升利好美利差优势，短线对美日（USD/JPY）等高利差货币对形成支撑。",
+          "trading_opportunity": "做多USD/JPY或做空美债CFD（US10Y）。",
+          "best_platforms": [
+            "douyin",
+            "zhihu"
+          ],
+          "content_type": "科普",
+          "estimated_reach": "广覆盖入门人群",
+          "compliance_notes": "基础教学向内容，轻度引导注册体验账户练手。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://news.einfomax.co.kr/news/articleView.html?idxno=4447032",
+        "https://www.investing.com/news/forex-news/global-bonds-cap-strong-weekly-rally-after-aidriven-flight-to-safety-5053055"
+      ]
+    },
+    {
+      "id": 10,
+      "importance": 7,
+      "market": "全球",
+      "event": "法国与西班牙11月CPI显著回落放缓，欧洲央行降息预期重燃",
+      "source_titles": [
+        "Spanish inflation comes off the boil in November, offering some respite for the ECB",
+        "France inflation undershoots estimates in November as energy and services price pressures ease"
+      ],
+      "angles": [
+        {
+          "angle": "通胀快速回落VS经济疲软：欧洲央行降息路径将如何重塑欧元走势？",
+          "hook": "法国西班牙通胀双双跳水，欧洲央行降息大门彻底打开？",
+          "core_message": "通胀压力的减缓赋予ECB更大降息空间，欧系货币短线受制于利差劣势。",
+          "trading_opportunity": "逢高做空EUR/GBP或EUR/USD短线获利。",
+          "best_platforms": [
+            "zhihu",
+            "youtube"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "中等",
+          "compliance_notes": "使用合规交易用语，不承诺投资回报。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/spanish-inflation-comes-off-the-boil-in-november-offering-some-respite-for-the-ecb/",
+        "https://investinglive.com/news/france-inflation-undershoots-estimates-in-november-as-energy-and-services-price-pressures-ease/"
+      ]
+    },
+    {
+      "id": 11,
+      "importance": 6,
+      "market": "全球",
+      "event": "英镑（GBP/USD）在风险偏好修复中反弹，抵消美联储重构定价冲击",
+      "source_titles": [
+        "Sterling today: Pound edges higher as risk rebound offsets Fed repricing"
+      ],
+      "angles": [
+        {
+          "angle": "英镑/美元（GBP/USD）高贝塔属性解析：如何利用市场情绪修复做多？",
+          "hook": "抗跌神兽英镑！美联储鹰派声中凭什么逆势走高？",
+          "core_message": "英国央行维持相对高利率与全球股市风险偏好回暖共同为英镑提供抗跌韧性。",
+          "trading_opportunity": "做多GBP/USD或GBP/JPY交叉盘。",
+          "best_platforms": [
+            "instagram",
+            "douyin"
+          ],
+          "content_type": "图文",
+          "estimated_reach": "短线交易爱好者",
+          "compliance_notes": "提示交叉盘的高波动风险，建议合理配置灵活杠杆。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-risk-rebound-offsets-fed-repricing-5053272"
+      ]
+    },
+    {
+      "id": 12,
+      "importance": 6,
+      "market": "全球",
+      "event": "德国11月失业人数增幅超预期，劳动力市场疲态凸显欧洲龙头动能不足",
+      "source_titles": [
+        "Germany unemployment rises more than expected in November as labour market struggles persist"
+      ],
+      "angles": [
+        {
+          "angle": "德国经济引擎失速：从就业数据看德指（GER40）与欧元的下行风险",
+          "hook": "欧洲大哥也撑不住了？德国失业人数狂飙超预期！",
+          "core_message": "德国劳动力市场恶化证明欧洲核心经济体衰退风险未消除，承压欧系资产。",
+          "trading_opportunity": "关注德指GER40做空或对冲操作。",
+          "best_platforms": [
+            "zhihu"
+          ],
+          "content_type": "深度",
+          "estimated_reach": "股指与外汇宏观交易者",
+          "compliance_notes": "文末轻度提示MC Prime提供灵活杠杆交易体验账户。"
+        }
+      ],
+      "sensitive": false,
+      "source_links": [
+        "https://investinglive.com/news/germany-unemployment-rises-more-than-expected-in-november-as-labour-market-struggles-persist/"
+      ]
+    }
+  ]
+}
